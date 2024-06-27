@@ -1,0 +1,94 @@
+@font-face {
+    font-family: "Nami W04 Bold";
+    src: url("../fonts/Nami W04 Bold.woff2") format("woff2");
+}
+
+.navbar {
+    background-color: white;
+    font-family: "Nami W04 Bold";
+}
+
+.navbar-title {
+    font-size: 36px;
+    color:  #2d6852;
+    text-transform: uppercase;
+}
+
+.navbar-nav {
+    font-size: 22px;
+}
+
+h2 {
+    color: #a95026;
+}
+
+.info-panel {
+    background-color: #c8d583;
+    display: flex;
+    flex-direction: column;
+    color: black;
+    padding: 4px 10px 4px 10px;
+    font-size: larger;
+    font-family: Arial;
+}
+
+.info-top, .info-bottom {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.info-top {
+    font-weight: bold;
+}
+
+.taxon-name {
+    font-style: italic;
+}
+
+.info-bottom {
+    font-style: italic;
+}
+
+
+.navbar a:hover {
+    color: #444;
+}
+
+.navbar a.nav-link {
+    color: #505050;
+}
+
+.navbar a.nav-link.active {
+    color: black;
+    text-decoration: underline;
+}
+
+.navbar-container {
+    flex-direction: column;
+}
+
+.navbar-brand-container {
+    position: relative;
+}
+
+.navbar-logo {
+    max-height: 80px;
+    position: absolute;
+    left: -5rem;
+    top: -5px;
+}
+
+.tab-index {
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+}
+
+.tab-index > * {
+    margin: 3px;
+}
+
+.tab-active {
+    outline: #c8d583 3px dotted;
+}
