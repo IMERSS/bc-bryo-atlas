@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+  pre-render: generate_pages.R
+  post-render: post_build.R
+
+website:
+  title: "BC Bryo Guide"
+  favicon: "img/bryo logo.jpg"
+  search: false
+  navbar:
+    logo: "img/bryo logo.jpg"
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Mosses
+        href: mosses.qmd
+      - text: Liverworts
+        href: liverworts.qmd
+      - text: Hornworts
+        href: hornworts.qmd
+      - text: Atlas
+        href: atlas.qmd
+      - text: Keys
+        href: keys.qmd
+      - text: Resources
+        href: resources.qmd
+format:
+  html:
+    theme: [flatly, css/theme-light.scss]
+    css: [css/style.css, https://use.fontawesome.com/releases/v6.0.0/css/all.css]

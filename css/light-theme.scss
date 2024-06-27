@@ -1,0 +1,27 @@
+/*-- scss:defaults --*/
+// Base document colors
+$primary:     #222;    
+$secondary:   #376D61; 
+$link-color:  $secondary;
+
+$body-color:  #222;
+$navbar-fg:   #FFF;
+$navbar-hl:   lighten($secondary, 20%);
+
+/* These definitions just don't work - this file doesn't actually get included despite being listed in _quarto.yml */
+$navbar-light-hover-color, $navbar-dark-hover-color: black;
+
+$navbar-light-active-color, $navbar-dark-active-color: gray;
+
+/*-- scss:rules --*/
+
+h1, .h1{
+  color: $secondary;
+}
+
+/* ---------- TOC ---------- */
+#TOC {
+  top: 40%;
+  position: fixed;
+  width: 210px;
+}

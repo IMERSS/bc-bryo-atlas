@@ -1,0 +1,43 @@
+---
+title: Diplophyllum albicans
+categories:
+  - Marchantiophyta
+---
+
+<div class="info-panel">
+ <div class="info-top">
+  <div class="taxon-scientific"><span class="taxon-name">Diplophyllum albicans</span> <span class="taxon-authority"></span> <span class="taxon-family">()</span></div>
+  <div class="taxon-common">White earwort</div>
+ </div>
+ <div class="info-bottom">
+  <div class="taxon-qnd"></div>
+  <div class="taxon-abundance">frequent</div>
+ </div>
+</div>
+
+<div class="tab-index">
+ <div class="tab-eye tab-active"><img src="../img/bryo guide eye.png"/></div>
+ <div class="tab-microscope"><img src="../img/bryo guide microscope.png"/></div>
+</div>
+
+## Distinguishing Features
+
+A frequent component of dark and wet forests, D. albicans forms luxuriant patches of little branched horizontal shoots (to about 3 cm long) growing from moist substrates. The leaves are divided into two lobes that appear to overlap-- both are much longer than wide and the larger lower lobe has a distinct linear patch of clear cells (the &quot;vitta&quot;) that can see seen with a hand lens.
+
+## Similar species
+
+Distinct from members of the round-lobed genus Scapania on account of its elongate lobes, this species is most likely to be confused with others in the genus Diplophyllum. Neither D. taxifolium or D. obtusifolium have the line of pale cells in the lower lobe.
+
+## Habitat
+
+Moist to wet, often shady rock outcrops, boulders, cliffs, tree trunks, decayed wood, and cutbanks in the lowland, montane, and subalpine zones; common in coastal BC, rare in c, nw, and se BC.
+
+## Associated species
+
+Diplophyllum taxifolium, Pogonatum contortum
+
+<div class="taxon-footer">
+ <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>2024-02-26</span></div>
+</div>
+

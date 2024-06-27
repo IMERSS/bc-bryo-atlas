@@ -1,0 +1,43 @@
+---
+title: Douinia ovata
+categories:
+  - Marchantiophyta
+---
+
+<div class="info-panel">
+ <div class="info-top">
+  <div class="taxon-scientific"><span class="taxon-name">Douinia ovata</span> <span class="taxon-authority"></span> <span class="taxon-family">()</span></div>
+  <div class="taxon-common">Waxy earwort</div>
+ </div>
+ <div class="info-bottom">
+  <div class="taxon-qnd">Pointy elongate lobes</div>
+  <div class="taxon-abundance">frequent</div>
+ </div>
+</div>
+
+<div class="tab-index">
+ <div class="tab-eye tab-active"><img src="../img/bryo guide eye.png"/></div>
+ <div class="tab-microscope"><img src="../img/bryo guide microscope.png"/></div>
+</div>
+
+## Distinguishing Features
+
+An occasional species that becomes increasingly prominent in moist microhabitats, this dull green liverwort with elongate leaves made up of unequal lobes forms scrambling stems over tree trunks and in rock crevices. Readily standing out on account of its matte texture, the pointed lobe tips and long triangular form of said lobes makes it unique among other unequally-lobed liverworts.
+
+## Similar species
+
+The elongate pointed lobes of Douinia are distinct from the rounded lobes of Scapania and the blunt tips on the lobes of Diplophyllum and Macrodiplophyllum.
+
+## Habitat
+
+Tree trunks (both deciduous and coniferous), humus, rock outcrops, boulders, cliffs, decayed wood, and bogs in the lowland and montane (rare) zones; frequent in coastal BC; rare in se BC [Mica Creek].
+
+## Associated species
+
+Frullania sp., Ulota sp., Metzgeria sp.
+
+<div class="taxon-footer">
+ <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>2024-02-26</span></div>
+</div>
+

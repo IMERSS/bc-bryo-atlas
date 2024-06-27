@@ -1,0 +1,43 @@
+---
+title: Radula bolanderi
+categories:
+  - Marchantiophyta
+---
+
+<div class="info-panel">
+ <div class="info-top">
+  <div class="taxon-scientific"><span class="taxon-name">Radula bolanderi</span> <span class="taxon-authority"></span> <span class="taxon-family">()</span></div>
+  <div class="taxon-common"></div>
+ </div>
+ <div class="info-bottom">
+  <div class="taxon-qnd"></div>
+  <div class="taxon-abundance">frequent</div>
+ </div>
+</div>
+
+<div class="tab-index">
+ <div class="tab-eye tab-active"><img src="../img/bryo guide eye.png"/></div>
+ <div class="tab-microscope"><img src="../img/bryo guide microscope.png"/></div>
+</div>
+
+## Distinguishing Features
+
+A frequent and tiny epiphytic component of wet forests, F. bolanderi has appressed shoots less than 1 mm wide and leaves that barely overlap. It is most easily recognized by the presence of male shoots with tightly overlapping leaves and a perfect pleat down the middle (see photo).
+
+## Similar species
+
+With its small size, R. bolanderi only overlaps with the most miniscule of epiphytes in its habitat. Species of Frullania can be very small, but hand lens or microscope inspection of their undersides show the presence of an underleaf and &quot;lobule&quot;, whereas R. bolanderi lacks both features and has a small pocket at the base of its leaf. The very rare Cololejeunea macounii also has sub-mm-wide shoots and distant leaves with a pocket at their bottom, but close microscopic inspection of that species shows teeth on the pocket. In R. bolanderi, the margin of the pocket is smooth.
+
+## Habitat
+
+Tree trunks, rock outcrops, and cliffs in the lowland, montane, and subalpine zones; frequent in coastal BC.
+
+## Associated species
+
+
+
+<div class="taxon-footer">
+ <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>2024-02-27</span></div>
+</div>
+

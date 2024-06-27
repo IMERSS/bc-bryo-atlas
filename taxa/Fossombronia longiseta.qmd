@@ -1,0 +1,43 @@
+---
+title: Fossombronia longiseta
+categories:
+  - Marchantiophyta
+---
+
+<div class="info-panel">
+ <div class="info-top">
+  <div class="taxon-scientific"><span class="taxon-name">Fossombronia longiseta</span> <span class="taxon-authority"></span> <span class="taxon-family">()</span></div>
+  <div class="taxon-common">Long-bristled Frillwort</div>
+ </div>
+ <div class="info-bottom">
+  <div class="taxon-qnd">Sunny Liverwort Lettuce</div>
+  <div class="taxon-abundance">frequent</div>
+ </div>
+</div>
+
+<div class="tab-index">
+ <div class="tab-eye tab-active"><img src="../img/bryo guide eye.png"/></div>
+ <div class="tab-microscope"><img src="../img/bryo guide microscope.png"/></div>
+</div>
+
+## Distinguishing Features
+
+Often obscured by other bryophytes and small grasses on seeping open soils or protected under south-facing rock overhangs, this translucent and frilly green occasional liverwort forms lettuce-like patches (~3-10 mm wide) of sinuous and continuous leaves. Functionally annuals, plants of F. longiseta are so named for the short-lived but tall (up to 3cm), sprout-like sporophyte that emerges in spring. Microscopic examination of the spores are required for identification.
+
+## Similar species
+
+Can only be distinguished from F. foveolata based on microscopic spore characters.
+
+## Habitat
+
+
+
+## Associated species
+
+
+
+<div class="taxon-footer">
+ <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>2024-02-27</span></div>
+</div>
+

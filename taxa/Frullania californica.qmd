@@ -1,0 +1,43 @@
+---
+title: Frullania californica
+categories:
+  - Marchantiophyta
+---
+
+<div class="info-panel">
+ <div class="info-top">
+  <div class="taxon-scientific"><span class="taxon-name">Frullania californica</span> <span class="taxon-authority"></span> <span class="taxon-family">()</span></div>
+  <div class="taxon-common">California Scalewort</div>
+ </div>
+ <div class="info-bottom">
+  <div class="taxon-qnd"></div>
+  <div class="taxon-abundance">frequent</div>
+ </div>
+</div>
+
+<div class="tab-index">
+ <div class="tab-eye tab-active"><img src="../img/bryo guide eye.png"/></div>
+ <div class="tab-microscope"><img src="../img/bryo guide microscope.png"/></div>
+</div>
+
+## Distinguishing Features
+
+Tiny (&lt;1mm wide shoots) and often camouflaged against bark, this uncommon species of coastal forests is variably green and red, modestly branched and marked by upper leaf lobes that only overlap along their lower inside edge. When looked at from below, the tips of the upper leaf lobe are rounded and the edges of the underleaf are planar.
+
+## Similar species
+
+At first glance, this species is hard to distinguish from other Frullania species in the region, but like most liverworts, small but visible details hold the key. F. californica lacks the free &quot;flagellate&quot; branchlets of F. bolanderi that stick out so prominently from a similair bark substrate. The leaf tips are rounded in F. californica, whereas in F. nisquallensis and occasional F. franciscana, they are pointed. In plants of F. franciscana where the leaf tips are rounded, a microscope is neccessary to distinguish it from F. californica based on cellular characters-- dark eye spots (&quot;ocelli&quot;) are present in a line in the former, while they are scattered in the latter.
+
+## Habitat
+
+Tree trunks (esp. deciduous trees, cedar), branches, decayed wood, rock outcrops, and cliffs in the lowland zone; infrequent in coastal BC.
+
+## Associated species
+
+
+
+<div class="taxon-footer">
+ <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>2024-02-27</span></div>
+</div>
+

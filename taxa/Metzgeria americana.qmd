@@ -1,0 +1,43 @@
+---
+title: Metzgeria americana
+categories:
+  - Marchantiophyta
+---
+
+<div class="info-panel">
+ <div class="info-top">
+  <div class="taxon-scientific"><span class="taxon-name">Metzgeria americana</span> <span class="taxon-authority"></span> <span class="taxon-family">()</span></div>
+  <div class="taxon-common"></div>
+ </div>
+ <div class="info-bottom">
+  <div class="taxon-qnd"></div>
+  <div class="taxon-abundance">frequent</div>
+ </div>
+</div>
+
+<div class="tab-index">
+ <div class="tab-eye tab-active"><img src="../img/bryo guide eye.png"/></div>
+ <div class="tab-microscope"><img src="../img/bryo guide microscope.png"/></div>
+</div>
+
+## Distinguishing Features
+
+A rare but luxuriant (up to 3mm wide), fuzzy and frilly Metzgeria of extremely moist coastal forests, this species forms large convoluted ribbons that jut free some distance from their subsrate. Up close, M. americana is marked by hairs on all surfaces and an excessively ruffled margin.
+
+## Similar species
+
+With its large size and hairs all over the thallus, M. americana could only be mistaken for M. pubescens. Confident distinction of the two requires a microscope.
+
+## Habitat
+
+Wet coastal forests on trees and rocks.
+
+## Associated species
+
+
+
+<div class="taxon-footer">
+ <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>2024-02-27</span></div>
+</div>
+

@@ -1,0 +1,43 @@
+---
+title: Riccia fluitans
+categories:
+  - Marchantiophyta
+---
+
+<div class="info-panel">
+ <div class="info-top">
+  <div class="taxon-scientific"><span class="taxon-name">Riccia fluitans</span> <span class="taxon-authority"></span> <span class="taxon-family">()</span></div>
+  <div class="taxon-common">Floating crystalwort</div>
+ </div>
+ <div class="info-bottom">
+  <div class="taxon-qnd">Aquatic and thin Riccia</div>
+  <div class="taxon-abundance">frequent</div>
+ </div>
+</div>
+
+<div class="tab-index">
+ <div class="tab-eye tab-active"><img src="../img/bryo guide eye.png"/></div>
+ <div class="tab-microscope"><img src="../img/bryo guide microscope.png"/></div>
+</div>
+
+## Distinguishing Features
+
+Infrequent but abundant where it does occur, this aquatic, narrow and elongate Riccia floats in tangles of duckweed and other aquatic plants. The thallus can grow up to 3cm long and but is always very narrow (&lt;&lt;5mm) and marked by interweaving lines on its upper surface. It should be noted R. fluitans can grow in terrestrial habitats, especially those that fringe water bodies.
+
+## Similar species
+
+Ricciocarpos natans is another aquatic thalloid liverwort,but it has a very wide thallus and forms rosettes, lacking the linear form of R. fluitans. Riccia rhenena, a taxon often treated as a subspecies is indistinguishable without detailed microscopy.
+
+## Habitat
+
+Floating (subsurface) in nutrient- or mineral-rich, stagnant or slow-moving water of lakeshores, ponds, marshes, and ditches, or stranded on muddy shorelines, in the lowland, steppe, and montane zones; locally frequent in sc and sw BC, rare in ne BC [n Rocky Mts.].
+
+## Associated species
+
+Ricciocarpos natans, Duckweed
+
+<div class="taxon-footer">
+ <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>2024-02-25</span></div>
+</div>
+

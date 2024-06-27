@@ -1,0 +1,43 @@
+---
+title: Hylocomium splendens
+categories:
+  - Bryophyta
+---
+
+<div class="info-panel">
+ <div class="info-top">
+  <div class="taxon-scientific"><span class="taxon-name">Hylocomium splendens</span> <span class="taxon-authority"></span> <span class="taxon-family">()</span></div>
+  <div class="taxon-common">Stairstep Moss</div>
+ </div>
+ <div class="info-bottom">
+  <div class="taxon-qnd">Its name says it all</div>
+  <div class="taxon-abundance">frequent</div>
+ </div>
+</div>
+
+<div class="tab-index">
+ <div class="tab-eye tab-active"><img src="../img/bryo guide eye.png"/></div>
+ <div class="tab-microscope"><img src="../img/bryo guide microscope.png"/></div>
+</div>
+
+## Distinguishing Features
+
+This is one of the most abundant mosses in our region, sometimes forming large carpets on the forest floor. It takes its name from its growth form, with its wide lacy shoots appearing as one or more horizontal “steps” above the substrate. Each step represents one year of growth. The stem is reddish, and the branches and leaves are yellowish-green to dark green.
+
+## Similar species
+
+Pleurozium schreberi also grows as carpets, but it is less finely branched, and does not “step”. Thuidium is also much-branched, but does not step.
+
+## Habitat
+
+
+
+## Associated species
+
+Kindbergia oregana, Rhytidiadelphus loreus, Pleurzozium schreberi, Dicranum scoparium, Plagiothecium undulatum and other forest floor species.
+
+<div class="taxon-footer">
+ <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell, John Reynolds, Brian Starzomski, Daniel Tucker</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>2024-02-23</span></div>
+</div>
+

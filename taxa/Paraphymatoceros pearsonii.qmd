@@ -1,0 +1,43 @@
+---
+title: Paraphymatoceros pearsonii
+categories:
+  - Anthocerotophyta
+---
+
+<div class="info-panel">
+ <div class="info-top">
+  <div class="taxon-scientific"><span class="taxon-name">Paraphymatoceros pearsonii</span> <span class="taxon-authority">(M.Howe) J.C.Villarreal &amp; Cargill</span> <span class="taxon-family">()</span></div>
+  <div class="taxon-common">Pearson's Phaeoceros</div>
+ </div>
+ <div class="info-bottom">
+  <div class="taxon-qnd">Green Thallus Yellow Horn</div>
+  <div class="taxon-abundance">frequent</div>
+ </div>
+</div>
+
+<div class="tab-index">
+ <div class="tab-eye tab-active"><img src="../img/bryo guide eye.png"/></div>
+ <div class="tab-microscope"><img src="../img/bryo guide microscope.png"/></div>
+</div>
+
+## Distinguishing Features
+
+A rare hornwort with a relatively undissected thallus, it can form large populations of coin-sized matte green plants over seeping fine soils and vernal pools. At maturity the yellowed horns are less than 5cm tall and hold yellow spores.
+
+## Similar species
+
+Lacking the bulbils of Phymatoceros bulbiculosus and possessing yellowed horns at maturity, P. pearsonii could only be mistaken for Phaeoceros oreganus. The distinction is microscopic and based on the colour and ornamentation of the spores.
+
+## Habitat
+
+
+
+## Associated species
+
+
+
+<div class="taxon-footer">
+ <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>2024-02-27</span></div>
+</div>
+

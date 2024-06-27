@@ -1,0 +1,43 @@
+---
+title: Porella roellii
+categories:
+  - Marchantiophyta
+---
+
+<div class="info-panel">
+ <div class="info-top">
+  <div class="taxon-scientific"><span class="taxon-name">Porella roellii</span> <span class="taxon-authority"></span> <span class="taxon-family">()</span></div>
+  <div class="taxon-common"></div>
+ </div>
+ <div class="info-bottom">
+  <div class="taxon-qnd"></div>
+  <div class="taxon-abundance">frequent</div>
+ </div>
+</div>
+
+<div class="tab-index">
+ <div class="tab-eye tab-active"><img src="../img/bryo guide eye.png"/></div>
+ <div class="tab-microscope"><img src="../img/bryo guide microscope.png"/></div>
+</div>
+
+## Distinguishing Features
+
+An occasional species of exposed rocks, P. roelli is typically a yellow-brownish and glossy plant that has branches few and far between. From the underside with a hand lens, the underlobes are narrower than the underleaf (see photo). Many describe this species as having a &quot;peppery&quot; taste compared to other Porella species, though it should not be consumed.
+
+## Similar species
+
+The typical rock habitat, glossy, little-branched shoots and narrow underleaves distinguish P. roellii from P. navicularis, with its wide underleaf, and P. cordaeana, with its matte shoots.
+
+## Habitat
+
+Dry to mesic, shady rock outcrops, boulders, cliffs, tree trunks (esp. deciduous trees), and occasionally decayed wood, humus, and mineral soil in the lowland and montane zones; frequent in coastal BC, rare in c [Smithers area] and se BC.
+
+## Associated species
+
+
+
+<div class="taxon-footer">
+ <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>2024-02-27</span></div>
+</div>
+

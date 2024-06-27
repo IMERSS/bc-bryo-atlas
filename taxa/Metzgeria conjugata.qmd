@@ -1,0 +1,43 @@
+---
+title: Metzgeria conjugata
+categories:
+  - Marchantiophyta
+---
+
+<div class="info-panel">
+ <div class="info-top">
+  <div class="taxon-scientific"><span class="taxon-name">Metzgeria conjugata</span> <span class="taxon-authority"></span> <span class="taxon-family">()</span></div>
+  <div class="taxon-common">Rock veilwort</div>
+ </div>
+ <div class="info-bottom">
+  <div class="taxon-qnd">Paired Straight Hairs Metzgeria</div>
+  <div class="taxon-abundance">frequent</div>
+ </div>
+</div>
+
+<div class="tab-index">
+ <div class="tab-eye tab-active"><img src="../img/bryo guide eye.png"/></div>
+ <div class="tab-microscope"><img src="../img/bryo guide microscope.png"/></div>
+</div>
+
+## Distinguishing Features
+
+A frequent and elongate simple thalloid liverwort in moist forests and shaded rock outcrops, the translucent green M. conjugata can occur as isolated shoots (1-2 mm wide and many centimeter long) worming their way through other bryophytes or as luxuriant and extensive layers cascading over the substrate. Like all members of the genus, it has a continuous, thin wing of photosynthetic tissue that run along a midrib, but close inspection of the underside reveals pairs of straight hairs along the margins as well as the midrib. You might well see spherical structures under there as well-- these are specialized structures that hold the reproductive organs.
+
+## Similar species
+
+Amongst the thalloid bryophytes of the region, it is unlikely to be mistaken for any other genus on account of its small size and thin wings. Species of Riccardia and Fossombronia are of similar size, but the former lacks a midrib and the latter has a ruffled, leafy appearance in contrast to the flattened thallus of M. conjugata. Most other species within the genus Metzgeria can be seperated from it based on features of the hairs. M. americana and M. pubescens have hairs all over both surfaces, while in M. conjugata they are confined to the underside along the margins and midrib. M. leptoneura has a similair arrangement, but in that species, the hairs are curved into a C-shape, not straight. M. temperata can have identical hair arrangement to M. conjugata, but the shoots have tapering tips that are frequently fringed with asexual reproductive bodies (&quot;gemmae&quot;). M. lindbergii is impossible to distinguish without a microscope.
+
+## Habitat
+
+Mesic to wet, usually shady rock outcrops, cliffs, boulders, waterfall spray zones, and tree trunks in the lowland zone; frequent in coastal BC.
+
+## Associated species
+
+
+
+<div class="taxon-footer">
+ <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>2024-02-27</span></div>
+</div>
+

@@ -1,0 +1,43 @@
+---
+title: Riccia frostii
+categories:
+  - Marchantiophyta
+---
+
+<div class="info-panel">
+ <div class="info-top">
+  <div class="taxon-scientific"><span class="taxon-name">Riccia frostii</span> <span class="taxon-authority"></span> <span class="taxon-family">()</span></div>
+  <div class="taxon-common">Frost's crystalwort</div>
+ </div>
+ <div class="info-bottom">
+  <div class="taxon-qnd">Blood Red Riccia Coins</div>
+  <div class="taxon-abundance">frequent</div>
+ </div>
+</div>
+
+<div class="tab-index">
+ <div class="tab-eye tab-active"><img src="../img/bryo guide eye.png"/></div>
+ <div class="tab-microscope"><img src="../img/bryo guide microscope.png"/></div>
+</div>
+
+## Distinguishing Features
+
+An infrequent species that forms massive populations on seasonally exposed lake and river margins, R. frostii forms 1-2cm wide red and green rosettes with a perforated upper surface at maturity. The thallus segments are typically narrow and fork apart and fit together in an orderly fashion, giving the rosettes a circular, coin-shaped appearance. Male plants are a bright, bloody red and the female plants a less-dramatic green.
+
+## Similar species
+
+No other regional species shows the bright red colour of the male plants. Female plants could be mistaken for coocurring R. cavernosa or R. glauca, but both those species lack the coin-shaped rosettes of R. frostii.
+
+## Habitat
+
+Moist to wet mineral soil of riverbanks and lake margins from low elevation to steppe and montane zones; infrequent in sw, sc BC.
+
+## Associated species
+
+Phascum cuspidatum, Riccia cavernosa, Ricciacarpos natans, Ephemerum serrulatum, Physcomitrella patens
+
+<div class="taxon-footer">
+ <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>2024-02-26</span></div>
+</div>
+

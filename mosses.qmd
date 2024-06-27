@@ -1,0 +1,8 @@
+---
+title: "Mosses"
+listing:
+  contents: taxa
+  type: grid
+  include:
+    categories: "Bryophyta"
+---

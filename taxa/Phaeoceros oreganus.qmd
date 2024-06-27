@@ -1,0 +1,43 @@
+---
+title: Phaeoceros oreganus
+categories:
+  - Anthocerotophyta
+---
+
+<div class="info-panel">
+ <div class="info-top">
+  <div class="taxon-scientific"><span class="taxon-name">Phaeoceros oreganus</span> <span class="taxon-authority">(Austin) Hässel</span> <span class="taxon-family">()</span></div>
+  <div class="taxon-common"></div>
+ </div>
+ <div class="info-bottom">
+  <div class="taxon-qnd">Green Thallus Yellow Horn II</div>
+  <div class="taxon-abundance">frequent</div>
+ </div>
+</div>
+
+<div class="tab-index">
+ <div class="tab-eye tab-active"><img src="../img/bryo guide eye.png"/></div>
+ <div class="tab-microscope"><img src="../img/bryo guide microscope.png"/></div>
+</div>
+
+## Distinguishing Features
+
+
+
+## Similar species
+
+Lacking the bulbils of Phymatoceros bulbiculosus and possessing yellowed horns at maturity, P. oreganus could only be mistaken for Paraphymatoceros pearsonii. The distinction is microscopic and based on the colour and ornamentation of the spores.
+
+## Habitat
+
+
+
+## Associated species
+
+
+
+<div class="taxon-footer">
+ <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>2024-02-27</span></div>
+</div>
+

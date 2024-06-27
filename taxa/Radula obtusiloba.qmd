@@ -1,0 +1,43 @@
+---
+title: Radula obtusiloba
+categories:
+  - Marchantiophyta
+---
+
+<div class="info-panel">
+ <div class="info-top">
+  <div class="taxon-scientific"><span class="taxon-name">Radula obtusiloba</span> <span class="taxon-authority"></span> <span class="taxon-family">()</span></div>
+  <div class="taxon-common"></div>
+ </div>
+ <div class="info-bottom">
+  <div class="taxon-qnd"></div>
+  <div class="taxon-abundance">frequent</div>
+ </div>
+</div>
+
+<div class="tab-index">
+ <div class="tab-eye tab-active"><img src="../img/bryo guide eye.png"/></div>
+ <div class="tab-microscope"><img src="../img/bryo guide microscope.png"/></div>
+</div>
+
+## Distinguishing Features
+
+A luxuriant and infrequent species of wet coasts and exceedingly moist canyon microhabitats, R. obtusiloba is a much branched plant with triangular shoots 5-10 cm long and free from the rocks and logs from which they typically grow. Up close, you should see branches emerging out of every leaf along the main stem, producing a feather-like form.
+
+## Similar species
+
+
+
+## Habitat
+
+Moist to wet, shady rock outcrops, cliffs, and occasionally humus and decayed wood in the lowland and  montane zones; infrequent in coastal BC.
+
+## Associated species
+
+
+
+<div class="taxon-footer">
+ <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>2024-02-27</span></div>
+</div>
+

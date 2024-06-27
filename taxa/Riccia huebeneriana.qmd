@@ -1,0 +1,43 @@
+---
+title: Riccia huebeneriana
+categories:
+  - Marchantiophyta
+---
+
+<div class="info-panel">
+ <div class="info-top">
+  <div class="taxon-scientific"><span class="taxon-name">Riccia huebeneriana</span> <span class="taxon-authority"></span> <span class="taxon-family">()</span></div>
+  <div class="taxon-common">Violet crystalwort</div>
+ </div>
+ <div class="info-bottom">
+  <div class="taxon-qnd"></div>
+  <div class="taxon-abundance">frequent</div>
+ </div>
+</div>
+
+<div class="tab-index">
+ <div class="tab-eye tab-active"><img src="../img/bryo guide eye.png"/></div>
+ <div class="tab-microscope"><img src="../img/bryo guide microscope.png"/></div>
+</div>
+
+## Distinguishing Features
+
+A rare species that forms small green-to-puple-tinged rosettes (&lt;1cm) of narrow and porous thallus segments on moist, seasonally exposed fine sediments. Up close, the plants have a perforated upper surface at maturity with an obvious groove towards its tip and swollen margins.
+
+## Similar species
+
+Riccia cavernosa and R. frostii are the only other regional species with a porous or perforated upper surface, but neither of these species have the grooves of R. huebeneriana. Young plants may resemeble R. sorocarpa, but that species has a wider thallus segments and a deep groove that runs the entire length of the thallus, while thallus segments of R. beyrichiana are narrow and the groove is only obvious near the apex. R. beyrichiana has similair colouration, but features wider thallus segments fringed by fine, clear, conical appendages.
+
+## Habitat
+
+Moist to wet mineral soil of freshwater shorelines and pond margins at low elevation, rare in sw BC.
+
+## Associated species
+
+Philonotis fontana, Gemmabryum barnesii
+
+<div class="taxon-footer">
+ <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>2024-02-25</span></div>
+</div>
+

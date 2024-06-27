@@ -1,0 +1,43 @@
+---
+title: Riccia beyrichiana
+categories:
+  - Marchantiophyta
+---
+
+<div class="info-panel">
+ <div class="info-top">
+  <div class="taxon-scientific"><span class="taxon-name">Riccia beyrichiana</span> <span class="taxon-authority"></span> <span class="taxon-family">()</span></div>
+  <div class="taxon-common">Purple crystalwort</div>
+ </div>
+ <div class="info-bottom">
+  <div class="taxon-qnd"></div>
+  <div class="taxon-abundance">frequent</div>
+ </div>
+</div>
+
+<div class="tab-index">
+ <div class="tab-eye tab-active"><img src="../img/bryo guide eye.png"/></div>
+ <div class="tab-microscope"><img src="../img/bryo guide microscope.png"/></div>
+</div>
+
+## Distinguishing Features
+
+Ephemeral and rare, R. beyrichiana forms small (&lt;1cm) and often incomplete green-to-purple rosettes on fine, seasonally moist soils. The presence of small (use your hand lens!), clear and conical cilia along the margins is helpful. Care must be taken to inspect the margins from the underside when possible. The thallus segments tend to be swollen around the margin with a prominent notch at the very tip of each thallus segment.
+
+## Similar species
+
+When young, this species is hard to distinguish from other Riccia species. At maturity, the cilia (see photos) are unique.
+
+## Habitat
+
+Seasonally moist humus over rock outcrops, mineral soil, seepage sites, and ephemeral pools in the lowland and steppe (rare) zones; rare in sw [Georgia Depression] and sc BC.
+
+## Associated species
+
+Gemmabryum barnesii, Pottia truncata, Riccia cavernosa, Riccia trichocarpa, Riccia sorocarpa, Pleuridium acuminatum, Philonotis sp.
+
+<div class="taxon-footer">
+ <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>2024-02-25</span></div>
+</div>
+

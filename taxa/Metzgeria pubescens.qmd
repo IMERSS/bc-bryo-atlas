@@ -1,0 +1,43 @@
+---
+title: Metzgeria pubescens
+categories:
+  - Marchantiophyta
+---
+
+<div class="info-panel">
+ <div class="info-top">
+  <div class="taxon-scientific"><span class="taxon-name">Metzgeria pubescens</span> <span class="taxon-authority"></span> <span class="taxon-family">()</span></div>
+  <div class="taxon-common">Downy veilwort</div>
+ </div>
+ <div class="info-bottom">
+  <div class="taxon-qnd">Hairy all over Metzgeria</div>
+  <div class="taxon-abundance">frequent</div>
+ </div>
+</div>
+
+<div class="tab-index">
+ <div class="tab-eye tab-active"><img src="../img/bryo guide eye.png"/></div>
+ <div class="tab-microscope"><img src="../img/bryo guide microscope.png"/></div>
+</div>
+
+## Distinguishing Features
+
+An occasional species of trees and rocks (especially limestone), the whitish hue of dry M. pubescens is most apparent when the plant is thriving in tufts. When wet, the thallus shows pock marks around the abundant hairs that cover every surface of this attractive plant.
+
+## Similar species
+
+With hairs all over the thallus, M. pubescens could only be mistaken for M. americana. Confident distinction between the two requires a microscope.
+
+## Habitat
+
+Dry to moist, usually shady rock outcrops, cliffs, boulders, tree trunks, and decayed wood in the lowland and montane zones; locally frequent in coastal BC, rare in nw and se [Rocky Mts.] BC.
+
+## Associated species
+
+
+
+<div class="taxon-footer">
+ <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>2024-02-27</span></div>
+</div>
+

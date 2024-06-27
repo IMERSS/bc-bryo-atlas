@@ -1,0 +1,43 @@
+---
+title: Metzgeria temperata
+categories:
+  - Marchantiophyta
+---
+
+<div class="info-panel">
+ <div class="info-top">
+  <div class="taxon-scientific"><span class="taxon-name">Metzgeria temperata</span> <span class="taxon-authority"></span> <span class="taxon-family">()</span></div>
+  <div class="taxon-common">Whiskered veilwort</div>
+ </div>
+ <div class="info-bottom">
+  <div class="taxon-qnd">Tapering and gemmiferous Metzgeria</div>
+  <div class="taxon-abundance">frequent</div>
+ </div>
+</div>
+
+<div class="tab-index">
+ <div class="tab-eye tab-active"><img src="../img/bryo guide eye.png"/></div>
+ <div class="tab-microscope"><img src="../img/bryo guide microscope.png"/></div>
+</div>
+
+## Distinguishing Features
+
+Typically tightly appressed to bark (especially vine maple), M. temperata is frequent in moist coastal microhabitats. The narrow, dull green thallus tapers towards its tip and is frequently fringed by tiny flaps of asexual gemmae. On the underside of the thallus, you should be able to make out solitary hairs along the margin.
+
+## Similar species
+
+When gemmae are present (almost always-- be sure to look around at the whole population), this is a distinct species. Young shoots can occasionally ape M. conjugata, which can cooccur in the same habitat. With a hand lens inspection of the underside, the two can be seperated based on the hairs along the margins, which are solitary in M. temperata and paired in M. conjugata.
+
+## Habitat
+
+Tree trunks (esp. alder, maple), shrub bases, and occasionally cliffs  in the lowland zone; rare in coastal BC.
+
+## Associated species
+
+
+
+<div class="taxon-footer">
+ <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>2024-02-27</span></div>
+</div>
+

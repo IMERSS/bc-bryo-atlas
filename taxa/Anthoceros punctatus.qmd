@@ -1,0 +1,43 @@
+---
+title: Anthoceros punctatus
+categories:
+  - Anthocerotophyta
+---
+
+<div class="info-panel">
+ <div class="info-top">
+  <div class="taxon-scientific"><span class="taxon-name">Anthoceros punctatus</span> <span class="taxon-authority"></span> <span class="taxon-family">()</span></div>
+  <div class="taxon-common">Dotted hornwort</div>
+ </div>
+ <div class="info-bottom">
+  <div class="taxon-qnd"></div>
+  <div class="taxon-abundance">frequent</div>
+ </div>
+</div>
+
+<div class="tab-index">
+ <div class="tab-eye tab-active"><img src="../img/bryo guide eye.png"/></div>
+ <div class="tab-microscope"><img src="../img/bryo guide microscope.png"/></div>
+</div>
+
+## Distinguishing Features
+
+Functionally a weed in the region, the infrequent occurence on A. punctatus on disturbed urban and agricultural soils is one of the only hints to its identification. It has a dissected and fluted deep green thallus with dark spots visible under the hand lens. The sporophytes when present are roughly 5cm long and darkened by the presence of black spores.
+
+## Similar species
+
+Lacking bulbils and possessing dark, tall sporophytes, it is distinct from all other hornwort species in the region with the exception of A. fusiformis. The distinction is microscopic, with A. punctatus having spores that are pitted along their inside face, while A. fusiformis has spores that are spiny all over.
+
+## Habitat
+
+
+
+## Associated species
+
+
+
+<div class="taxon-footer">
+ <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>2024-02-27</span></div>
+</div>
+

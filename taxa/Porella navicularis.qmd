@@ -1,0 +1,43 @@
+---
+title: Porella navicularis
+categories:
+  - Marchantiophyta
+---
+
+<div class="info-panel">
+ <div class="info-top">
+  <div class="taxon-scientific"><span class="taxon-name">Porella navicularis</span> <span class="taxon-authority"></span> <span class="taxon-family">()</span></div>
+  <div class="taxon-common">Tree Rufflewort</div>
+ </div>
+ <div class="info-bottom">
+  <div class="taxon-qnd"></div>
+  <div class="taxon-abundance">frequent</div>
+ </div>
+</div>
+
+<div class="tab-index">
+ <div class="tab-eye tab-active"><img src="../img/bryo guide eye.png"/></div>
+ <div class="tab-microscope"><img src="../img/bryo guide microscope.png"/></div>
+</div>
+
+## Distinguishing Features
+
+A massive and common leafy liverwort that often dominates deciduous forests, forming large carpets of creeping-to-swooping shiny green/yellow/brown shoots with closely overlapping leaves. The leaves are best interpretted from the underside, where a large upper lobe can be seen behind a smaller, triangular underlobe that is similar in size and shape to an overlapping underleaf. Male plants have small rattle-like shoots that bear antheridia, while the sporophytes develop from modified, archegonia-bearing leaves on the underside of the main stem of female plants.
+
+## Similar species
+
+Sometimes this species can be confused for a large Radula on account of the tightly overlapping, rounded leaves. Looking at the underside of both plants with a hand lens, you will see that Radula lacks an underleaf. Frullania species are smaller, but absent that, the genus has sphaeroidal, helmet shaped lobules as opposed to the triangular underlobes seen in P. navicularis. The glossy leaves in combination with underlobes that are similair in size and shape distinguish P. navicularis from matte P. cordaeana and similarly-glossy P. roellii, both species with underlobes that are narrower than the underleaves.
+
+## Habitat
+
+Moist to dry rock outcrops, boulders, cliffs, cutbanks, tree trunks (esp. deciduous trees), and decayed wood in the lowland and montane zones; common in coastal BC, rare in sc, se, and nw BC.
+
+## Associated species
+
+
+
+<div class="taxon-footer">
+ <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>2024-02-27</span></div>
+</div>
+

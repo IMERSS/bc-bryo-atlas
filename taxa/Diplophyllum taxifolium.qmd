@@ -1,0 +1,43 @@
+---
+title: Diplophyllum taxifolium
+categories:
+  - Marchantiophyta
+---
+
+<div class="info-panel">
+ <div class="info-top">
+  <div class="taxon-scientific"><span class="taxon-name">Diplophyllum taxifolium</span> <span class="taxon-authority"></span> <span class="taxon-family">()</span></div>
+  <div class="taxon-common">Yew-leaved earwort</div>
+ </div>
+ <div class="info-bottom">
+  <div class="taxon-qnd"></div>
+  <div class="taxon-abundance">frequent</div>
+ </div>
+</div>
+
+<div class="tab-index">
+ <div class="tab-eye tab-active"><img src="../img/bryo guide eye.png"/></div>
+ <div class="tab-microscope"><img src="../img/bryo guide microscope.png"/></div>
+</div>
+
+## Distinguishing Features
+
+A particularly conspicuous component of montane and subalpine rocky ledges, this green-to-bright yellow Diplophyllum forms thin, delicate of shoots 1-3 cm long by 3 mm wide. Under the hand lens (or camera), the leaves are often laden with asexual propagules and are marked by an upper lobe that points away from the stem apex.
+
+## Similar species
+
+Like other species in the genus Diplophyllum, unlikely to be confused with closely related Scapania (which has round, not elongate lobes) nor Douinia, which has leaf tips that come to a point, as opposed to the rounded lobe ends in D. taxifolium. D. albicans has a patch of pale cells in the lower lobe that is not present in D. taxifolium, while D. obtusifolium has an upper lobe that points to the stem tip. The upper lobe of the yew-leaved earwort points away from the stem tip.
+
+## Habitat
+
+Moist, shady rock outcrops, boulders, cliffs, tree  trunks, cutbanks, and streambanks  in the lowland, montane, and subalpine zones; frequent in sw BC, locally frequent northward along the coast and in se BC, infrequent in nw BC.
+
+## Associated species
+
+Hymenoloma crispula, Kiaerea sp., Scapania amaericana, Diplophyllum albicans.
+
+<div class="taxon-footer">
+ <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>2024-02-26</span></div>
+</div>
+

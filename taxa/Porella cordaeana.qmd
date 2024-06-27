@@ -1,0 +1,43 @@
+---
+title: Porella cordaeana
+categories:
+  - Marchantiophyta
+---
+
+<div class="info-panel">
+ <div class="info-top">
+  <div class="taxon-scientific"><span class="taxon-name">Porella cordaeana</span> <span class="taxon-authority"></span> <span class="taxon-family">()</span></div>
+  <div class="taxon-common">Cliff scalewort</div>
+ </div>
+ <div class="info-bottom">
+  <div class="taxon-qnd"></div>
+  <div class="taxon-abundance">frequent</div>
+ </div>
+</div>
+
+<div class="tab-index">
+ <div class="tab-eye tab-active"><img src="../img/bryo guide eye.png"/></div>
+ <div class="tab-microscope"><img src="../img/bryo guide microscope.png"/></div>
+</div>
+
+## Distinguishing Features
+
+A frequent species of deciduous trees and dark cliffs, P. cordaeana has matte-green and delicate shoots that show distant but regular branching. From the underside, the underlobe is narrow relative to the underleaf (see photo). The plants also have a tendency to strongly contort when dry.
+
+## Similar species
+
+When not of sound mind, this could be mistaken for the moss Homalia trichomanoides, but that species lacks underleaves and underlobes. P. cordaeana is darker and freer than light green and appressed Radula. P. cordeana have narrow triangular underlobes compared to the helmet-shaped lobules of Frullania species, which tend to be half the size and suffused with reddish-purple pigments. The matte green colour in combination with the narrow underlobes and tendency to shrivel and contort when dry are easy features to seperate this from other species of Porella.
+
+## Habitat
+
+Wet to mesic rock outcrops, boulders, cliffs, tree trunks, and decayed wood in the lowland, steppe, and montane zones; common in coastal and se BC, frequent in sc BC, infrequent in n and c BC.
+
+## Associated species
+
+
+
+<div class="taxon-footer">
+ <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>2024-02-27</span></div>
+</div>
+

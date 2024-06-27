@@ -1,0 +1,43 @@
+---
+title: Anthoceros fusiformis
+categories:
+  - Anthocerotophyta
+---
+
+<div class="info-panel">
+ <div class="info-top">
+  <div class="taxon-scientific"><span class="taxon-name">Anthoceros fusiformis</span> <span class="taxon-authority">Austin</span> <span class="taxon-family">()</span></div>
+  <div class="taxon-common"></div>
+ </div>
+ <div class="info-bottom">
+  <div class="taxon-qnd">Big dark horn</div>
+  <div class="taxon-abundance">frequent</div>
+ </div>
+</div>
+
+<div class="tab-index">
+ <div class="tab-eye tab-active"><img src="../img/bryo guide eye.png"/></div>
+ <div class="tab-microscope"><img src="../img/bryo guide microscope.png"/></div>
+</div>
+
+## Distinguishing Features
+
+Ephemeral and infrequent, this dark green Anthoceros has a fluted and heavily dissected thallus that can range from dime-to-quarter-sized in the seasonally saturated fine sediments on which it thrives. When fertile, it has a towering (5-10cm) horn emerging from the thallus that produces black spores, giving the entire structure a dark palour.
+
+## Similar species
+
+When fertile, the dark sporophytes and black spore mass seperate A. fusiformis from Phaeoceros oreganus and Paraphymatoceros pearsonii, species with yellow spores and sporophytes that have a less dissected thallus. A. fusiformis lacks the asexual bulbils present on the underside of Phymatoceros bulbicosus. A. punctatus can not be distinguished from A. fusiformis without microscopic examination of the mature spores.
+
+## Habitat
+
+Fine sediment seeps, seasonally saturated banks, ditches and rock crevices. Infrequent in SW BC.
+
+## Associated species
+
+
+
+<div class="taxon-footer">
+ <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>2024-02-27</span></div>
+</div>
+

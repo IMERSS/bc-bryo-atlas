@@ -1,0 +1,42 @@
+---
+title: {{taxon}}
+categories:
+  - {{phylum}}
+---
+
+<div class="info-panel">
+ <div class="info-top">
+  <div class="taxon-scientific"><span class="taxon-name">{{taxon}}</span> <span class="taxon-authority">{{authority}}</span> <span class="taxon-family">({{family}})</span></div>
+  <div class="taxon-common">{{commonName}}</div>
+ </div>
+ <div class="info-bottom">
+  <div class="taxon-qnd">{{quickNDirty}}</div>
+  <div class="taxon-abundance">frequent</div>
+ </div>
+</div>
+
+<div class="tab-index">
+ <div class="tab-eye tab-active"><img src="../img/bryo guide eye.png"/></div>
+ <div class="tab-microscope"><img src="../img/bryo guide microscope.png"/></div>
+</div>
+
+## Distinguishing Features
+
+{{distinguishingFeatures}}
+
+## Similar species
+
+{{similarSpecies}}
+
+## Habitat
+
+{{habitat}}
+
+## Associated species
+
+{{associatedSpecies}}
+
+<div class="taxon-footer">
+ <div class="taxon-authors"><b>Authors:</b> <span>{{authors}}</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>{{lastUpdated}}</span></div>
+</div>

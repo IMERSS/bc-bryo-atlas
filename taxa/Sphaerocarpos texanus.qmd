@@ -1,0 +1,43 @@
+---
+title: Sphaerocarpos texanus
+categories:
+  - Marchantiophyta
+---
+
+<div class="info-panel">
+ <div class="info-top">
+  <div class="taxon-scientific"><span class="taxon-name">Sphaerocarpos texanus</span> <span class="taxon-authority"></span> <span class="taxon-family">()</span></div>
+  <div class="taxon-common">Texas Balloonwort</div>
+ </div>
+ <div class="info-bottom">
+  <div class="taxon-qnd">Tiny Green Bubbles</div>
+  <div class="taxon-abundance">frequent</div>
+ </div>
+</div>
+
+<div class="tab-index">
+ <div class="tab-eye tab-active"><img src="../img/bryo guide eye.png"/></div>
+ <div class="tab-microscope"><img src="../img/bryo guide microscope.png"/></div>
+</div>
+
+## Distinguishing Features
+
+A rarely-noticed but seemingly weedy species of disturbed soils, S. texanus is amongst the most charismatic of liverworts in the region on account of its abundant, submillimeter &quot;balloons&quot;. These structures actually enclose the reproductive organs, with the underlying leaves of the plant even less distinct, even with a hand lens.
+
+## Similar species
+
+No other bryophyte in the region resembles this species.
+
+## Habitat
+
+
+
+## Associated species
+
+
+
+<div class="taxon-footer">
+ <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>2024-02-27</span></div>
+</div>
+

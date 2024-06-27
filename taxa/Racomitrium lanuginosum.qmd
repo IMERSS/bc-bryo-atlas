@@ -1,0 +1,43 @@
+---
+title: Racomitrium lanuginosum
+categories:
+  - Bryophyta
+---
+
+<div class="info-panel">
+ <div class="info-top">
+  <div class="taxon-scientific"><span class="taxon-name">Racomitrium lanuginosum</span> <span class="taxon-authority"></span> <span class="taxon-family">()</span></div>
+  <div class="taxon-common">Woolly Rock-Moss</div>
+ </div>
+ <div class="info-bottom">
+  <div class="taxon-qnd">Grey and frosty on rock</div>
+  <div class="taxon-abundance">frequent</div>
+ </div>
+</div>
+
+<div class="tab-index">
+ <div class="tab-eye tab-active"><img src="../img/bryo guide eye.png"/></div>
+ <div class="tab-microscope"><img src="../img/bryo guide microscope.png"/></div>
+</div>
+
+## Distinguishing Features
+
+Exceedingly common in open habitats, this is a large grey-green carpet-forming moss. It is immediately recognizable by a grey frosted appearance when dry due to its long white-tipped, and coarsely toothed leaves borne on upright and variously branched shoots.
+
+## Similar species
+
+Other rock mosses in the Grimmiaceae are similar but differ in the size and organization of the shoots. Members of the Genus Grimmia are usually smaller and grow in orderly cushions over rock. Other species of Racomitrium (R. elongatum, R. ericoides, R. muticum, and R. canescens) are similar in growth form but the large serrated teeth on the leaf tips of R. lanuginosum separate it from all others.
+
+## Habitat
+
+Dry, open, rocky habitats; also bog and tundra hummocks, and mineral soil from lowlands to alpine; common in coastal BC, infrequent elsewhere east of the Coast-Cascade Mts. [except absent from ne BC east of the Rocky Mountains].
+
+## Associated species
+
+Depends on habitat but in rocky areas commonly with Racomitrium elongatum, R. heterostichum, Polytrichum piliferum, P. juniperinum, P. commune, Dicranum howellii, D. scoparium; in bogs Sphagnum.
+
+<div class="taxon-footer">
+ <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell, John Reynolds, Brian Starzomski, Daniel Tucker</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>2024-02-23</span></div>
+</div>
+

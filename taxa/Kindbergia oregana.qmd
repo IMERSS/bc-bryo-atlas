@@ -1,0 +1,43 @@
+---
+title: Kindbergia oregana
+categories:
+  - Bryophyta
+---
+
+<div class="info-panel">
+ <div class="info-top">
+  <div class="taxon-scientific"><span class="taxon-name">Kindbergia oregana</span> <span class="taxon-authority"></span> <span class="taxon-family">()</span></div>
+  <div class="taxon-common">Oregon Beaked Moss</div>
+ </div>
+ <div class="info-bottom">
+  <div class="taxon-qnd">Forest Floor Feathers</div>
+  <div class="taxon-abundance">frequent</div>
+ </div>
+</div>
+
+<div class="tab-index">
+ <div class="tab-eye tab-active"><img src="../img/bryo guide eye.png"/></div>
+ <div class="tab-microscope"><img src="../img/bryo guide microscope.png"/></div>
+</div>
+
+## Distinguishing Features
+
+A large ground-creeping moss. The overall shape is triangular with regular, feather-like branches, starting with a broad base, tapering to an extended narrow tip. The leaves are triangular and heart shaped. The sporophyte capsules have a long beak, and sit atop a roughened stalk.
+
+## Similar species
+
+No other species with feathered branches has such evenly spaced branches. The closest lookalike is Kindbergia praelonga, which has a more wispy habit with less regular branching. See also: Homalothecium, Isothecium, Kindbergia praelonga, Bracythecium, Claopodium, Ptilium. Similar feather-like growth habits are common in forest floor habitats, but in genera like Hypnum, Stereodon, Ptilium, Sanionia, the leaves are curled whereas in Kinbergia oregana they are flat/straight; the robust golden shoots of Homalothecium megaptilum have tightly overlapping leaves and more distantly-space branches. Claopodium crispifolium can be found in very similar environments on tree bases, but its dull white leaf tips come off at 90 degree angles and look like Christmas tree ornaments on the end of each shoot, while the green tipped Kindbergia oregana has leaves that point forward.
+
+## Habitat
+
+Seasonally wet, usually shady mineral soil, humus, boulders, rock outcrops, ledges, crevices, rock faces, decayed wood, tree bases, branches, trails, roadsides, and disturbed areas, especially in coniferous forests, in the lowland and montane zones; common in coastal BC, rare in se BC.
+
+## Associated species
+
+Homalothecium megaptilum, Plagiothecium undulatum, Rhytidiadelphus loreus, Leucolepis acanthoneura, Hylocomiadelphus triquetrus, Hylocomium splendens
+
+<div class="taxon-footer">
+ <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell, John Reynolds, Brian Starzomski, Daniel Tucker</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>2024-02-23</span></div>
+</div>
+

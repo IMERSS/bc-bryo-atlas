@@ -1,0 +1,43 @@
+---
+title: Radula complanata
+categories:
+  - Marchantiophyta
+---
+
+<div class="info-panel">
+ <div class="info-top">
+  <div class="taxon-scientific"><span class="taxon-name">Radula complanata</span> <span class="taxon-authority"></span> <span class="taxon-family">()</span></div>
+  <div class="taxon-common">Flat-leaved Scalewort</div>
+ </div>
+ <div class="info-bottom">
+  <div class="taxon-qnd"></div>
+  <div class="taxon-abundance">frequent</div>
+ </div>
+</div>
+
+<div class="tab-index">
+ <div class="tab-eye tab-active"><img src="../img/bryo guide eye.png"/></div>
+ <div class="tab-microscope"><img src="../img/bryo guide microscope.png"/></div>
+</div>
+
+## Distinguishing Features
+
+The most common species of Radula in the region, R. complanata is predominantly epiphytic (especially at low elevations) and composed of closely-overlapping dull yellow-green leaf lobes on tightly-appressed, creeping shoots about 3-5mm wide. The margins are frequently populated by round gemmae (see photo) and the undersides lack underleaves but are marked by a small pocket at the base of the leaf. When fertile, you should see little envelope shaped structures that enclose the developing sporophyte.
+
+## Similar species
+
+Could be confused with Porella, Frullania or even Chiloscyphus, but all those genera have underleaves, a feature missing in Radula species. R. complanata often grows alongside the much smaller R. bolanderi, the latter of which has vegetative leaves that barely overlap and male shoots that have a distinctive strap-like appearance. R. obtusiloba and R. auriculata have similar leaf sizes and shapes, but tend to grow free from their substrate abd exhibit much more regular branching than the appressed R. complanata.
+
+## Habitat
+
+Tree trunks, branches, rock outcrops, boulders, cliffs, and occasionally humus in the lowland, montane, and subalpine zones; common in sw BC, frequent northward along the coast and in se BC, rare in sc, c, and n [east to the Rocky Mts.] BC.
+
+## Associated species
+
+
+
+<div class="taxon-footer">
+ <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>2024-02-27</span></div>
+</div>
+
