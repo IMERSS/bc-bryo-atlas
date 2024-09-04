@@ -1,0 +1,3 @@
+project:
+  pre-render: generate_pages.R
+  post-render: post_build.R

@@ -1,0 +1,42 @@
+---
+title: Claopodium crispifolium
+categories:
+  - Bryophyta
+---
+
+<div class="info-panel">
+ <div class="info-top">
+  <div class="taxon-scientific"><span class="taxon-name">Claopodium crispifolium</span> <span class="taxon-authority">(Hooker) Renauld &amp; Cardot</span> <span class="taxon-family">(Leskiaceae)</span></div>
+  <div class="taxon-common">crispleaf roughmoss</div>
+ </div>
+ <div class="info-bottom">
+  <div class="taxon-qnd">Crisp Maple Dweller</div>
+  <div class="taxon-abundance">frequent</div>
+ </div>
+</div>
+
+<div class="tab-index">
+ <div class="tab-microscope"><img src="../img/bryo guide microscope.png"/></div>
+</div>
+
+## Distinguishing Features
+
+XXXXXX
+
+## Similar species
+
+XXXXXX
+
+## Habitat
+
+XXXXXX
+
+## Associated species
+
+Homalothecium fulgescens, Isothecium stoloniferum, Neckera menziesii, Plagiomnium venustum
+
+<div class="taxon-footer">
+ <div class="taxon-authors"><b>Authors:</b> <span>Andrew Simon</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>2024-08-29</span></div>
+</div>
+

@@ -14,27 +14,52 @@ categories:
   <div class="taxon-abundance">frequent</div>
  </div>
 </div>
+<div class="imerss-content-frame">
+ <div class="imerss-image-header">
+  {{#insetPhoto1}}
+  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/{{insetPhoto1}})" title="{{insetPhoto1meta}}">
+  </div>
+  {{/insetPhoto1}}
 
-<div class="tab-index">
- <div class="tab-eye tab-active"><img src="../img/bryo guide eye.png"/></div>
- <div class="tab-microscope"><img src="../img/bryo guide microscope.png"/></div>
-</div>
+  {{#insetPhoto2}}
+  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/{{insetPhoto2}})" title="{{insetPhoto2meta}}">
+  </div>
+  {{/insetPhoto2}}
+ </div>
+ <div class="imerss-content-lower">
+  <div class="imerss-content-left">
+  <div class="tab-index">
+  <div class="tab-microscope"><img src="../img/bryo guide microscope.png"/></div>
+ </div>
 
-## Distinguishing Features
+<h2>Distinguishing Features</h2>
 
 {{distinguishingFeatures}}
 
-## Similar species
+<h2>Similar species</h2>
 
 {{similarSpecies}}
 
-## Habitat
+<h2>Habitat</h2>
 
 {{habitat}}
 
-## Associated species
+<h2>Associated species</h2>
 
 {{associatedSpecies}}
+</div>
+
+<div class="imerss-content-right">
+
+{{#insetPhoto3}}
+<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/{{insetPhoto3}})" title="{{insetPhoto3meta}}">
+</div>
+{{/insetPhoto3}}
+
+</div>
+
+</div>
+</div>
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>{{authors}}</span></div>
