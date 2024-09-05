@@ -1,9 +1,11 @@
 ---
 title: Ricciocarpos natans
+image: "../img/"
 categories:
   - Marchantiophyta
 ---
 
+<script src="../js/micromodal.min.js"></script>
 <div class="info-panel">
  <div class="info-top">
   <div class="taxon-scientific"><span class="taxon-name">Ricciocarpos natans</span> <span class="taxon-authority"></span> <span class="taxon-family">()</span></div>
@@ -14,29 +16,69 @@ categories:
   <div class="taxon-abundance">frequent</div>
  </div>
 </div>
+<div class="imerss-content-frame">
+ <div class="imerss-image-header">
+  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+  </div>
 
-<div class="tab-index">
- <div class="tab-microscope"><img src="../img/bryo guide microscope.png"/></div>
-</div>
+  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+  </div>
+ </div>
+ <div class="imerss-content-lower">
+  <div class="imerss-column-left">
+  <div class="tab-microscope" data-micromodal-trigger="modal-plate">
+  <img src="../img/bryo guide microscope.png"/>
+  </div>
 
-## Distinguishing Features
+<h2>Distinguishing Features</h2>
 
 An occasional aquatic or semi-aquatic liverwort from stagnant waters, R. natans forms tight and large (1cm or larger) rosettes that are grooved and green above and black below. When lifted from the water or surface sediments, the dark underside is laden with long, black, root-like tangles, and the uppoer surface is marked by faint polygons. As the margin of a water body receeds, this species can live out its days on wet mud, often growing upwards of 2-3 cm wide.
 
-## Similar species
+<h2>Similar species</h2>
 
 Unmistakeable while floating in open water, it is likely to cause a little confusion if found living on sediments or soils where water has stranded it. Riccia sorocarpa is furrowed, too, but lacks the black bottoms and polygonal patterning of the upper surface that is found in Ricciocarpos. Other thalloid liverworts found in similar habitats, such as Marchantia polymorpha and Conocephalum sp. have more clearly delimited polygons and lack the large black root-like structures on their undersides.
 
-## Habitat
+<h2>Habitat</h2>
 
 Floating on the surface of nutrient- and mineral-rich water in marshes, ponds, ditches, lakeshores, and slow-moving streams, or stranded on shoreline mud, in the lowland, steppe, and montane zones; infrequent east of the Coast-Cascade Mts. and in sw BC.
 
-## Associated species
+<h2>Associated species</h2>
 
 Riccia frostii, Riccia cavernosa, Physcomitrium patens, Ephemerum serrulatum
+</div>
+
+<div class="imerss-column-right">
+
+<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+</div>
+
+</div>
+
+</div>
+</div>
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
  <div class="taxon-update"><b>Last updated:</b> <span>2024-02-25</span></div>
 </div>
+
+<div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">
+ <div class="modal__overlay" tabindex="-1" data-micromodal-close>
+  <div class="modal__container" role="dialog" aria-modal="true" aria-labelledby="modal-plate-title" >
+   <header class="modal__header">
+   <div class="modal__title" id="modal-plate-title">
+  Ricciocarpos natans plate
+   </div>
+   <button class="modal__close" aria-label="Close" data-micromodal-close></button>
+   </header>
+  <div class="modal__content" id="modal-plate-content">
+   <div class="imerss-image-holder" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+  </div>
+  </div>
+  </div>
+ </div>
+</div>
+<script>
+MicroModal.init();
+</script>
 

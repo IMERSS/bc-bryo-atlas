@@ -54,3 +54,5 @@ tabular_data/GBIF*.csv
 .Rhistory
 
 .DS_Store
+
+.idea
