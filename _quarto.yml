@@ -2,8 +2,8 @@ project:
   type: website
   output-dir: docs
 
-#profile:
-#  default: full
+profile:
+  default: full
 
 execute: 
   freeze: true
