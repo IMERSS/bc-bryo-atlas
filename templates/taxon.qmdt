@@ -5,7 +5,6 @@ categories:
   - {{phylum}}
 ---
 
-<script src="../js/micromodal.min.js"></script>
 <div class="info-panel">
  <div class="info-top">
   <div class="taxon-scientific"><span class="taxon-name">{{taxon}}</span> <span class="taxon-authority">{{authority}}</span> <span class="taxon-family">({{family}})</span></div>
@@ -84,6 +83,11 @@ categories:
   </div>
  </div>
 </div>
+
+<script src="../js/micromodal.min.js"></script>
+<link href="../css/style-taxon.css" rel="stylesheet">
+<link href="../css/micromodal.css" rel="stylesheet">
+
 <script>
 MicroModal.init();
 </script>

@@ -5,7 +5,6 @@ categories:
   - Marchantiophyta
 ---
 
-<script src="../js/micromodal.min.js"></script>
 <div class="info-panel">
  <div class="info-top">
   <div class="taxon-scientific"><span class="taxon-name">Riccia beyrichiana</span> <span class="taxon-authority"></span> <span class="taxon-family">()</span></div>
@@ -78,6 +77,11 @@ Gemmabryum barnesii, Pottia truncata, Riccia cavernosa, Riccia trichocarpa, Ricc
   </div>
  </div>
 </div>
+
+<script src="../js/micromodal.min.js"></script>
+<link href="../css/style-taxon.css" rel="stylesheet">
+<link href="../css/micromodal.css" rel="stylesheet">
+
 <script>
 MicroModal.init();
 </script>
