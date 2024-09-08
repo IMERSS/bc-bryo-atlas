@@ -1,6 +1,6 @@
 ---
 title: Pseudotaxiphyllum elegans
-image: "../img/Mosses/Plagiotheciaceae/Pseudotaxiphyllum_elegans/macro_pics/PSEUELE_JDR_01.jpg"
+image: "../img/Mosses/Plagiotheciaceae/Pseudotaxiphyllum_elegans/macro_pics/PSEUELE_JDR_iNat_01.jpg"
 categories:
   - Bryophyta
 ---
@@ -8,7 +8,7 @@ categories:
 <div class="info-panel">
  <div class="info-top">
   <div class="taxon-scientific"><span class="taxon-name">Pseudotaxiphyllum elegans</span> <span class="taxon-authority">(Brid.) Z. Iwats.</span> <span class="taxon-family">(Plagiotheciaceae)</span></div>
-  <div class="taxon-common">elegant silkmoss</div>
+  <div class="taxon-common">Elegant Silkmoss</div>
  </div>
  <div class="info-bottom">
   <div class="taxon-qnd">XXXXXX</div>
@@ -17,7 +17,7 @@ categories:
 </div>
 <div class="imerss-content-frame">
  <div class="imerss-image-header">
-  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/Mosses/Plagiotheciaceae/Pseudotaxiphyllum_elegans/macro_pics/PSEUELE_JDR_01.jpg)" title="John Reynolds">
+  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/Mosses/Plagiotheciaceae/Pseudotaxiphyllum_elegans/macro_pics/PSEUELE_JDR_iNat_01.jpg)" title="John Reynolds">
   </div>
 
   <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Mosses/Plagiotheciaceae/Pseudotaxiphyllum_elegans/macro_pics/PSEUELE_JF_iNat_01.jpg)" title="Jamie Fenneman">
@@ -43,12 +43,12 @@ XXXXXX
 
 <h2>Associated species</h2>
 
-
+XXXXXX
 </div>
 
 <div class="imerss-column-right">
 
-<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Mosses/Plagiotheciaceae/Pseudotaxiphyllum_elegans/macro_pics/PSEUELE_JDR_02.jpg)" title="John Reynolds">
+<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Mosses/Plagiotheciaceae/Pseudotaxiphyllum_elegans/macro_pics/PSEUELE_JDR_iNat_02.jpg)" title="John Reynolds">
 </div>
 
 </div>

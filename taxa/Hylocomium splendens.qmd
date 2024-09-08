@@ -7,7 +7,7 @@ categories:
 
 <div class="info-panel">
  <div class="info-top">
-  <div class="taxon-scientific"><span class="taxon-name">Hylocomium splendens</span> <span class="taxon-authority"></span> <span class="taxon-family">()</span></div>
+  <div class="taxon-scientific"><span class="taxon-name">Hylocomium splendens</span> <span class="taxon-authority">XXXXXX</span> <span class="taxon-family">(XXXXXX)</span></div>
   <div class="taxon-common">Stairstep Moss</div>
  </div>
  <div class="info-bottom">
@@ -39,7 +39,7 @@ Pleurozium schreberi also grows as carpets, but it is less finely branched, and 
 
 <h2>Habitat</h2>
 
-
+XXXXXX
 
 <h2>Associated species</h2>
 

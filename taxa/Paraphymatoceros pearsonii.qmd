@@ -7,7 +7,7 @@ categories:
 
 <div class="info-panel">
  <div class="info-top">
-  <div class="taxon-scientific"><span class="taxon-name">Paraphymatoceros pearsonii</span> <span class="taxon-authority">(M.Howe) J.C.Villarreal &amp; Cargill</span> <span class="taxon-family">()</span></div>
+  <div class="taxon-scientific"><span class="taxon-name">Paraphymatoceros pearsonii</span> <span class="taxon-authority">(M.Howe) J.C.Villarreal &amp; Cargill</span> <span class="taxon-family">(XXXXXX)</span></div>
   <div class="taxon-common">Pearson's Phaeoceros</div>
  </div>
  <div class="info-bottom">
@@ -39,11 +39,11 @@ Lacking the bulbils of Phymatoceros bulbiculosus and possessing yellowed horns a
 
 <h2>Habitat</h2>
 
-
+XXXXXX
 
 <h2>Associated species</h2>
 
-
+XXXXXX
 </div>
 
 <div class="imerss-column-right">

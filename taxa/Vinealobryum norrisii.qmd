@@ -8,7 +8,7 @@ categories:
 <div class="info-panel">
  <div class="info-top">
   <div class="taxon-scientific"><span class="taxon-name">Vinealobryum norrisii</span> <span class="taxon-authority">(R.H. Zander) J.A. Jiménez &amp; M.J. Cano</span> <span class="taxon-family">(Pottiaceae)</span></div>
-  <div class="taxon-common">Norris' beard moss</div>
+  <div class="taxon-common">Norris' Beardmoss</div>
  </div>
  <div class="info-bottom">
   <div class="taxon-qnd">XXXXXX</div>

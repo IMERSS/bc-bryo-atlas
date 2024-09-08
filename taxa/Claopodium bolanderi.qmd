@@ -8,10 +8,10 @@ categories:
 <div class="info-panel">
  <div class="info-top">
   <div class="taxon-scientific"><span class="taxon-name">Claopodium bolanderi</span> <span class="taxon-authority">Best</span> <span class="taxon-family">(Leskiaceae)</span></div>
-  <div class="taxon-common">Bolander's roughmoss</div>
+  <div class="taxon-common">Bolander's Roughmoss</div>
  </div>
  <div class="info-bottom">
-  <div class="taxon-qnd">Stubly Rock Dweller</div>
+  <div class="taxon-qnd">Stubby Rock Dweller</div>
   <div class="taxon-abundance">frequent</div>
  </div>
 </div>

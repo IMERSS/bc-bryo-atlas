@@ -7,8 +7,8 @@ categories:
 
 <div class="info-panel">
  <div class="info-top">
-  <div class="taxon-scientific"><span class="taxon-name">Phymatoceros bulbiculosus</span> <span class="taxon-authority">(Brot.) Stotler, W.T.Doyle &amp; Crand.-Stotl.</span> <span class="taxon-family">()</span></div>
-  <div class="taxon-common"></div>
+  <div class="taxon-scientific"><span class="taxon-name">Phymatoceros bulbiculosus</span> <span class="taxon-authority">(Brot.) Stotler, W.T.Doyle &amp; Crand.-Stotl.</span> <span class="taxon-family">(XXXXXX)</span></div>
+  <div class="taxon-common">XXXXXX</div>
  </div>
  <div class="info-bottom">
   <div class="taxon-qnd">Bulb-Bearing Hornwort</div>
@@ -43,7 +43,7 @@ Fine sediment seeps, rare in SW BC.
 
 <h2>Associated species</h2>
 
-
+XXXXXX
 </div>
 
 <div class="imerss-column-right">

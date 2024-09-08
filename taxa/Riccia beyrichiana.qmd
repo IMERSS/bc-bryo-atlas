@@ -7,11 +7,11 @@ categories:
 
 <div class="info-panel">
  <div class="info-top">
-  <div class="taxon-scientific"><span class="taxon-name">Riccia beyrichiana</span> <span class="taxon-authority"></span> <span class="taxon-family">()</span></div>
+  <div class="taxon-scientific"><span class="taxon-name">Riccia beyrichiana</span> <span class="taxon-authority">XXXXXX</span> <span class="taxon-family">(XXXXXX)</span></div>
   <div class="taxon-common">Purple crystalwort</div>
  </div>
  <div class="info-bottom">
-  <div class="taxon-qnd"></div>
+  <div class="taxon-qnd">XXXXXX</div>
   <div class="taxon-abundance">frequent</div>
  </div>
 </div>

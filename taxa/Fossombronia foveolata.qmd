@@ -7,7 +7,7 @@ categories:
 
 <div class="info-panel">
  <div class="info-top">
-  <div class="taxon-scientific"><span class="taxon-name">Fossombronia foveolata</span> <span class="taxon-authority"></span> <span class="taxon-family">()</span></div>
+  <div class="taxon-scientific"><span class="taxon-name">Fossombronia foveolata</span> <span class="taxon-authority">XXXXXX</span> <span class="taxon-family">(XXXXXX)</span></div>
   <div class="taxon-common">Pitted frillwort</div>
  </div>
  <div class="info-bottom">
@@ -39,11 +39,11 @@ Can only be distinguished from F. longiseta based on microscopic spore character
 
 <h2>Habitat</h2>
 
-
+XXXXXX
 
 <h2>Associated species</h2>
 
-
+XXXXXX
 </div>
 
 <div class="imerss-column-right">

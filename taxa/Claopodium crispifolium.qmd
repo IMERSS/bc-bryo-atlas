@@ -8,7 +8,7 @@ categories:
 <div class="info-panel">
  <div class="info-top">
   <div class="taxon-scientific"><span class="taxon-name">Claopodium crispifolium</span> <span class="taxon-authority">(Hooker) Renauld &amp; Cardot</span> <span class="taxon-family">(Leskiaceae)</span></div>
-  <div class="taxon-common">crispleaf roughmoss</div>
+  <div class="taxon-common">Crispleaf Roughmoss</div>
  </div>
  <div class="info-bottom">
   <div class="taxon-qnd">Crisp Maple Dweller</div>
