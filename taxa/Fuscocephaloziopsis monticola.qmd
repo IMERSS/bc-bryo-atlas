@@ -1,0 +1,98 @@
+---
+title: Fuscocephaloziopsis monticola
+image: "../img/"
+categories:
+  - Marchantiophyta
+---
+
+<div class="info-panel">
+ <div class="info-top">
+  <div class="taxon-scientific"><span class="taxon-name">Fuscocephaloziopsis monticola</span> <span class="taxon-authority">(J.D.Godfrey) Váňa &amp; L.Söderstr.</span> <span class="taxon-family">(Cephaloziaceae)</span></div>
+  <div class="taxon-common">-</div>
+ </div>
+ <div class="info-bottom">
+  <div class="taxon-qnd"></div>
+  <div class="taxon-abundance">Infrequent</div>
+ </div>
+</div>
+<div class="imerss-content-frame">
+ <div class="imerss-image-header">
+  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+  </div>
+
+  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+  </div>
+ 
+ </div>
+ <div class="imerss-content-lower">
+  <div class="imerss-column-left">
+  <div class="tab-microscope" data-micromodal-trigger="modal-plate">
+  <img src="../img/bryo guide microscope.png"/>
+  </div>
+
+<h2>Distinguishing Features</h2>
+
+F. monticola is an infrequent species forming relatively dense albeit small turfs of stiff, compressed dark green shoots up to 3 mm wide along slopes in the high subalpine. Upclose, it has a succulent stem, leaves that are shallowly two-lobed or occasionally even three-lobed and underleaves can be present, though they are typically obscured by a dense set of hairs (&quot;rhizoids&quot;). Under the microscope, this species lacks oil bodies and can exhibit green, two-celled gemmae produced along young leaf tips at the shoot apex.
+
+<h2>Similar species</h2>
+
+On account of its large size and very compressed shoots, it is unlikely to be mistaken for any other member of Cephaloziaceae. In its habitat, however, it can coocur with species of Lophozia and Tritomaria that are superficially similair. Neither of these genera exhibit the dark green colour and deeply, symmetrically compressed shoots of F. monticola.
+
+<h2>Habitat</h2>
+
+
+
+<h2>Associated species</h2>
+
+
+</div>
+
+<div class="imerss-column-right">
+
+<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+</div>
+
+<div class="imerss-map-holder">
+```{r warning=F, message=F, echo=F}
+setwd("..")
+source("page_functions.R")
+map = make_species_map("Fuscocephaloziopsis monticola")
+map
+```
+</div>
+
+</div>
+
+</div>
+</div>
+
+<div class="taxon-footer">
+ <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>2024-11-05</span></div>
+</div>
+
+<div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">
+ <div class="modal__overlay" tabindex="-1" data-micromodal-close>
+  <div class="modal__container" role="dialog" aria-modal="true" aria-labelledby="modal-plate-title" >
+   <header class="modal__header">
+   <div class="modal__title" id="modal-plate-title">
+  Fuscocephaloziopsis monticola plate
+   </div>
+   <button class="modal__close" aria-label="Close" data-micromodal-close></button>
+   </header>
+  <div class="modal__content" id="modal-plate-content">
+   <div class="imerss-image-holder" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+  </div>
+  </div>
+  </div>
+ </div>
+</div>
+
+<script src="../js/micromodal.min.js"></script>
+<link href="../css/style-taxon.css" rel="stylesheet">
+<link href="../css/micromodal.css" rel="stylesheet">
+
+<script>
+MicroModal.init();
+</script>
+

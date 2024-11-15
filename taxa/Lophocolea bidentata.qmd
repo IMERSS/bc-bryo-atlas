@@ -1,0 +1,98 @@
+---
+title: Lophocolea bidentata
+image: "../img/"
+categories:
+  - Marchantiophyta
+---
+
+<div class="info-panel">
+ <div class="info-top">
+  <div class="taxon-scientific"><span class="taxon-name">Lophocolea bidentata</span> <span class="taxon-authority">(L.) Dumort.</span> <span class="taxon-family">(Lophocoleaceae)</span></div>
+  <div class="taxon-common">Bifid Crestwort</div>
+ </div>
+ <div class="info-bottom">
+  <div class="taxon-qnd"></div>
+  <div class="taxon-abundance">Frequent</div>
+ </div>
+</div>
+<div class="imerss-content-frame">
+ <div class="imerss-image-header">
+  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+  </div>
+
+  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+  </div>
+ 
+ </div>
+ <div class="imerss-content-lower">
+  <div class="imerss-column-left">
+  <div class="tab-microscope" data-micromodal-trigger="modal-plate">
+  <img src="../img/bryo guide microscope.png"/>
+  </div>
+
+<h2>Distinguishing Features</h2>
+
+Lophocolea bidentata occurs dependably on logs (amongst other substrates) as tightly appressed, light green and transluscent creeping leafy shoots to 3 mm wide and many centimeters long. The shallowly 2-lobed leaves are inserted roughly along the long axis of the stem, with their sharp and tapering apices seperated by a broad and round sinus. Narrow, two-lobed underleaves should be present and the lateral leaves maintain a consistent shape along the length of the stem.
+
+<h2>Similar species</h2>
+
+Species of Lophozia and Lophoziopsis have superficially similair leaves, but leaves in those species are not attached at their base along the long axis of the stem as in L. bidentata, nor do they have underleaves. Geocalyx graveolens does have nearly identical leaf attachment and bilobed shape, but its lobe tips are triangular, while those of L. bidentata have elongate, narrow tips. Species of Mesoptychia (especially M. gillmanii) can show similair leaf shape, but leaves in that genus are attached across the axis of the stem, not along it, and underleaves are unlobed, whereas in L. bidentata, they are bilobed. Within its genus, L. minor is smaller and has rounded, lobes covered in asexual spores (&quot;gemmae&quot;), while L. heterophylla has leaves that vary in form as you move along the stem, with some unlobed and those that are lobed varying between sharp and rounded lobe tips. L. bidentata is consistently sharply-lobed and gemmae on not present.
+
+<h2>Habitat</h2>
+
+Moist to wet, often shady humus, rock outcrops, cliffs, boulders, tree trunks (esp. deciduous trees), and decayed wood in the lowland and montane zones
+
+<h2>Associated species</h2>
+
+
+</div>
+
+<div class="imerss-column-right">
+
+<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+</div>
+
+<div class="imerss-map-holder">
+```{r warning=F, message=F, echo=F}
+setwd("..")
+source("page_functions.R")
+map = make_species_map("Lophocolea bidentata")
+map
+```
+</div>
+
+</div>
+
+</div>
+</div>
+
+<div class="taxon-footer">
+ <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>2024-11-13</span></div>
+</div>
+
+<div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">
+ <div class="modal__overlay" tabindex="-1" data-micromodal-close>
+  <div class="modal__container" role="dialog" aria-modal="true" aria-labelledby="modal-plate-title" >
+   <header class="modal__header">
+   <div class="modal__title" id="modal-plate-title">
+  Lophocolea bidentata plate
+   </div>
+   <button class="modal__close" aria-label="Close" data-micromodal-close></button>
+   </header>
+  <div class="modal__content" id="modal-plate-content">
+   <div class="imerss-image-holder" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+  </div>
+  </div>
+  </div>
+ </div>
+</div>
+
+<script src="../js/micromodal.min.js"></script>
+<link href="../css/style-taxon.css" rel="stylesheet">
+<link href="../css/micromodal.css" rel="stylesheet">
+
+<script>
+MicroModal.init();
+</script>
+

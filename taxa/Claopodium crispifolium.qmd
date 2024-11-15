@@ -12,7 +12,7 @@ categories:
  </div>
  <div class="info-bottom">
   <div class="taxon-qnd">Crisp Maple Dweller</div>
-  <div class="taxon-abundance">frequent</div>
+  <div class="taxon-abundance">XXXXXX</div>
  </div>
 </div>
 <div class="imerss-content-frame">
@@ -22,6 +22,7 @@ categories:
 
   <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Mosses/Leskiaceae/Claopodium_crispifolium/macro_pics/CLAOCRI_AS_iNat_01.jpg)" title="Andrew Simon">
   </div>
+ 
  </div>
  <div class="imerss-content-lower">
   <div class="imerss-column-left">
@@ -49,6 +50,15 @@ Homalothecium fulgescens, Isothecium stoloniferum, Neckera menziesii, Plagiomniu
 <div class="imerss-column-right">
 
 <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Mosses/Leskiaceae/Claopodium_crispifolium/macro_pics/CLAOCRI_JDR_iNat_01.jpg)" title="John Reynolds">
+</div>
+
+<div class="imerss-map-holder">
+```{r warning=F, message=F, echo=F}
+setwd("..")
+source("page_functions.R")
+map = make_species_map("Claopodium crispifolium")
+map
+```
 </div>
 
 </div>

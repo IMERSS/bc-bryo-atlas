@@ -1,0 +1,98 @@
+---
+title: Cephaloziella divaricata
+image: "../img/"
+categories:
+  - Marchantiophyta
+---
+
+<div class="info-panel">
+ <div class="info-top">
+  <div class="taxon-scientific"><span class="taxon-name">Cephaloziella divaricata</span> <span class="taxon-authority">(Sm.) Schiffn.</span> <span class="taxon-family">(Cephaloziellaceae)</span></div>
+  <div class="taxon-common">Common threadwort</div>
+ </div>
+ <div class="info-bottom">
+  <div class="taxon-qnd"></div>
+  <div class="taxon-abundance">Frequent</div>
+ </div>
+</div>
+<div class="imerss-content-frame">
+ <div class="imerss-image-header">
+  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+  </div>
+
+  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+  </div>
+ 
+ </div>
+ <div class="imerss-content-lower">
+  <div class="imerss-column-left">
+  <div class="tab-microscope" data-micromodal-trigger="modal-plate">
+  <img src="../img/bryo guide microscope.png"/>
+  </div>
+
+<h2>Distinguishing Features</h2>
+
+Small enough to evade notice (&lt;.5 mm wide) but ambient enough to be found in almost any habitat, C. divaricata varies from green to black in colour and solitary threads to dense tufts in growth habit. The vegetative leaves are smaller than the shoot diameter and are sharply two-lobed to about 1/2 or 3/4 leave length and fairly smooth along their edges. Microscopic examination should be used to confirm this latter character as well as the presence of oil bodies.
+
+<h2>Similar species</h2>
+
+Sphenolobopsis, Marsupella, Cephalozia and Fuscocephaloziopsis can be of similair size and leaf form, but the leaves in those genera are wider than the stems and have oil bodies, while in C. divaricata oil bodies are lacking and the leaves are narrower than the stem. Eremonotus myriocarpus is very similar in size, leaf shape and threadlike growth habit. It grows in the very specific habitat of damp vertical rock, but otherwise requires granular examination of the shoots to compare leaf shapes and reproductive structures- see photos under that species. Other species of Cephaloziella (C. phyllacantha, C. spinigera, C. turneri, C. elachista) in this region have leaves divided almost to their bases in addition to prominent teeth along the leaf margins. Vegetative leaves of C. divaricata are divided to about half their length and typically without teeth.  The remaining species will need to be parsed based on the arrngement of their reproductive organs. In Cephaloziella divaricata, the modified leafy structures that bear the archegonia (&quot;gynoecia&quot;) and antheridia (&quot;androecia&quot;), while in C. rubellum, C. varians and C. hampeana, they can be found on the same shoots.
+
+<h2>Habitat</h2>
+
+
+
+<h2>Associated species</h2>
+
+
+</div>
+
+<div class="imerss-column-right">
+
+<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+</div>
+
+<div class="imerss-map-holder">
+```{r warning=F, message=F, echo=F}
+setwd("..")
+source("page_functions.R")
+map = make_species_map("Cephaloziella divaricata")
+map
+```
+</div>
+
+</div>
+
+</div>
+</div>
+
+<div class="taxon-footer">
+ <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>2024-11-06</span></div>
+</div>
+
+<div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">
+ <div class="modal__overlay" tabindex="-1" data-micromodal-close>
+  <div class="modal__container" role="dialog" aria-modal="true" aria-labelledby="modal-plate-title" >
+   <header class="modal__header">
+   <div class="modal__title" id="modal-plate-title">
+  Cephaloziella divaricata plate
+   </div>
+   <button class="modal__close" aria-label="Close" data-micromodal-close></button>
+   </header>
+  <div class="modal__content" id="modal-plate-content">
+   <div class="imerss-image-holder" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+  </div>
+  </div>
+  </div>
+ </div>
+</div>
+
+<script src="../js/micromodal.min.js"></script>
+<link href="../css/style-taxon.css" rel="stylesheet">
+<link href="../css/micromodal.css" rel="stylesheet">
+
+<script>
+MicroModal.init();
+</script>
+

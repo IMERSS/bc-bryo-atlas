@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.433">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>BC Bryo Guide - Liverworts</title>
+<title>Liverworts – BC Bryo Guide</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -47,6 +47,7 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -83,8 +84,35 @@ ul.task-list li input[type="checkbox"] {
   })
   </script>
 
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="css/style.css">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.0.0/css/all.css">
@@ -94,9 +122,9 @@ ul.task-list li input[type="checkbox"] {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
     <img src="./img/bryo logo.jpg" alt="" class="navbar-logo">
     </a>
@@ -104,43 +132,43 @@ ul.task-list li input[type="checkbox"] {
     <span class="navbar-title">BC Bryo Guide</span>
     </a>
   </div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html" rel="" target="">
- <span class="menu-text">Home</span></a>
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./mosses.html" rel="" target="">
- <span class="menu-text">Mosses</span></a>
+    <a class="nav-link" href="./mosses.html"> 
+<span class="menu-text">Mosses</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./liverworts.html" rel="" target="" aria-current="page">
- <span class="menu-text">Liverworts</span></a>
+    <a class="nav-link active" href="./liverworts.html" aria-current="page"> 
+<span class="menu-text">Liverworts</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./hornworts.html" rel="" target="">
- <span class="menu-text">Hornworts</span></a>
+    <a class="nav-link" href="./hornworts.html"> 
+<span class="menu-text">Hornworts</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./atlas.qmd" rel="" target="">
- <span class="menu-text">Atlas</span></a>
+    <a class="nav-link" href="./atlas.qmd"> 
+<span class="menu-text">Atlas</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./keys.qmd" rel="" target="">
- <span class="menu-text">Keys</span></a>
+    <a class="nav-link" href="./keys.qmd"> 
+<span class="menu-text">Keys</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./resources.qmd" rel="" target="">
- <span class="menu-text">Resources</span></a>
+    <a class="nav-link" href="./resources.qmd"> 
+<span class="menu-text">Resources</span></a>
   </li>  
 </ul>
-            <div class="quarto-navbar-tools ms-auto">
-</div>
           </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -167,7 +195,9 @@ ul.task-list li input[type="checkbox"] {
   </div>
   
 
+
 </header>
+
 
 
 
@@ -175,11 +205,781 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="Marchantiophyta" data-listing-file-modified-sort="1725811998573" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="0" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681139628" data-listing-reading-time-sort="1" data-listing-word-count-sort="159">
+<a href="./taxa/Anastrepta orcadensis.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Anastrepta orcadensis
+</h5>
+<div class="card-text listing-description">
+<link href="../css/style-taxon.css" rel="stylesheet"> <link href="../css/micromodal.css" rel="stylesheet">
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681139469" data-listing-reading-time-sort="1" data-listing-word-count-sort="159">
+<a href="./taxa/Anastrophyllum assimile.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Anastrophyllum assimile
+</h5>
+<div class="card-text listing-description">
+<link href="../css/style-taxon.css" rel="stylesheet"> <link href="../css/micromodal.css" rel="stylesheet">
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681139590" data-listing-reading-time-sort="1" data-listing-word-count-sort="159">
+<a href="./taxa/Anastrophyllum donnianum.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Anastrophyllum donnianum
+</h5>
+<div class="card-text listing-description">
+<link href="../css/style-taxon.css" rel="stylesheet"> <link href="../css/micromodal.css" rel="stylesheet">
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681139529" data-listing-reading-time-sort="1" data-listing-word-count-sort="159">
+<a href="./taxa/Anastrophyllum michauxii.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Anastrophyllum michauxii
+</h5>
+<div class="card-text listing-description">
+<link href="../css/style-taxon.css" rel="stylesheet"> <link href="../css/micromodal.css" rel="stylesheet">
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="4" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681141586" data-listing-reading-time-sort="2" data-listing-word-count-sort="400">
+<a href="./taxa/Anthelia julacea.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Anthelia julacea
+</h5>
+<div class="card-text listing-description">
+Easily overlooked in out of the way habitats, Anthelia julacea grows as tiny (&lt;.5 mm wide) overlapping shoots packed into silvery, horizontal turfs on bare rock in areas of…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="5" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681141621" data-listing-reading-time-sort="2" data-listing-word-count-sort="400">
+<a href="./taxa/Anthelia juratzkana.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Anthelia juratzkana
+</h5>
+<div class="card-text listing-description">
+Easily overlooked in out of the way habitats, Anthelia julacea grows as tiny (&lt;.5 mm wide) overlapping shoots packed into silvery, horizontal turfs on bare rock in areas of…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="6" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681141135" data-listing-reading-time-sort="2" data-listing-word-count-sort="310">
+<a href="./taxa/Bazzania ambigua.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Bazzania ambigua
+</h5>
+<div class="card-text listing-description">
+A cryptic species of decaying wood and organic matter, Bazzania ambigua typically presents as green-to-brown horizontal shoots (~2 mm wide) that fork evenly. The arched…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="7" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681141209" data-listing-reading-time-sort="3" data-listing-word-count-sort="439">
+<a href="./taxa/Bazzania denudata.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Bazzania denudata
+</h5>
+<div class="card-text listing-description">
+The most common member of the genus, Bazzania denudata typically presents as emerald-green horizontal shoots (~2 mm wide) that fork evenly and, as the species name…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="8" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681141275" data-listing-reading-time-sort="2" data-listing-word-count-sort="367">
+<a href="./taxa/Bazzania griffithiana.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Bazzania griffithiana
+</h5>
+<div class="card-text listing-description">
+A rare species in highly restricted habitat, B. griffithiana forms large, loosely-branched scrambling yellow-to-brown shoots up to 8 cm long. Its triangular lateral leaves…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="9" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681141337" data-listing-reading-time-sort="1" data-listing-word-count-sort="182">
+<a href="./taxa/Bazzania pearsonii.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Bazzania pearsonii
+</h5>
+<div class="card-text listing-description">
+Moist to wet, often shady rock outcrops, cliffs, ledges, boulders, humus, decayed wood, tree bases, bogs, streambanks, and tundra in the lowland, montane, and subalpine zones
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="10" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681141354" data-listing-reading-time-sort="2" data-listing-word-count-sort="326">
+<a href="./taxa/Bazzania tricrenata.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Bazzania tricrenata
+</h5>
+<div class="card-text listing-description">
+Loping over peaty grounds, decaying organic matter, tree trunks and bedrock, B. tricrenata is a predominantly yellow-brown species with shoots up to 4 cm long found in a…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="11" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681141374" data-listing-reading-time-sort="2" data-listing-word-count-sort="272">
+<a href="./taxa/Bazzania trilobata.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Bazzania trilobata
+</h5>
+<div class="card-text listing-description">
+An eye-catching plant of wet boggy ground, Bazzania trilobata has wide (3-6 mm) leafy green shoots that fork evenly at their tips. The leaves have have a rectangular shape…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="12" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681141546" data-listing-reading-time-sort="2" data-listing-word-count-sort="248">
+<a href="./taxa/Blepharostoma arachnoideum.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Blepharostoma arachnoideum
+</h5>
+<div class="card-text listing-description">
+Blepharostoma arachnoideum is a rare liverwort of very moist peatlands and creekbanks, where its transluscent green and delicately-branched leaves emerge from very narrow…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="13" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681141564" data-listing-reading-time-sort="2" data-listing-word-count-sort="373">
+<a href="./taxa/Blepharostoma trichophyllum.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Blepharostoma trichophyllum
+</h5>
+<div class="card-text listing-description">
+Delicate and filamentous plants of Blepharostoma are frequent but easy to overlook in their moist microhabitats, where they occur as transluscent yellow-to-green bristly…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="14" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681139675" data-listing-reading-time-sort="2" data-listing-word-count-sort="310">
+<a href="./taxa/Calypogeia azurea.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Calypogeia azurea
+</h5>
+<div class="card-text listing-description">
+A frequent species in the damp, dark and wet coastal coniferous forests in which it thrive, Calypogeia azurea occurs as a small, creeping blue plant on decaying organic…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="15" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681139699" data-listing-reading-time-sort="2" data-listing-word-count-sort="321">
+<a href="./taxa/Calypogeia integristipula.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Calypogeia integristipula
+</h5>
+<div class="card-text listing-description">
+An infrequent species of creek and drainage banks, C. integrispula forms linear shoots &gt;2 mm wide composed of two rows of round, opaque green leaves overlapping in a…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="16" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681139733" data-listing-reading-time-sort="3" data-listing-word-count-sort="462">
+<a href="./taxa/Calypogeia muelleriana.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Calypogeia muelleriana
+</h5>
+<div class="card-text listing-description">
+The most common species of the genus Calypogeia in our region, C. mulleriana is a dark green leafy liverwort with linear shoots (~2mm wide) composed of round leaves that…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="17" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681139753" data-listing-reading-time-sort="2" data-listing-word-count-sort="230">
+<a href="./taxa/Calypogeia neesiana.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Calypogeia neesiana
+</h5>
+<div class="card-text listing-description">
+A rare species xxxx
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="18" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681139687" data-listing-reading-time-sort="2" data-listing-word-count-sort="284">
+<a href="./taxa/Calypogeia neogaea.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Calypogeia neogaea
+</h5>
+<div class="card-text listing-description">
+An infrequent species of wet, peaty banks, the light green and relatively large Calypogeia fissa forms long shoots (&gt; 2cm) that loosely weave through other bryophytes. The…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="19" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681139784" data-listing-reading-time-sort="2" data-listing-word-count-sort="354">
+<a href="./taxa/Calypogeia sphagnicola.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Calypogeia sphagnicola
+</h5>
+<div class="card-text listing-description">
+Tiny translucent green (~1mm wide) threads of Calypogeia sphagnicola are a frequent but easily overlooked component of bogs and fens, where they grow in and amongst the…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="20" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681139812" data-listing-reading-time-sort="2" data-listing-word-count-sort="318">
+<a href="./taxa/Calypogeia suecica.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Calypogeia suecica
+</h5>
+<div class="card-text listing-description">
+A rarely noticed species of decaying wood in coniferous forests, C. suecica is a tiny (~ 1 mm wide) pale-green plant with two rows of round leaves that overlap in a…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="21" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681139824" data-listing-reading-time-sort="2" data-listing-word-count-sort="308">
+<a href="./taxa/Cephalozia ambigua.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Cephalozia ambigua
+</h5>
+<div class="card-text listing-description">
+A rarely observed species unique in the genus on account of being XXX, C. ambigua forms small green-brown shoots (~ .5 mm wide) of diagonally-inserted bilobed leaves that…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="22" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681139842" data-listing-reading-time-sort="3" data-listing-word-count-sort="427">
+<a href="./taxa/Cephalozia bicuspidata.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Cephalozia bicuspidata
+</h5>
+<div class="card-text listing-description">
+A very common species, Cephalozia bicuspidata forms bright, creeping, translucent green shoots 1-2 mm wide on decaying wood and peat in wet forests and bogs. Inspection with…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="23" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681139866" data-listing-reading-time-sort="2" data-listing-word-count-sort="307">
+<a href="./taxa/Cephalozia macounii.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Cephalozia macounii
+</h5>
+<div class="card-text listing-description">
+A rare species forming tiny threads &lt;&lt;.5 mm across, C. macounii will need microscopic examination to identify (if not detect!). The bilobed leaves are the same width as the…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="24" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681140315" data-listing-reading-time-sort="3" data-listing-word-count-sort="421">
+<a href="./taxa/Cephaloziella divaricata.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Cephaloziella divaricata
+</h5>
+<div class="card-text listing-description">
+Small enough to evade notice (&lt;.5 mm wide) but ambient enough to be found in almost any habitat, C. divaricata varies from green to black in colour and solitary threads to…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="25" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681140410" data-listing-reading-time-sort="2" data-listing-word-count-sort="377">
+<a href="./taxa/Cephaloziella elachista.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Cephaloziella elachista
+</h5>
+<div class="card-text listing-description">
+One of two exclusively "Sphagnicolous" species in the genus, C. elachista is easily overlooked as wayward pale green hair or algae-like strands (&lt; 1/4 mm wide to cms long)…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="26" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681140359" data-listing-reading-time-sort="3" data-listing-word-count-sort="404">
+<a href="./taxa/Cephaloziella hampeana.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Cephaloziella hampeana
+</h5>
+<div class="card-text listing-description">
+Poorly known in the region but cosmopolitan across the temperate and boreal regions of the Northern Hemisphere, Cephaloziella hampeana follows standard green-to-red, small…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="27" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681140436" data-listing-reading-time-sort="2" data-listing-word-count-sort="304">
+<a href="./taxa/Cephaloziella phyllacantha.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Cephaloziella phyllacantha
+</h5>
+<div class="card-text listing-description">
+A rare cryptic species of very damp rock and soil near waterfalls where it threads its way through other, larger bryophytes, Cephaloziella phyllacantha is a whitish green…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="28" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681140452" data-listing-reading-time-sort="2" data-listing-word-count-sort="271">
+<a href="./taxa/Cephaloziella rubella.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Cephaloziella rubella
+</h5>
+<div class="card-text listing-description">
+A perplexing species with a reddish hue, Cephaloziella rubella has very narrow (~1/4 mm) leafy shoots. Under the hand lens, you should see leaves divided to about half their…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="29" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681140508" data-listing-reading-time-sort="2" data-listing-word-count-sort="376">
+<a href="./taxa/Cephaloziella spinigera.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Cephaloziella spinigera
+</h5>
+<div class="card-text listing-description">
+One of two exclusively "Sphagnicolous" species in the genus, C. spinigera is easily overlooked as wayward pale green hair or algae-like strands (&lt; 1/4 mm wide to cms long)…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="30" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681140544" data-listing-reading-time-sort="2" data-listing-word-count-sort="274">
+<a href="./taxa/Cephaloziella turneri.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Cephaloziella turneri
+</h5>
+<div class="card-text listing-description">
+The "biggest" species in the genus (shoots to about .5 mm wide and 1 cm long), Cephaloziella turneri is an infrequent yellowish green-to-brown presence in summer dry rocky…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="31" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681140561" data-listing-reading-time-sort="1" data-listing-word-count-sort="194">
+<a href="./taxa/Cephaloziella varians.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Cephaloziella varians
+</h5>
+<div class="card-text listing-description">
+Seemingly restricted to
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="32" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681141669" data-listing-reading-time-sort="3" data-listing-word-count-sort="515">
+<a href="./taxa/Chiloscyphus pallescens.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Chiloscyphus pallescens
+</h5>
+<div class="card-text listing-description">
+Common in habitats that are at least seasonally inundated with water, this species has large pale-green, delicate and square leaves that spread out from their attachment…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="33" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681141693" data-listing-reading-time-sort="3" data-listing-word-count-sort="518">
+<a href="./taxa/Chiloscyphus polyanthos.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Chiloscyphus polyanthos
+</h5>
+<div class="card-text listing-description">
+Common in habitats that are at least seasonally inundated with water, this species has large, dark green, delicate and square leaves that spread out from their attachment…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="34" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681139420" data-listing-reading-time-sort="1" data-listing-word-count-sort="161">
+<a href="./taxa/Crossocalyx hellerianus.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Crossocalyx hellerianus
+</h5>
+<div class="card-text listing-description">
+<link href="../css/style-taxon.css" rel="stylesheet"> <link href="../css/micromodal.css" rel="stylesheet">
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="35" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681137853" data-listing-reading-time-sort="2" data-listing-word-count-sort="302">
 <a href="./taxa/Diplophyllum albicans.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -197,11 +997,11 @@ A frequent component of dark and wet forests, D. albicans forms luxuriant patche
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="Marchantiophyta" data-listing-file-modified-sort="1725811998577" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="36" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681137864" data-listing-reading-time-sort="2" data-listing-word-count-sort="305">
 <a href="./taxa/Diplophyllum obtusifolium.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -219,18 +1019,18 @@ An infrequent colonizer of mineral soils, especially around forest margins, D. o
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="Marchantiophyta" data-listing-file-modified-sort="1725811998580" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="37" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681137875" data-listing-reading-time-sort="2" data-listing-word-count-sort="341">
 <a href="./taxa/Diplophyllum taxifolium.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Diplophyllum taxifolium
 </h5>
 <div class="card-text listing-description">
-A particularly conspicuous component of montane and subalpine rocky ledges, this green-to-bright yellow Diplophyllum forms thin, delicate of shoots…
+A particularly conspicuous component of montane and subalpine rocky ledges, this green-to-bright yellow Diplophyllum forms thin, delicate of shoots 1-3 cm long by 3 mm wide.…
 </div>
 <div class="card-attribution card-text-small start">
 <div class="listing-author">
@@ -241,11 +1041,11 @@ A particularly conspicuous component of montane and subalpine rocky ledges, this
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="3" data-categories="Marchantiophyta" data-listing-file-modified-sort="1725811998583" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="38" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681137887" data-listing-reading-time-sort="2" data-listing-word-count-sort="278">
 <a href="./taxa/Douinia ovata.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -263,11 +1063,33 @@ An occasional species that becomes increasingly prominent in moist microhabitats
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="4" data-categories="Marchantiophyta" data-listing-file-modified-sort="1725811998586" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="39" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681141983" data-listing-reading-time-sort="1" data-listing-word-count-sort="184">
+<a href="./taxa/Eremonotus myriocarpus.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Eremonotus myriocarpus
+</h5>
+<div class="card-text listing-description">
+Moist to wet mineral soil, rock outcrops, cliffs, ledges, crevices, boulders, streambanks, and tundra in the lowland (rare), montane, subalpine, and alpine zones
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="40" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681137899" data-listing-reading-time-sort="2" data-listing-word-count-sort="217">
 <a href="./taxa/Fossombronia foveolata.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -285,11 +1107,11 @@ Found along the fine sediments at the margins of seasonally-receeding water bodi
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="5" data-categories="Marchantiophyta" data-listing-file-modified-sort="1725811998589" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="41" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681137930" data-listing-reading-time-sort="2" data-listing-word-count-sort="238">
 <a href="./taxa/Fossombronia longiseta.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -307,11 +1129,11 @@ Often obscured by other bryophytes and small grasses on seeping open soils or pr
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="6" data-categories="Marchantiophyta" data-listing-file-modified-sort="1725811998592" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="42" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681137942" data-listing-reading-time-sort="2" data-listing-word-count-sort="301">
 <a href="./taxa/Frullania bolanderi.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -329,18 +1151,18 @@ In seasonally water saturated environments, this infrequent, tiny but fiesty Fru
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="7" data-categories="Marchantiophyta" data-listing-file-modified-sort="1725811998594" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="43" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681137964" data-listing-reading-time-sort="2" data-listing-word-count-sort="344">
 <a href="./taxa/Frullania californica.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Frullania californica
 </h5>
 <div class="card-text listing-description">
-Tiny (&lt;1mm wide shoots) and often camouflaged against bark, this uncommon species of coastal forests is variably green and red, modestly branched and marked by…
+Tiny (&lt;1mm wide shoots) and often camouflaged against bark, this uncommon species of coastal forests is variably green and red, modestly branched and marked by upper leaf…
 </div>
 <div class="card-attribution card-text-small start">
 <div class="listing-author">
@@ -351,11 +1173,11 @@ Tiny (&lt;1mm wide shoots) and often camouflaged against bark, this uncommon spe
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="8" data-categories="Marchantiophyta" data-listing-file-modified-sort="1725811998597" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="44" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681138065" data-listing-reading-time-sort="2" data-listing-word-count-sort="236">
 <a href="./taxa/Frullania franciscana.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -373,11 +1195,11 @@ Uncommon and cryptic, this small (&lt;1mm wide) green-to-purple Frullania is mos
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="9" data-categories="Marchantiophyta" data-listing-file-modified-sort="1725811998600" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="45" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681138125" data-listing-reading-time-sort="2" data-listing-word-count-sort="361">
 <a href="./taxa/Frullania hattoriana.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -395,11 +1217,11 @@ A seemingly rare species of montane old growth forest near the coast, you could 
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="10" data-categories="Marchantiophyta" data-listing-file-modified-sort="1725811998603" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="46" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681138148" data-listing-reading-time-sort="3" data-listing-word-count-sort="402">
 <a href="./taxa/Frullania nisquallensis.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -417,18 +1239,722 @@ A very common species of coastal forests and rocks, the variably green but more 
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="11" data-categories="Marchantiophyta" data-listing-file-modified-sort="1725811998606" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="47" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681139882" data-listing-reading-time-sort="2" data-listing-word-count-sort="300">
+<a href="./taxa/Fuscocephaloziopsis albescens.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Fuscocephaloziopsis albescens
+</h5>
+<div class="card-text listing-description">
+With relatively wide (&gt; 1 mm) and worm-like pale green shoots clustering amongst and growing through Sphagnum in subalpine areas, F. albescens takes some work to see. The…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="48" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681139891" data-listing-reading-time-sort="1" data-listing-word-count-sort="172">
+<a href="./taxa/Fuscocephaloziopsis catenulata.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Fuscocephaloziopsis catenulata
+</h5>
+<div class="card-text listing-description">
+Known from only a few records south of Alaska, F. catenulata xxxx
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="49" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681139904" data-listing-reading-time-sort="2" data-listing-word-count-sort="289">
+<a href="./taxa/Fuscocephaloziopsis connivens.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Fuscocephaloziopsis connivens
+</h5>
+<div class="card-text listing-description">
+Fuscocephaloziopsis connivens is a common species typical of wet wood and decaying organic matter, on which its small (~ 1 mm wide) translucent green shoots creep. The two…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="50" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681139988" data-listing-reading-time-sort="1" data-listing-word-count-sort="160">
+<a href="./taxa/Fuscocephaloziopsis leucantha.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Fuscocephaloziopsis leucantha
+</h5>
+<div class="card-text listing-description">
+<link href="../css/style-taxon.css" rel="stylesheet"> <link href="../css/micromodal.css" rel="stylesheet">
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="51" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681140030" data-listing-reading-time-sort="2" data-listing-word-count-sort="370">
+<a href="./taxa/Fuscocephaloziopsis lunulifolia.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Fuscocephaloziopsis lunulifolia
+</h5>
+<div class="card-text listing-description">
+The small (~.5 mm wide) linear shoots of F. lunulifolia are an opaque green and easily overlooked on the decaying wood and peat that they grow over. Close inspection show a…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="52" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681140084" data-listing-reading-time-sort="2" data-listing-word-count-sort="298">
+<a href="./taxa/Fuscocephaloziopsis monticola.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Fuscocephaloziopsis monticola
+</h5>
+<div class="card-text listing-description">
+F. monticola is an infrequent species forming relatively dense albeit small turfs of stiff, compressed dark green shoots up to 3 mm wide along slopes in the high subalpine.…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="53" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681140115" data-listing-reading-time-sort="2" data-listing-word-count-sort="362">
+<a href="./taxa/Fuscocephaloziopsis pleniceps.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Fuscocephaloziopsis pleniceps
+</h5>
+<div class="card-text listing-description">
+Forming tiny (&lt; 1mm wide), translucent shoots in peaty areas, F. pleniceps is an often overlooked and ergo uncommon bilobed leafy liverwort species. Hand lens inspection of…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="54" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681141646" data-listing-reading-time-sort="2" data-listing-word-count-sort="262">
+<a href="./taxa/Geocalyx graveolens.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Geocalyx graveolens
+</h5>
+<div class="card-text listing-description">
+Infrequent and easy to confuse with other two-lobed species, Geocalyx graveolens creeps loosely over its substrate, its yellow-green shoots bearing leaves that spread out…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="55" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681140582" data-listing-reading-time-sort="2" data-listing-word-count-sort="217">
+<a href="./taxa/Gymnomitrion alpinum.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Gymnomitrion alpinum
+</h5>
+<div class="card-text listing-description">
+Forming fine carpets of rusty red shoots 1-2 mm wide over mineral soil and debris along flushes, G. alpinum has a lanky habit on account of its loosely overlapping bilobed…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="56" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681140601" data-listing-reading-time-sort="1" data-listing-word-count-sort="183">
+<a href="./taxa/Gymnomitrion brevissimum.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Gymnomitrion brevissimum
+</h5>
+<div class="card-text listing-description">
+See table
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="57" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681140613" data-listing-reading-time-sort="1" data-listing-word-count-sort="180">
+<a href="./taxa/Gymnomitrion commutatum.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Gymnomitrion commutatum
+</h5>
+<div class="card-text listing-description">
+See table
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="58" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681140632" data-listing-reading-time-sort="2" data-listing-word-count-sort="248">
+<a href="./taxa/Gymnomitrion concinnatum.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Gymnomitrion concinnatum
+</h5>
+<div class="card-text listing-description">
+A less common species of subalpine rock, G. concinnatum occurs as white wormy shoots to 2 cm long that occasionally branch as they loosely wend along the bases and in the…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="59" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681140655" data-listing-reading-time-sort="2" data-listing-word-count-sort="246">
+<a href="./taxa/Gymnomitrion corallioides.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Gymnomitrion corallioides
+</h5>
+<div class="card-text listing-description">
+One of the few liverworts to truly match its common name, G. coralloides presents as a lawn of densely compressed, pale whitish-green, rounded shoots to 2 cm tall by 2.5 mm…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="60" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681140696" data-listing-reading-time-sort="2" data-listing-word-count-sort="253">
+<a href="./taxa/Gymnomitrion obtusum.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Gymnomitrion obtusum
+</h5>
+<div class="card-text listing-description">
+Thriving on vertical rock faces, G. obtusum presents itself in dense tufts of downtrending white, wormy shoots up to 1 mm wide by centimeter(s) long. With a hand lens you…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="61" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681140754" data-listing-reading-time-sort="1" data-listing-word-count-sort="172">
+<a href="./taxa/Gymnomitrion pacificum.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Gymnomitrion pacificum
+</h5>
+<div class="card-text listing-description">
+See table
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="62" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681140815" data-listing-reading-time-sort="2" data-listing-word-count-sort="244">
+<a href="./taxa/Gymnomitrion revolutum.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Gymnomitrion revolutum
+</h5>
+<div class="card-text listing-description">
+A rare species of high altitudes and elevations, G. revolutum is variably red along its relatively wide (1-2 mm) and long (up to 5 mm) prostrate shoots of loosely…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="63" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681141969" data-listing-reading-time-sort="1" data-listing-word-count-sort="184">
+<a href="./taxa/Hygrobiella laxifolia.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Hygrobiella laxifolia
+</h5>
+<div class="card-text listing-description">
+Moist to wet, often shady mineral soil (esp.&nbsp;gravel), cliffs, boulders, rocky seepage areas, streambanks, and waterfall spray zones in the lowland, montane, and subalpine…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="64" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681142023" data-listing-reading-time-sort="1" data-listing-word-count-sort="184">
+<a href="./taxa/Jungermannia atrovirens.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Jungermannia atrovirens
+</h5>
+<div class="card-text listing-description">
+Moist to mesic, often calcareous rock outcrops, cliffs, ledges, crevices, boulders, humus, streambanks, heath, tundra, and occasionally decayed wood in the lowland, montane…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="65" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681142047" data-listing-reading-time-sort="1" data-listing-word-count-sort="175">
+<a href="./taxa/Jungermannia borealis.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Jungermannia borealis
+</h5>
+<div class="card-text listing-description">
+Moist, shady rock outcrops, cliffs, ledges, crevices, boulders, and streambanks in the lowland and montane zones
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="66" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681142057" data-listing-reading-time-sort="1" data-listing-word-count-sort="185">
+<a href="./taxa/Jungermannia exsertifolia.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Jungermannia exsertifolia
+</h5>
+<div class="card-text listing-description">
+Moist to wet rock outcrops, cliffs, ledges, crevices, boulders, bogs, streambanks, and waterfall spray zones, occasionally submerged in flowing water, in the lowland…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="67" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681142077" data-listing-reading-time-sort="1" data-listing-word-count-sort="174">
+<a href="./taxa/Jungermannia polaris.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Jungermannia polaris
+</h5>
+<div class="card-text listing-description">
+Moist rock outcrops, cliffs, ledges, crevices, boulders, streambanks, and snowbed sites in the subalpine and alpine zones
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="68" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681142106" data-listing-reading-time-sort="1" data-listing-word-count-sort="179">
+<a href="./taxa/Jungermannia pumila.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Jungermannia pumila
+</h5>
+<div class="card-text listing-description">
+Moist to wet, often shady mineral soil, rock outcrops, cliffs, ledges, crevices, boulders, fens, and streambanks in the lowland and montane zones
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="69" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681141410" data-listing-reading-time-sort="3" data-listing-word-count-sort="432">
+<a href="./taxa/Kurzia makinoana.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Kurzia makinoana
+</h5>
+<div class="card-text listing-description">
+In its ideal world of permanently moist decaying organic matter, K. makinoana presents itself as an almost imperceptiple transluscent dark green fuzz that calls to mind only…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="70" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681141453" data-listing-reading-time-sort="2" data-listing-word-count-sort="286">
+<a href="./taxa/Kurzia pauciflora.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Kurzia pauciflora
+</h5>
+<div class="card-text listing-description">
+Restricted to permanently moist, open bog habitats, variably green K. pauciflora forms a very fine (&lt;1/4 mm wide) filamentous fuzz in and amongst the sprigs of Sphagnum. The…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="71" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681141472" data-listing-reading-time-sort="2" data-listing-word-count-sort="349">
+<a href="./taxa/Kurzia trichoclados.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Kurzia trichoclados
+</h5>
+<div class="card-text listing-description">
+Virtually identical to other members of its genus, K. trichoclados is a tiny (~1/4 mm wide) and easily-overlooked or mitaken yellow-brown species with highly dissected and…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="72" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681141497" data-listing-reading-time-sort="2" data-listing-word-count-sort="341">
+<a href="./taxa/Lepidozia filamentosa.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Lepidozia filamentosa
+</h5>
+<div class="card-text listing-description">
+Presenting as a luxuriant, regularly and closely branched yellow plume of a leafy liverwort, Lepidozia filamentosa can form large, feather-like patches of shoots up to 5 cm…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="73" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681141517" data-listing-reading-time-sort="3" data-listing-word-count-sort="417">
+<a href="./taxa/Lepidozia reptans.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Lepidozia reptans
+</h5>
+<div class="card-text listing-description">
+Typically green or yellow-green, Lepidozia reptans is a dominant component of the decaying understories in coniferous forests, where it forms creeping and regularly-branched…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="74" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681141533" data-listing-reading-time-sort="2" data-listing-word-count-sort="364">
+<a href="./taxa/Lepidozia sandvicensis.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Lepidozia sandvicensis
+</h5>
+<div class="card-text listing-description">
+A large,seemingly filamentous plant, Lepidozia sandvicensis presents as a minature transluscent green tumbleweed, its shoots up to 5 cm long with numerous long branches…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="75" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681142141" data-listing-reading-time-sort="1" data-listing-word-count-sort="176">
+<a href="./taxa/Liochlaena lanceolata.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Liochlaena lanceolata
+</h5>
+<div class="card-text listing-description">
+Moist to mesic, shady humus, decayed wood, and streambanks, especially in coniferous forests, in the lowland and montane zones
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="76" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681141714" data-listing-reading-time-sort="3" data-listing-word-count-sort="410">
+<a href="./taxa/Lophocolea bidentata.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Lophocolea bidentata
+</h5>
+<div class="card-text listing-description">
+Lophocolea bidentata occurs dependably on logs (amongst other substrates) as tightly appressed, light green and transluscent creeping leafy shoots to 3 mm wide and many…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="77" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681141743" data-listing-reading-time-sort="3" data-listing-word-count-sort="455">
+<a href="./taxa/Lophocolea heterophylla.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Lophocolea heterophylla
+</h5>
+<div class="card-text listing-description">
+Found on a variety of substrates in moist habitats, L. heterophylla grows tightly appressed and creeping, its light-to-dark green leaves spreading out like flags 90 degrees…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="78" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681141774" data-listing-reading-time-sort="3" data-listing-word-count-sort="430">
+<a href="./taxa/Lophocolea minor.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Lophocolea minor
+</h5>
+<div class="card-text listing-description">
+A small and easily-overlooked species of decaying wood, Lophocolea minor is a creeping species with pale yellow-green shoots roughly 1 mm wide to about 1 cm long. Like other…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="79" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681138208" data-listing-reading-time-sort="2" data-listing-word-count-sort="283">
 <a href="./taxa/Macrodiplophyllum flaccidum.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Macrodiplophyllum flaccidum
 </h5>
 <div class="card-text listing-description">
-An infrequent species of uncommonly moist low-elevation microhabitats (waterfalls, deep canyons), M. flaccidum is marked by…
+An infrequent species of uncommonly moist low-elevation microhabitats (waterfalls, deep canyons), M. flaccidum is marked by elongate, toothed lobes and a glossy palour. The…
 </div>
 <div class="card-attribution card-text-small start">
 <div class="listing-author">
@@ -439,18 +1965,18 @@ An infrequent species of uncommonly moist low-elevation microhabitats (waterfall
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="12" data-categories="Marchantiophyta" data-listing-file-modified-sort="1725811998609" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="80" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681138252" data-listing-reading-time-sort="2" data-listing-word-count-sort="319">
 <a href="./taxa/Macrodiplophyllum imbricatum.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Macrodiplophyllum imbricatum
 </h5>
 <div class="card-text listing-description">
-An infrequent species of higher elevation, M. imbricatum is a yellow or yellow brown robust rock and tundra dweller with smooth lobe margins and an upper…
+An infrequent species of higher elevation, M. imbricatum is a yellow or yellow brown robust rock and tundra dweller with smooth lobe margins and an upper lobe oriented at ~…
 </div>
 <div class="card-attribution card-text-small start">
 <div class="listing-author">
@@ -461,11 +1987,11 @@ An infrequent species of higher elevation, M. imbricatum is a yellow or yellow b
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="13" data-categories="Marchantiophyta" data-listing-file-modified-sort="1725811998611" data-listing-reading-time-sort="1">
+<div class="g-col-1" data-index="81" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681138284" data-listing-reading-time-sort="1" data-listing-word-count-sort="157">
 <a href="./taxa/Macrodiplophyllum microdontum.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -483,11 +2009,11 @@ XXXXXX
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="14" data-categories="Marchantiophyta" data-listing-file-modified-sort="1725811998616" data-listing-reading-time-sort="1">
+<div class="g-col-1" data-index="82" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681138333" data-listing-reading-time-sort="1" data-listing-word-count-sort="183">
 <a href="./taxa/Macrodiplophyllum plicatum.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -505,11 +2031,11 @@ XXXXXX
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="15" data-categories="Marchantiophyta" data-listing-file-modified-sort="1725811998619" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="83" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681138392" data-listing-reading-time-sort="2" data-listing-word-count-sort="333">
 <a href="./taxa/Macrodiplophyllum rubrum.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -527,18 +2053,18 @@ An occasional giant (up to 1 cm wide) of very wet and peaty coniferous forest, t
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="16" data-categories="Marchantiophyta" data-listing-file-modified-sort="1725811998621" data-listing-reading-time-sort="2">
-<a href="./taxa/Metzgeria americana.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="84" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681140851" data-listing-reading-time-sort="1" data-listing-word-count-sort="175">
+<a href="./taxa/Marsupella apiculata.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Metzgeria americana
+Marsupella apiculata
 </h5>
 <div class="card-text listing-description">
-A rare but luxuriant (up to 3mm wide), fuzzy and frilly Metzgeria of extremely moist coastal forests, this…
+Moist to mesic humus, rock outcrops, cliffs, ledges, crevices, boulders, and tundra in the subalpine and alpine zones
 </div>
 <div class="card-attribution card-text-small start">
 <div class="listing-author">
@@ -549,11 +2075,209 @@ A rare but luxuriant (up to 3mm wide), fuzzy and frilly Metzgeria of extremely m
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="17" data-categories="Marchantiophyta" data-listing-file-modified-sort="1725811998624" data-listing-reading-time-sort="3">
+<div class="g-col-1" data-index="85" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681140895" data-listing-reading-time-sort="1" data-listing-word-count-sort="166">
+<a href="./taxa/Marsupella aquatica.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Marsupella aquatica
+</h5>
+<div class="card-text listing-description">
+Submerged or Seasonally exposed on rocks in lowland streams
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="86" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681140931" data-listing-reading-time-sort="1" data-listing-word-count-sort="161">
+<a href="./taxa/Marsupella boeckii.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Marsupella boeckii
+</h5>
+<div class="card-text listing-description">
+<link href="../css/style-taxon.css" rel="stylesheet"> <link href="../css/micromodal.css" rel="stylesheet">
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="87" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681140962" data-listing-reading-time-sort="1" data-listing-word-count-sort="182">
+<a href="./taxa/Marsupella condensata.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Marsupella condensata
+</h5>
+<div class="card-text listing-description">
+Moist to wet, often shady rock outcrops, cliffs, ledges, crevices, boulders, and occasionally humus in the montane and subalpine zones
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="88" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681140996" data-listing-reading-time-sort="1" data-listing-word-count-sort="185">
+<a href="./taxa/Marsupella emarginata.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Marsupella emarginata
+</h5>
+<div class="card-text listing-description">
+Moist to wet mineral soil, rock outcrops, cliffs, ledges, crevices, boulders, streambanks, and tundra, occasionally submerged in shallow water, in the lowland, montane…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="89" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681141022" data-listing-reading-time-sort="1" data-listing-word-count-sort="175">
+<a href="./taxa/Marsupella sparsifolia.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Marsupella sparsifolia
+</h5>
+<div class="card-text listing-description">
+Moist to wet rock outcrops, cliffs, ledges, crevices, and boulders in the lowland, montane, and subalpine zones
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="90" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681141048" data-listing-reading-time-sort="1" data-listing-word-count-sort="184">
+<a href="./taxa/Marsupella sphacelata.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Marsupella sphacelata
+</h5>
+<div class="card-text listing-description">
+Moist to wet rock outcrops, cliffs, ledges, crevices, boulders, humus, snowbed sites, bogs, peatlands, and tundra in the montane, subalpine, and alpine zones
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="91" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681141087" data-listing-reading-time-sort="1" data-listing-word-count-sort="174">
+<a href="./taxa/Marsupella sprucei.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Marsupella sprucei
+</h5>
+<div class="card-text listing-description">
+Moist, shady rock outcrops, cliffs, crevices, boulders, and snowbed sites in the montane and subalpine zones
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="92" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681141121" data-listing-reading-time-sort="1" data-listing-word-count-sort="177">
+<a href="./taxa/Marsupella stableri.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Marsupella stableri
+</h5>
+<div class="card-text listing-description">
+Moist to wet humus, mineral soil, rock outcrops, cliffs, ledges, crevices, and boulders in the lowland, montane, subalpine, and alpine zones
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="93" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681138429" data-listing-reading-time-sort="2" data-listing-word-count-sort="235">
+<a href="./taxa/Metzgeria americana.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Metzgeria americana
+</h5>
+<div class="card-text listing-description">
+A rare but luxuriant (up to 3mm wide), fuzzy and frilly Metzgeria of extremely moist coastal forests, this species forms large convoluted ribbons that jut free some distance…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="94" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681138462" data-listing-reading-time-sort="3" data-listing-word-count-sort="441">
 <a href="./taxa/Metzgeria conjugata.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -571,11 +2295,11 @@ A frequent and elongate simple thalloid liverwort in moist forests and shaded ro
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="18" data-categories="Marchantiophyta" data-listing-file-modified-sort="1725811998627" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="95" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681138502" data-listing-reading-time-sort="2" data-listing-word-count-sort="237">
 <a href="./taxa/Metzgeria leptoneura.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -593,18 +2317,18 @@ A rare species of the wet coasts, where it XXX
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="19" data-categories="Marchantiophyta" data-listing-file-modified-sort="1725811998630" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="96" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681138559" data-listing-reading-time-sort="2" data-listing-word-count-sort="241">
 <a href="./taxa/Metzgeria lindbergii.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Metzgeria lindbergii
 </h5>
 <div class="card-text listing-description">
-A robust and translucent species of wet coastal forests and rock, the evenly-forking M. lindbergii is an uncommon species with a very rigid…
+A robust and translucent species of wet coastal forests and rock, the evenly-forking M. lindbergii is an uncommon species with a very rigid growth habit, growing…
 </div>
 <div class="card-attribution card-text-small start">
 <div class="listing-author">
@@ -615,18 +2339,18 @@ A robust and translucent species of wet coastal forests and rock, the evenly-for
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="20" data-categories="Marchantiophyta" data-listing-file-modified-sort="1725811998633" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="97" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681138608" data-listing-reading-time-sort="2" data-listing-word-count-sort="259">
 <a href="./taxa/Metzgeria pubescens.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Metzgeria pubescens
 </h5>
 <div class="card-text listing-description">
-An occasional species of trees and rocks (especially limestone), the whitish hue of dry M.…
+An occasional species of trees and rocks (especially limestone), the whitish hue of dry M. pubescens is most apparent when the plant is thriving in tufts. When wet, the…
 </div>
 <div class="card-attribution card-text-small start">
 <div class="listing-author">
@@ -637,18 +2361,18 @@ An occasional species of trees and rocks (especially limestone), the whitish hue
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="21" data-categories="Marchantiophyta" data-listing-file-modified-sort="1725811998635" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="98" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681138672" data-listing-reading-time-sort="2" data-listing-word-count-sort="295">
 <a href="./taxa/Metzgeria temperata.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Metzgeria temperata
 </h5>
 <div class="card-text listing-description">
-Typically tightly appressed to bark (especially vine maple), M. temperata is frequent in moist coastal microhabitats. The narrow, dull green thallus…
+Typically tightly appressed to bark (especially vine maple), M. temperata is frequent in moist coastal microhabitats. The narrow, dull green thallus tapers towards its tip…
 </div>
 <div class="card-attribution card-text-small start">
 <div class="listing-author">
@@ -659,18 +2383,260 @@ Typically tightly appressed to bark (especially vine maple), M. temperata is fre
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="22" data-categories="Marchantiophyta" data-listing-file-modified-sort="1725811998638" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="99" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681141813" data-listing-reading-time-sort="2" data-listing-word-count-sort="344">
+<a href="./taxa/Mylia anomala.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Mylia anomala
+</h5>
+<div class="card-text listing-description">
+Mylia anomala is seemingly restricted to bog and fen habitats, where it worms its way through Sphagnum, presenting at the surface as oppositely-arranged and converging…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="100" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681141839" data-listing-reading-time-sort="3" data-listing-word-count-sort="474">
+<a href="./taxa/Mylia taylorii.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Mylia taylorii
+</h5>
+<div class="card-text listing-description">
+Running a gamut of colours from dark green to bright yellows and radiant reds, the wide-spreading leafy shoots (up to 5 mm wide) of Mylia taylorii are a common sight on…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="101" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681140131" data-listing-reading-time-sort="3" data-listing-word-count-sort="401">
+<a href="./taxa/Odontoschisma denudatum.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Odontoschisma denudatum
+</h5>
+<div class="card-text listing-description">
+Running the gamut of reds, browns, yellows and greens, the small (&lt; 1 cm tall by ~ 1 mm wide), upright shoots of O. denudata are a constant companion of decaying organic…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="102" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681140184" data-listing-reading-time-sort="2" data-listing-word-count-sort="284">
+<a href="./taxa/Odontoschisma elongatum.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Odontoschisma elongatum
+</h5>
+<div class="card-text listing-description">
+Common in rare habitat, Odontoschisma elongatum presents itself on inorganic creek banks of very wet, boggy regions as a dark green-brown, reclined shoot of intermediate…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="103" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681140225" data-listing-reading-time-sort="2" data-listing-word-count-sort="277">
+<a href="./taxa/Odontoschisma fluitans.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Odontoschisma fluitans
+</h5>
+<div class="card-text listing-description">
+Scarcely seen in the rare boggy habitat in which it occurs, O. fluitans is a stringy plant with dark green-to-brown shoots up to 2 mm wide. Up close, you should be able to…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="104" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681140265" data-listing-reading-time-sort="2" data-listing-word-count-sort="250">
+<a href="./taxa/Odontoschisma macounii.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Odontoschisma macounii
+</h5>
+<div class="card-text listing-description">
+Restricted to high latitudes and altitudes, the erect yellow shoots of Odontoschisma macounii stand to about 1 cm tall with leaves that spread out from the stem near to a 90…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="105" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681141849" data-listing-reading-time-sort="1" data-listing-word-count-sort="193">
+<a href="./taxa/Plagiochila arctica.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Plagiochila arctica
+</h5>
+<div class="card-text listing-description">
+Known from scant northern records, P. arctica has been variously synonymized with P. porelloides and P. asplenioides
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="106" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681141860" data-listing-reading-time-sort="1" data-listing-word-count-sort="178">
+<a href="./taxa/Plagiochila asplenioides.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Plagiochila asplenioides
+</h5>
+<div class="card-text listing-description">
+Moist to mesic rock outcrops, boulders, cliffs, decayed wood, and tree bases (esp.&nbsp;alder) in the lowland and montane zones
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="107" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681141882" data-listing-reading-time-sort="1" data-listing-word-count-sort="182">
+<a href="./taxa/Plagiochila gracilis.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Plagiochila gracilis
+</h5>
+<div class="card-text listing-description">
+Moist to wet, often shady rock outcrops, boulders, cliffs, waterfall spray zones, decayed wood, and tree trunks (esp.&nbsp;yellow-cedar) in the lowland zone
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="108" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681141922" data-listing-reading-time-sort="2" data-listing-word-count-sort="284">
+<a href="./taxa/Plagiochila porelloides.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Plagiochila porelloides
+</h5>
+<div class="card-text listing-description">
+On account of its large size (leafy shoots can be &gt;5 mm wide and longer than 5 cm), prominent teeth on large, deep green leaves bearing a conspicuous basal pleat, the common…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="109" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681141950" data-listing-reading-time-sort="2" data-listing-word-count-sort="231">
+<a href="./taxa/Plagiochila semidecurrens.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Plagiochila semidecurrens
+</h5>
+<div class="card-text listing-description">
+Plagiochila semidecurrens is an uncommon plant of very wet habitats, where its horizontal stems are laden with drooping, roundly folded and very toothy leaves that are shiny…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="110" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681138760" data-listing-reading-time-sort="2" data-listing-word-count-sort="324">
 <a href="./taxa/Porella cordaeana.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Porella cordaeana
 </h5>
 <div class="card-text listing-description">
-A frequent species of deciduous trees and dark cliffs, P. cordaeana has matte-green and delicate shoots that…
+A frequent species of deciduous trees and dark cliffs, P. cordaeana has matte-green and delicate shoots that show distant but regular branching. From the underside, the…
 </div>
 <div class="card-attribution card-text-small start">
 <div class="listing-author">
@@ -681,11 +2647,11 @@ A frequent species of deciduous trees and dark cliffs, P. cordaeana has matte-gr
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="23" data-categories="Marchantiophyta" data-listing-file-modified-sort="1725811998641" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="111" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681138805" data-listing-reading-time-sort="2" data-listing-word-count-sort="366">
 <a href="./taxa/Porella navicularis.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -703,11 +2669,11 @@ A massive and common leafy liverwort that often dominates deciduous forests, for
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="24" data-categories="Marchantiophyta" data-listing-file-modified-sort="1725811998644" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="112" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681138820" data-listing-reading-time-sort="2" data-listing-word-count-sort="278">
 <a href="./taxa/Porella roellii.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -725,11 +2691,11 @@ An occasional species of exposed rocks, P. roelli is typically a yellow-brownish
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="25" data-categories="Marchantiophyta" data-listing-file-modified-sort="1725811998647" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="113" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681138829" data-listing-reading-time-sort="2" data-listing-word-count-sort="294">
 <a href="./taxa/Radula auriculata.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -747,18 +2713,18 @@ Another rare but luxuriant species of wet coastal regions, R. auriculata forms g
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="26" data-categories="Marchantiophyta" data-listing-file-modified-sort="1725811998650" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="114" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681138840" data-listing-reading-time-sort="2" data-listing-word-count-sort="317">
 <a href="./taxa/Radula bolanderi.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Radula bolanderi
 </h5>
 <div class="card-text listing-description">
-A frequent and tiny epiphytic component of wet forests, F. bolanderi has appressed shoots less than 1 mm…
+A frequent and tiny epiphytic component of wet forests, F. bolanderi has appressed shoots less than 1 mm wide and leaves that barely overlap. It is most easily recognized by…
 </div>
 <div class="card-attribution card-text-small start">
 <div class="listing-author">
@@ -769,11 +2735,11 @@ A frequent and tiny epiphytic component of wet forests, F. bolanderi has appress
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="27" data-categories="Marchantiophyta" data-listing-file-modified-sort="1725811998664" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="115" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681138861" data-listing-reading-time-sort="2" data-listing-word-count-sort="352">
 <a href="./taxa/Radula complanata.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -791,18 +2757,18 @@ The most common species of Radula in the region, R. complanata is predominantly 
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="28" data-categories="Marchantiophyta" data-listing-file-modified-sort="1725811998667" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="116" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681138892" data-listing-reading-time-sort="2" data-listing-word-count-sort="236">
 <a href="./taxa/Radula obtusiloba.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Radula obtusiloba
 </h5>
 <div class="card-text listing-description">
-A luxuriant and infrequent species of wet coasts and exceedingly moist canyon microhabitats, R. obtusiloba is a much branched plant with triangular shoots 5-10 cm long…
+A luxuriant and infrequent species of wet coasts and exceedingly moist canyon microhabitats, R. obtusiloba is a much branched plant with triangular shoots 5-10 cm long and…
 </div>
 <div class="card-attribution card-text-small start">
 <div class="listing-author">
@@ -813,11 +2779,11 @@ A luxuriant and infrequent species of wet coasts and exceedingly moist canyon mi
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="29" data-categories="Marchantiophyta" data-listing-file-modified-sort="1725811998669" data-listing-reading-time-sort="1">
+<div class="g-col-1" data-index="117" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681138952" data-listing-reading-time-sort="1" data-listing-word-count-sort="183">
 <a href="./taxa/Radula prolifera.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -835,11 +2801,11 @@ XXXXXX
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="30" data-categories="Marchantiophyta" data-listing-file-modified-sort="1725811998672" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="118" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681138999" data-listing-reading-time-sort="2" data-listing-word-count-sort="286">
 <a href="./taxa/Riccia beyrichiana.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -857,11 +2823,11 @@ Ephemeral and rare, R. beyrichiana forms small (&lt;1cm) and often incomplete gr
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="31" data-categories="Marchantiophyta" data-listing-file-modified-sort="1725811998675" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="119" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681139062" data-listing-reading-time-sort="2" data-listing-word-count-sort="314">
 <a href="./taxa/Riccia cavernosa.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -879,11 +2845,11 @@ Another ephemeral and rare species of fine, seasonally saturated mineral-rich so
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="32" data-categories="Marchantiophyta" data-listing-file-modified-sort="1725811998677" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="120" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681139085" data-listing-reading-time-sort="2" data-listing-word-count-sort="302">
 <a href="./taxa/Riccia fluitans.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -901,11 +2867,11 @@ Infrequent but abundant where it does occur, this aquatic, narrow and elongate R
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="33" data-categories="Marchantiophyta" data-listing-file-modified-sort="1725811998680" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="121" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681139104" data-listing-reading-time-sort="2" data-listing-word-count-sort="293">
 <a href="./taxa/Riccia frostii.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -923,11 +2889,11 @@ An infrequent species that forms massive populations on seasonally exposed lake 
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="34" data-categories="Marchantiophyta" data-listing-file-modified-sort="1725811998682" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="122" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681139127" data-listing-reading-time-sort="2" data-listing-word-count-sort="314">
 <a href="./taxa/Riccia glauca.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -945,18 +2911,18 @@ A rare, Riccia about 1cm in diameter found in seasonally exposed sediments, it f
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="35" data-categories="Marchantiophyta" data-listing-file-modified-sort="1725811998685" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="123" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681139157" data-listing-reading-time-sort="2" data-listing-word-count-sort="306">
 <a href="./taxa/Riccia huebeneriana.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Riccia huebeneriana
 </h5>
 <div class="card-text listing-description">
-A rare species that forms small green-to-puple-tinged rosettes (&lt;1cm) of narrow and porous thallus…
+A rare species that forms small green-to-puple-tinged rosettes (&lt;1cm) of narrow and porous thallus segments on moist, seasonally exposed fine sediments. Up close, the plants…
 </div>
 <div class="card-attribution card-text-small start">
 <div class="listing-author">
@@ -967,18 +2933,18 @@ A rare species that forms small green-to-puple-tinged rosettes (&lt;1cm) of narr
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="36" data-categories="Marchantiophyta" data-listing-file-modified-sort="1725811998688" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="124" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681139189" data-listing-reading-time-sort="2" data-listing-word-count-sort="240">
 <a href="./taxa/Riccia lamellosa.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Riccia lamellosa
 </h5>
 <div class="card-text listing-description">
-A rare species thus far known only from sloping and seasonally saturated fine sediments over rock, R. lamellosa appears as small (~5mm)…
+A rare species thus far known only from sloping and seasonally saturated fine sediments over rock, R. lamellosa appears as small (~5mm) thalli with a smooth upper surface…
 </div>
 <div class="card-attribution card-text-small start">
 <div class="listing-author">
@@ -989,11 +2955,11 @@ A rare species thus far known only from sloping and seasonally saturated fine se
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="37" data-categories="Marchantiophyta" data-listing-file-modified-sort="1725811998690" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="125" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681139209" data-listing-reading-time-sort="2" data-listing-word-count-sort="366">
 <a href="./taxa/Riccia sorocarpa.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -1011,18 +2977,18 @@ When present, this occasional species of fine, disturbed soils can grow in large
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="38" data-categories="Marchantiophyta" data-listing-file-modified-sort="1725811998693" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="126" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681139231" data-listing-reading-time-sort="2" data-listing-word-count-sort="254">
 <a href="./taxa/Riccia trichocarpa.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Riccia trichocarpa
 </h5>
 <div class="card-text listing-description">
-A rare species, R. trichocarpa…
+A rare species, R. trichocarpa forms small rosettes (~1cm wide) on thin soils with open exposure. These rosettes distinguished by an abundance of hairs present all around…
 </div>
 <div class="card-attribution card-text-small start">
 <div class="listing-author">
@@ -1033,11 +2999,11 @@ A rare species, R. trichocarpa…
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="39" data-categories="Marchantiophyta" data-listing-file-modified-sort="1725811998696" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="127" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681139278" data-listing-reading-time-sort="2" data-listing-word-count-sort="361">
 <a href="./taxa/Ricciocarpos natans.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -1055,18 +3021,84 @@ An occasional aquatic or semi-aquatic liverwort from stagnant waters, R. natans 
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="40" data-categories="Marchantiophyta" data-listing-file-modified-sort="1725811998701" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="128" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681139302" data-listing-reading-time-sort="2" data-listing-word-count-sort="217">
 <a href="./taxa/Sphaerocarpos texanus.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Sphaerocarpos texanus
 </h5>
 <div class="card-text listing-description">
-A rarely-noticed but seemingly weedy species of disturbed soils, S. texanus is amongst the most charismatic of liverworts in the region on account of its…
+A rarely-noticed but seemingly weedy species of disturbed soils, S. texanus is amongst the most charismatic of liverworts in the region on account of its abundant…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="129" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681139369" data-listing-reading-time-sort="1" data-listing-word-count-sort="159">
+<a href="./taxa/Sphenolobopsis pearsonii.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Sphenolobopsis pearsonii
+</h5>
+<div class="card-text listing-description">
+<link href="../css/style-taxon.css" rel="stylesheet"> <link href="../css/micromodal.css" rel="stylesheet">
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="130" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681139333" data-listing-reading-time-sort="3" data-listing-word-count-sort="423">
+<a href="./taxa/Sphenolobus minutus.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/https:/www.inaturalist.org/observations/138448707" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Sphenolobus minutus
+</h5>
+<div class="card-text listing-description">
+Slender, thread-like, sparingly branched, yellowish-brown to olive-green shoots, often in loose mats, with strongly concave, deeply bilobed (0.3-0.5x length), slightly…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="131" data-categories="Marchantiophyta" data-listing-file-modified-sort="1731681139358" data-listing-reading-time-sort="2" data-listing-word-count-sort="226">
+<a href="./taxa/Sphenolobus saxicola.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./img/https:/www.inaturalist.org/observations/177621593" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Sphenolobus saxicola
+</h5>
+<div class="card-text listing-description">
+Erect, rounded, orange-brown to yellow-green shoots with densely overlapping, concave, deeply bilobed (0.3-0.5x leaf length) leaves. Gemmae absent
 </div>
 <div class="card-attribution card-text-small start">
 <div class="listing-author">
@@ -1120,18 +3152,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -1163,11 +3184,50 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
-  function tippyHover(el, contentFn) {
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -1177,8 +3237,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -1190,7 +3259,130 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -1234,6 +3426,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -1259,6 +3452,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -1319,6 +3538,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+
 
 
 

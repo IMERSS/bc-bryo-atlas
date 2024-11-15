@@ -12,7 +12,7 @@ categories:
  </div>
  <div class="info-bottom">
   <div class="taxon-qnd">Big dark horn</div>
-  <div class="taxon-abundance">frequent</div>
+  <div class="taxon-abundance">XXXXXX</div>
  </div>
 </div>
 <div class="imerss-content-frame">
@@ -22,6 +22,7 @@ categories:
 
   <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/)" title="">
   </div>
+ 
  </div>
  <div class="imerss-content-lower">
   <div class="imerss-column-left">
@@ -49,6 +50,15 @@ XXXXXX
 <div class="imerss-column-right">
 
 <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+</div>
+
+<div class="imerss-map-holder">
+```{r warning=F, message=F, echo=F}
+setwd("..")
+source("page_functions.R")
+map = make_species_map("Anthoceros fusiformis")
+map
+```
 </div>
 
 </div>

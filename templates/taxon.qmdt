@@ -12,7 +12,7 @@ categories:
  </div>
  <div class="info-bottom">
   <div class="taxon-qnd">{{quickNDirty}}</div>
-  <div class="taxon-abundance">frequent</div>
+  <div class="taxon-abundance">{{frequency}}</div>
  </div>
 </div>
 <div class="imerss-content-frame">
@@ -26,6 +26,7 @@ categories:
   <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/{{insetPhoto2}})" title="{{insetPhoto2meta}}">
   </div>
   {{/insetPhoto2}}
+ 
  </div>
  <div class="imerss-content-lower">
   <div class="imerss-column-left">
@@ -56,6 +57,15 @@ categories:
 <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/{{insetPhoto3}})" title="{{insetPhoto3meta}}">
 </div>
 {{/insetPhoto3}}
+
+<div class="imerss-map-holder">
+```{r warning=F, message=F, echo=F}
+setwd("..")
+source("page_functions.R")
+map = make_species_map("{{taxon}}")
+map
+```
+</div>
 
 </div>
 

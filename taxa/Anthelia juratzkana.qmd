@@ -1,0 +1,98 @@
+---
+title: Anthelia juratzkana
+image: "../img/"
+categories:
+  - Marchantiophyta
+---
+
+<div class="info-panel">
+ <div class="info-top">
+  <div class="taxon-scientific"><span class="taxon-name">Anthelia juratzkana</span> <span class="taxon-authority">(Limpr.) Trevis.</span> <span class="taxon-family">(Antheliaceae)</span></div>
+  <div class="taxon-common">Juratzka's Silverwort</div>
+ </div>
+ <div class="info-bottom">
+  <div class="taxon-qnd"></div>
+  <div class="taxon-abundance">Locally frequent</div>
+ </div>
+</div>
+<div class="imerss-content-frame">
+ <div class="imerss-image-header">
+  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+  </div>
+
+  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+  </div>
+ 
+ </div>
+ <div class="imerss-content-lower">
+  <div class="imerss-column-left">
+  <div class="tab-microscope" data-micromodal-trigger="modal-plate">
+  <img src="../img/bryo guide microscope.png"/>
+  </div>
+
+<h2>Distinguishing Features</h2>
+
+Easily overlooked in out of the way habitats, Anthelia julacea grows as tiny (&lt;.5 mm wide) overlapping  shoots packed into silvery, horizontal turfs on bare rock in areas of late snow and seasonal flushes. With a hand lens, you should see three rows of tightly overlapping, sharply and evenly two-lobed leaves divided to about 1/2 their length and fringed with white edges against a darker inner leaf. This species is impossible to confirm without microscopic examination of fertile shoots.
+
+<h2>Similar species</h2>
+
+Anthelia's small size, dense cushions, silvery palour, evenly bilobed leaves and affinity for bereft bedrock only overlaps with species in the genus Gymnomitrion. Plants of that genus often bear acutely bilobed, white and tightly overlapping leaves, but they are typically wider (&gt;&gt;.5 mm) and are dissected to only 1/3rd their length. They also lack the prominent third row of leaves seen in Anthelia. Differentiation of the two regional species of Anthelia requires the presence of fertile plants in a population. When present, the androecia and gynoecia are on seperate plants in A. julaceae, while in A. juratzkana, they are on seperate branches of the same shoot. If sporophytes are present, it should be noted that the spiral bands of the elaters in A. juratzkana are &lt;3 um wide, while those of A. julacea are &gt;3 um wide.
+
+<h2>Habitat</h2>
+
+Moist to wet, acidic humus, cliffs, rock outcrops, boulders, fellfields, boggy areas, streambanks, snowbeds, seepage areas, and tundra in the upper montane, subalpine, and alpine zones
+
+<h2>Associated species</h2>
+
+
+</div>
+
+<div class="imerss-column-right">
+
+<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+</div>
+
+<div class="imerss-map-holder">
+```{r warning=F, message=F, echo=F}
+setwd("..")
+source("page_functions.R")
+map = make_species_map("Anthelia juratzkana")
+map
+```
+</div>
+
+</div>
+
+</div>
+</div>
+
+<div class="taxon-footer">
+ <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>2024-11-13</span></div>
+</div>
+
+<div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">
+ <div class="modal__overlay" tabindex="-1" data-micromodal-close>
+  <div class="modal__container" role="dialog" aria-modal="true" aria-labelledby="modal-plate-title" >
+   <header class="modal__header">
+   <div class="modal__title" id="modal-plate-title">
+  Anthelia juratzkana plate
+   </div>
+   <button class="modal__close" aria-label="Close" data-micromodal-close></button>
+   </header>
+  <div class="modal__content" id="modal-plate-content">
+   <div class="imerss-image-holder" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+  </div>
+  </div>
+  </div>
+ </div>
+</div>
+
+<script src="../js/micromodal.min.js"></script>
+<link href="../css/style-taxon.css" rel="stylesheet">
+<link href="../css/micromodal.css" rel="stylesheet">
+
+<script>
+MicroModal.init();
+</script>
+

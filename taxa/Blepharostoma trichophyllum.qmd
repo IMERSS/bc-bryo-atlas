@@ -1,0 +1,98 @@
+---
+title: Blepharostoma trichophyllum
+image: "../img/"
+categories:
+  - Marchantiophyta
+---
+
+<div class="info-panel">
+ <div class="info-top">
+  <div class="taxon-scientific"><span class="taxon-name">Blepharostoma trichophyllum</span> <span class="taxon-authority">(L.) Dumort.</span> <span class="taxon-family">(Blepharostomataceae)</span></div>
+  <div class="taxon-common">Hairy Threadwort</div>
+ </div>
+ <div class="info-bottom">
+  <div class="taxon-qnd"></div>
+  <div class="taxon-abundance">Frequent</div>
+ </div>
+</div>
+<div class="imerss-content-frame">
+ <div class="imerss-image-header">
+  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+  </div>
+
+  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+  </div>
+ 
+ </div>
+ <div class="imerss-content-lower">
+  <div class="imerss-column-left">
+  <div class="tab-microscope" data-micromodal-trigger="modal-plate">
+  <img src="../img/bryo guide microscope.png"/>
+  </div>
+
+<h2>Distinguishing Features</h2>
+
+Delicate and filamentous plants of Blepharostoma are frequent but easy to overlook in their moist microhabitats, where they occur as transluscent yellow-to-green bristly shoots &lt;1/4 mm wide that creep along the substrate. With a hand lends the leaves are composed of four equal and linear lobes that are seperated all the way to the very base of the leaf. Under the microscope, these lobes are only one cell wide.
+
+<h2>Similar species</h2>
+
+Species of Kurzia are of similair size with 4-lobed leaves and can occur in similair habitats. The leave lobes in that genus, however, are 1-celled at their tip but broaden to 2 (or more) cells wide towards their base, which is found at about three-quarters down the leaf's length. In B. trichophylla, the leaf lobes are always 1 cell wide and are divided all the way to the very base of the left. Differences with Blepharostoma arachnoideum are subtle-- the latter tending to have 2-3 lobes that often branch further along their length, while in B. trichophyllum, there are typically 4 (sometimes 3) lobes that are never branched. B. trichophylla is often treated as a complex of closely related taxa with intergrading morphologies.
+
+<h2>Habitat</h2>
+
+Moist to wet, usually shady humus, rock outcrops, boulders, cliffs, ledges, decayed wood, streambanks, and waterfall spray zones in the lowland, montane, and subalpine zones
+
+<h2>Associated species</h2>
+
+
+</div>
+
+<div class="imerss-column-right">
+
+<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+</div>
+
+<div class="imerss-map-holder">
+```{r warning=F, message=F, echo=F}
+setwd("..")
+source("page_functions.R")
+map = make_species_map("Blepharostoma trichophyllum")
+map
+```
+</div>
+
+</div>
+
+</div>
+</div>
+
+<div class="taxon-footer">
+ <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>2024-11-13</span></div>
+</div>
+
+<div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">
+ <div class="modal__overlay" tabindex="-1" data-micromodal-close>
+  <div class="modal__container" role="dialog" aria-modal="true" aria-labelledby="modal-plate-title" >
+   <header class="modal__header">
+   <div class="modal__title" id="modal-plate-title">
+  Blepharostoma trichophyllum plate
+   </div>
+   <button class="modal__close" aria-label="Close" data-micromodal-close></button>
+   </header>
+  <div class="modal__content" id="modal-plate-content">
+   <div class="imerss-image-holder" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+  </div>
+  </div>
+  </div>
+ </div>
+</div>
+
+<script src="../js/micromodal.min.js"></script>
+<link href="../css/style-taxon.css" rel="stylesheet">
+<link href="../css/micromodal.css" rel="stylesheet">
+
+<script>
+MicroModal.init();
+</script>
+

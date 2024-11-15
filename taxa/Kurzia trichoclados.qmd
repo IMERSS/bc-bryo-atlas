@@ -1,0 +1,98 @@
+---
+title: Kurzia trichoclados
+image: "../img/"
+categories:
+  - Marchantiophyta
+---
+
+<div class="info-panel">
+ <div class="info-top">
+  <div class="taxon-scientific"><span class="taxon-name">Kurzia trichoclados</span> <span class="taxon-authority">(Müll.Frib.) Grolle</span> <span class="taxon-family">(Lepidoziaceae)</span></div>
+  <div class="taxon-common">Heath Fingerwort</div>
+ </div>
+ <div class="info-bottom">
+  <div class="taxon-qnd"></div>
+  <div class="taxon-abundance">Rare</div>
+ </div>
+</div>
+<div class="imerss-content-frame">
+ <div class="imerss-image-header">
+  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+  </div>
+
+  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+  </div>
+ 
+ </div>
+ <div class="imerss-content-lower">
+  <div class="imerss-column-left">
+  <div class="tab-microscope" data-micromodal-trigger="modal-plate">
+  <img src="../img/bryo guide microscope.png"/>
+  </div>
+
+<h2>Distinguishing Features</h2>
+
+Virtually identical to other members of its genus, K. trichoclados is a tiny (~1/4 mm wide) and easily-overlooked or mitaken yellow-brown species with highly dissected and barely-discernable leaves. Close inspection with a hand lens should show lateral leaves are similair with 3 to 4 sharply-tipped lobes that widen from 1 cell at their apex to 2 cells at their bottom before joining to a wide leaf base that is attached to the stem at 90 degrees. Underleaves are present but have only 1 or 2 well developed lobes.
+
+<h2>Similar species</h2>
+
+See notes under Kurzia makinoana. In order be certain you have K. trichoclados and not K. makinoana, you will need to look for specialized structures that bear the antheridia (Androecia) and archegonia (&quot;Gynoecia&quot;) (see photos). In K. makinoana, the tips of the leaves surrounding the archegonia have hair-like cells (&quot;cilia&quot;), while the tips of the leaves surrounding the antheridia have two lobes. This is in contrast to K. trichoclados, where leaves of the gynoecia are toothed (no hair-like cells) and those of the androecia have three lobes.
+
+<h2>Habitat</h2>
+
+Moist to wet humus, rock outcrops, cliffs, ledges, bogs, peatlands, and occasionally decayed wood in the lowland zone
+
+<h2>Associated species</h2>
+
+
+</div>
+
+<div class="imerss-column-right">
+
+<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+</div>
+
+<div class="imerss-map-holder">
+```{r warning=F, message=F, echo=F}
+setwd("..")
+source("page_functions.R")
+map = make_species_map("Kurzia trichoclados")
+map
+```
+</div>
+
+</div>
+
+</div>
+</div>
+
+<div class="taxon-footer">
+ <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>2024-11-09</span></div>
+</div>
+
+<div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">
+ <div class="modal__overlay" tabindex="-1" data-micromodal-close>
+  <div class="modal__container" role="dialog" aria-modal="true" aria-labelledby="modal-plate-title" >
+   <header class="modal__header">
+   <div class="modal__title" id="modal-plate-title">
+  Kurzia trichoclados plate
+   </div>
+   <button class="modal__close" aria-label="Close" data-micromodal-close></button>
+   </header>
+  <div class="modal__content" id="modal-plate-content">
+   <div class="imerss-image-holder" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+  </div>
+  </div>
+  </div>
+ </div>
+</div>
+
+<script src="../js/micromodal.min.js"></script>
+<link href="../css/style-taxon.css" rel="stylesheet">
+<link href="../css/micromodal.css" rel="stylesheet">
+
+<script>
+MicroModal.init();
+</script>
+

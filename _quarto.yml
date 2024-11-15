@@ -6,7 +6,7 @@ profile:
   default: full
 
 execute: 
-  freeze: false
+  freeze: true
 
 website:
   title: "BC Bryo Guide"

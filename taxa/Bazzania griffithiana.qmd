@@ -1,0 +1,98 @@
+---
+title: Bazzania griffithiana
+image: "../img/"
+categories:
+  - Marchantiophyta
+---
+
+<div class="info-panel">
+ <div class="info-top">
+  <div class="taxon-scientific"><span class="taxon-name">Bazzania griffithiana</span> <span class="taxon-authority">(Stephani) R.M.Schust. &amp; W.B.Schofield</span> <span class="taxon-family">(Lepidoziaceae)</span></div>
+  <div class="taxon-common">None</div>
+ </div>
+ <div class="info-bottom">
+  <div class="taxon-qnd"></div>
+  <div class="taxon-abundance">Rare</div>
+ </div>
+</div>
+<div class="imerss-content-frame">
+ <div class="imerss-image-header">
+  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+  </div>
+
+  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+  </div>
+ 
+ </div>
+ <div class="imerss-content-lower">
+  <div class="imerss-column-left">
+  <div class="tab-microscope" data-micromodal-trigger="modal-plate">
+  <img src="../img/bryo guide microscope.png"/>
+  </div>
+
+<h2>Distinguishing Features</h2>
+
+A rare species in highly restricted habitat, B. griffithiana forms large, loosely-branched scrambling yellow-to-brown shoots up to 8 cm long. Its triangular lateral leaves have three short, tooth-like lobes at their tip, while underleaves are squarish with bases that run down the stem and 3-4 very shallow round lobes at their tips. Unmistakeable on account of its size and palour, this is a species to be sought in very moist coastal regions of British Columbia and Alaska, though currently only known from Haida Gwaii.
+
+<h2>Similar species</h2>
+
+With the genus Bazzania, only B. trilobata and B. tricrenata approach the scale of B. griffithiana. B. trilobata is a actually broader (leafy shoots 3-6 mm wide), but its translucent green colour also sets it apart from yellow-to-brown B. griffithiana. B. tricrenata is also a yellow-to-brown species and its shoots can reach considerable lengths (up to 4cm), but it has prominent pale and relatively leafless branches arising from its underside, whereas in B. griffithiana, such branches are absent. Mastigophora woodsii and Lepidozia filamentosa are also large, wide-branching and scrambling liverwort species but their leaves are highly dissected, while in B. griffithiana the lateral leaves are very shallowly notched.
+
+<h2>Habitat</h2>
+
+Moist to mesic, usually open rock outcrops, cliffs, ledges, boulders, and occasionally decayed wood in the lowland zone
+
+<h2>Associated species</h2>
+
+
+</div>
+
+<div class="imerss-column-right">
+
+<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+</div>
+
+<div class="imerss-map-holder">
+```{r warning=F, message=F, echo=F}
+setwd("..")
+source("page_functions.R")
+map = make_species_map("Bazzania griffithiana")
+map
+```
+</div>
+
+</div>
+
+</div>
+</div>
+
+<div class="taxon-footer">
+ <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>2024-11-08</span></div>
+</div>
+
+<div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">
+ <div class="modal__overlay" tabindex="-1" data-micromodal-close>
+  <div class="modal__container" role="dialog" aria-modal="true" aria-labelledby="modal-plate-title" >
+   <header class="modal__header">
+   <div class="modal__title" id="modal-plate-title">
+  Bazzania griffithiana plate
+   </div>
+   <button class="modal__close" aria-label="Close" data-micromodal-close></button>
+   </header>
+  <div class="modal__content" id="modal-plate-content">
+   <div class="imerss-image-holder" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+  </div>
+  </div>
+  </div>
+ </div>
+</div>
+
+<script src="../js/micromodal.min.js"></script>
+<link href="../css/style-taxon.css" rel="stylesheet">
+<link href="../css/micromodal.css" rel="stylesheet">
+
+<script>
+MicroModal.init();
+</script>
+
