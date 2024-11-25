@@ -1,6 +1,6 @@
 ---
 title: Sphenolobus minutus
-image: "../img/https://www.inaturalist.org/observations/138448707"
+image: "../img/XXXXX"
 categories:
   - Marchantiophyta
 ---
@@ -17,10 +17,10 @@ categories:
 </div>
 <div class="imerss-content-frame">
  <div class="imerss-image-header">
-  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/https://www.inaturalist.org/observations/138448707)" title="Finn McGhee">
+  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="Finn McGhee">
   </div>
 
-  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/https://www.inaturalist.org/observations/184555226)" title="Daniel Tucker">
+  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="Daniel Tucker">
   </div>
  
  </div>
@@ -49,7 +49,7 @@ Barbilophozia hatcheri, Schljakovia kunzeana, Schljakovianthus quadrilobus, Dicr
 
 <div class="imerss-column-right">
 
-<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/https://www.inaturalist.org/observations/216455396)" title="Daniel Tucker">
+<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="Daniel Tucker">
 </div>
 
 <div class="imerss-map-holder">
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Jamie Fenneman</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>2024-10-12</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>1728691200</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">
@@ -81,7 +81,7 @@ map
    <button class="modal__close" aria-label="Close" data-micromodal-close></button>
    </header>
   <div class="modal__content" id="modal-plate-content">
-   <div class="imerss-image-holder" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+   <div class="imerss-image-holder" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="XXXXX">
   </div>
   </div>
   </div>

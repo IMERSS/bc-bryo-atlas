@@ -1,0 +1,98 @@
+---
+title: Scapania hollandiae
+image: "../img/XXXXXX"
+categories:
+  - Marchantiophyta
+---
+
+<div class="info-panel">
+ <div class="info-top">
+  <div class="taxon-scientific"><span class="taxon-name">Scapania hollandiae</span> <span class="taxon-authority">W.S.Hong</span> <span class="taxon-family">(Scapaniaceae)</span></div>
+  <div class="taxon-common">None</div>
+ </div>
+ <div class="info-bottom">
+  <div class="taxon-qnd">XXXXXX</div>
+  <div class="taxon-abundance">Rare</div>
+ </div>
+</div>
+<div class="imerss-content-frame">
+ <div class="imerss-image-header">
+  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/XXXXXX)" title="XXXXXX">
+  </div>
+
+  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/XXXXXX)" title="XXXXXX">
+  </div>
+ 
+ </div>
+ <div class="imerss-content-lower">
+  <div class="imerss-column-left">
+  <div class="tab-microscope" data-micromodal-trigger="modal-plate">
+  <img src="../img/bryo guide microscope.png"/>
+  </div>
+
+<h2>Distinguishing Features</h2>
+
+Scapania hollandaie is another rare alpine and northern species known regionally from NW British Columbia and the North Cascades of Washington State, where is grows on silt over rocks in cold snowmelt-fed streams. Leafy shoots are green to faintly brown and measure up to 2.5 cm long and 4.5 mm wide. The lobes are elliptical and toothed from base to tip, with the upper lobe about 2/3rds the size of the lower lobe and joined to it along a linear keel. Gemmae are unknown in this species.
+
+<h2>Similar species</h2>
+
+In its habitat, it could be mistaken for Scapania undulata. That species, however, has more poorly developed teeth, leaves that are more distantly spaced down the shoot and leaf lobes that are tightly appressed to one another near the shoot tip. In. S. hollandiae, the leaves are closely spaced all along the shoot, the teeth are sharper and the leaf lobes near the tips of the shoot are not strongly appressed to one another. Scapania americana can grown on subalpine rock and mineral soil, but it is not typically associated with the flowing water in which S. hollandiae is found. The latter lacks the reddish pigmentation of the former.
+
+<h2>Habitat</h2>
+
+Moist mineral soil, rock outcrops, boulders, streambanks, and occasionally decayed wood and peaty soil, in the montane and subalpine zones
+
+<h2>Associated species</h2>
+
+Blepharostoma trichophylla, Scapania undulata, Riccardia multifida, Diplophyllum taxifolium
+</div>
+
+<div class="imerss-column-right">
+
+<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="XXXXX">
+</div>
+
+<div class="imerss-map-holder">
+```{r warning=F, message=F, echo=F}
+setwd("..")
+source("page_functions.R")
+map = make_species_map("Scapania hollandiae")
+map
+```
+</div>
+
+</div>
+
+</div>
+</div>
+
+<div class="taxon-footer">
+ <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>1732233600</span></div>
+</div>
+
+<div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">
+ <div class="modal__overlay" tabindex="-1" data-micromodal-close>
+  <div class="modal__container" role="dialog" aria-modal="true" aria-labelledby="modal-plate-title" >
+   <header class="modal__header">
+   <div class="modal__title" id="modal-plate-title">
+  Scapania hollandiae plate
+   </div>
+   <button class="modal__close" aria-label="Close" data-micromodal-close></button>
+   </header>
+  <div class="modal__content" id="modal-plate-content">
+   <div class="imerss-image-holder" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="XXXXX">
+  </div>
+  </div>
+  </div>
+ </div>
+</div>
+
+<script src="../js/micromodal.min.js"></script>
+<link href="../css/style-taxon.css" rel="stylesheet">
+<link href="../css/micromodal.css" rel="stylesheet">
+
+<script>
+MicroModal.init();
+</script>
+
