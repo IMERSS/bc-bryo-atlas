@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-A rarely-noticed but seemingly weedy species of disturbed soils, S. texanus is amongst the most charismatic of liverworts in the region on account of its abundant, submillimeter &quot;balloons&quot;. These structures actually enclose the reproductive organs, with the underlying leaves of the plant even less distinct, even with a hand lens.
+A rarely-noticed but seemingly weedy species of disturbed soils, S. texanus is amongst the most charismatic of liverworts in the region on account of its abundant, submillimeter &quot;balloons&quot;. These structures actually enclose the reproductive organs, with the underlying leaves of the plant even less distinct, even with a hand lens.  
 
 <h2>Similar species</h2>
 
-No other bryophyte in the region resembles this species.
+No other bryophyte in the region resembles this species. 
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1708992000</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Feb 27, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

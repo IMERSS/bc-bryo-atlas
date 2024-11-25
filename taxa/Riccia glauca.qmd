@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-A rare, Riccia about 1cm in diameter found in seasonally exposed sediments, it forms isolated populations that are once-to-thrice branched with a characteristic white frosty appearance on an imperforate upper surface. Under the hand lens, a shallow groove should be visible towards the tips of the thallus. To be certain of this species, observation of spores under the microscope may be required.
+A rare, Riccia about 1cm in diameter found in seasonally exposed sediments, it forms isolated populations that are once-to-thrice branched with a characteristic white frosty appearance on an imperforate upper surface. Under the hand lens, a shallow groove should be visible towards the tips of the thallus. To be certain of this species, observation of spores under the microscope may be required. 
 
 <h2>Similar species</h2>
 
-Most likely to be mistaken for Riccia sorocarpa, which has a deeper groove pervading most of the upper surface compared to the shallow and short grooves of R. glauca, which are only visible near the tips of the plant. Could likewise be mistaken for a young R. huebeneriana, but that species has thallus segments that are 2x longer than wide, whereas in R. glauca the thallus verges on segments equal in length relative to width.
+Most likely to be mistaken for Riccia sorocarpa, which has a deeper groove pervading most of the upper surface compared to the shallow and short grooves of R. glauca, which are only visible near the tips of the plant. Could likewise be mistaken for a young R. huebeneriana, but that species has thallus segments that are 2x longer than wide, whereas in R. glauca the thallus verges on segments equal in length relative to width. 
 
 <h2>Habitat</h2>
 
@@ -44,7 +44,7 @@ Moist to wet mineral soil of shorelines and pond margins in montane zone; rare i
 
 <h2>Associated species</h2>
 
-Riccia beyrichiana, Riccia trichocarpa, Fossombronia sp.
+Riccia beyrichiana, Riccia trichocarpa, Fossombronia sp. 
 </div>
 
 <div class="imerss-column-right">
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1708819200</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Feb 25, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

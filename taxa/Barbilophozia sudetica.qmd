@@ -32,7 +32,7 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-With typically 2-3 lobed lateral leaves on green shoots that are often tinged with rusty pigments at their tips, B. sudecita is an anomalous member of the genus known from montane habitats where it tends to dwell in rock crevices and ledges in squat patches of horizontal leafy shoots up to 2 cm long and 2 mm wide. Close inspection with a hand lens reveals no underleaves, which in combination with the 2-to-3 shallow lobes with dull tips makes this unique in among regional species in its genus. Brownish angular and two-celled gemmae are often present at the lobe tips.
+With typically 2-3 lobed lateral leaves on green shoots that are often tinged with rusty pigments at their tips, B. sudecita is an anomalous member of the genus known from montane habitats where it tends to dwell in rock crevices and ledges in squat patches of horizontal leafy shoots up to 2 cm long and 2 mm wide. Close inspection with a hand lens reveals no underleaves, which in combination with the 2-to-3 shallow lobes with dull tips makes this unique in among regional species in its genus. Brownish angular and two-celled gemmae are often present at the lobe tips. 
 
 <h2>Similar species</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1732233600</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 22, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

@@ -32,7 +32,7 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-The most common and variable member of the genus, N. scalaris presents as a reliably green mat-forming species with prostrate shoots typically to 3 cm long and roughly 2 mm wide. The lateral leaves are unlobed, broadly elliptical and attached at there base across the axis of the stem, while the underleaves are simple and elongate and should be visible with a hand lens. This is a dioicous species and its leaf cells under the microscope have 2 or more oil bodies and substantially-thickened walls &quot;trigones&quot; at their junctions.
+The most common and variable member of the genus, N. scalaris presents as a reliably green mat-forming species with prostrate shoots typically to 3 cm long and roughly 2 mm wide. The lateral leaves are unlobed, broadly elliptical and attached at there base across the axis of the stem, while the underleaves are simple and elongate and should be visible with a hand lens. This is a dioicous species and its leaf cells under the microscope have 2 or more oil bodies and substantially-thickened walls &quot;trigones&quot; at their junctions. 
 
 <h2>Similar species</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1732233600</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 22, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

@@ -36,15 +36,15 @@ Ephemeral but frequent,  this dark green Anthoceros has a fluted and heavily dis
 
 <h2>Similar species</h2>
 
-When fertile, the dark sporophytes and black spore mass seperate A. fusiformis from Phaeoceros oreganus and Paraphymatoceros pearsonii, species with yellow spores and sporophytes that have a less dissected thallus. A. fusiformis lacks the asexual bulbils present on the underside of Phymatoceros bulbicosus. A. punctatus can not be distinguished from A. fusiformis without microscopic examination of the mature spores.
+When fertile, the dark sporophytes and black spore mass seperate A. fusiformis from Phaeoceros oreganus and Paraphymatoceros pearsonii, species with yellow spores and sporophytes that have a less dissected thallus. A. fusiformis lacks the asexual bulbils present on the underside of Phymatoceros bulbicosus. A. punctatus can not be distinguished from A. fusiformis without microscopic examination of the mature spores. 
 
 <h2>Habitat</h2>
 
-Fine sediment seeps, seasonally saturated banks, ditches and rock crevices. Locally frequent in SW BC.
+Fine sediment seeps, seasonally saturated banks, ditches and rock crevices. Locally frequent in SW BC. 
 
 <h2>Associated species</h2>
 
-Fissidens crispus, Fissidens bryoides, Timmiella crassinervis, Rosulabryum canariense, Kindbergia praelonga, Atrichum selwynii among others
+Fissidens crispus, Fissidens bryoides, Timmiella crassinervis, Rosulabryum canariense, Kindbergia praelonga, Atrichum selwynii among others 
 </div>
 
 <div class="imerss-column-right">
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell, Dan Tucker</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1731628800</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 15, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

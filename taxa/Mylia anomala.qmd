@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-Mylia anomala is seemingly restricted to bog and fen habitats, where it worms its way through Sphagnum, presenting at the surface as oppositely-arranged and converging elongate-oval leaves dusted with yellow-green asexual spores (&quot;gemmae&quot;), like a set of lips bearing a clump of cornmeal. Yanked from their substrate, the shoots are long (up to 3 cm), with the simple, unlobed leaves attaching obliquely to the stem and becoming more distantly spaced as you move down.
+Mylia anomala is seemingly restricted to bog and fen habitats, where it worms its way through Sphagnum, presenting at the surface as oppositely-arranged and converging elongate-oval leaves dusted with yellow-green asexual spores (&quot;gemmae&quot;), like a set of lips bearing a clump of cornmeal. Yanked from their substrate, the shoots are long (up to 3 cm), with the simple, unlobed leaves attaching obliquely to the stem and becoming more distantly spaced as you move down. 
 
 <h2>Similar species</h2>
 
-This is the only large simple-leaved liverwort that grows exclusively through Sphagnum and has abundant yellow-green gemmae. The presence of prominent simple underleaves seperates it from Cryptocolea, Syzygiella, Jungermannia and Solenostoma. Because of its restriction to bog-like habitats, it could only be mistaken for the much smaller species of Odontoschisma (&lt;&lt;1 mm wide) or its brethren, Mylia taylorii. The latter species has leaves wider than long with rounded leaf tips topped by bright yellow-red gemmae, while those of M. anomala are longer than wide, with somewhat pointed leaf tips topped by light green gemmae.
+This is the only large simple-leaved liverwort that grows exclusively through Sphagnum and has abundant yellow-green gemmae. The presence of prominent simple underleaves seperates it from Cryptocolea, Syzygiella, Jungermannia and Solenostoma. Because of its restriction to bog-like habitats, it could only be mistaken for the much smaller species of Odontoschisma (&lt;&lt;1 mm wide) or its brethren, Mylia taylorii. The latter species has leaves wider than long with rounded leaf tips topped by bright yellow-red gemmae, while those of M. anomala are longer than wide, with somewhat pointed leaf tips topped by light green gemmae. 
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1731456000</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 13, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

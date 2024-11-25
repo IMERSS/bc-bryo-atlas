@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Jamie Fenneman</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1728864000</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Oct 14, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

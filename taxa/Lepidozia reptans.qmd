@@ -32,7 +32,7 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-Typically green or yellow-green, Lepidozia reptans is a dominant component of the decaying understories in coniferous forests, where it forms creeping and regularly-branched shoots about 1 mm wide and up to 3 cm long. The lateral leaves are wider than the stem and composed of 3 or 4 triangular lobes that are divided to less than 1/2 the leaf's length.
+Typically green or yellow-green, Lepidozia reptans is a dominant component of the decaying understories in coniferous forests, where it forms creeping and regularly-branched shoots about 1 mm wide and up to 3 cm long. The lateral leaves are wider than the stem and composed of 3 or 4 triangular lobes that are divided to less than 1/2 the leaf's length. 
 
 <h2>Similar species</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1731110400</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 9, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-Tiny (&lt;1mm wide shoots) and often camouflaged against bark, this uncommon species of coastal forests is variably green and red, modestly branched and marked by upper leaf lobes that only overlap along their lower inside edge. When looked at from below, the tips of the upper leaf lobe are rounded and the edges of the underleaf are planar.
+Tiny (&lt;1mm wide shoots) and often camouflaged against bark, this uncommon species of coastal forests is variably green and red, modestly branched and marked by upper leaf lobes that only overlap along their lower inside edge. When looked at from below, the tips of the upper leaf lobe are rounded and the edges of the underleaf are planar. 
 
 <h2>Similar species</h2>
 
-At first glance, this species is hard to distinguish from other Frullania species in the region, but like most liverworts, small but visible details hold the key. F. californica lacks the free &quot;flagellate&quot; branchlets of F. bolanderi that stick out so prominently from a similair bark substrate. The leaf tips are rounded in F. californica, whereas in F. nisquallensis and occasional F. franciscana, they are pointed. In plants of F. franciscana where the leaf tips are rounded, a microscope is neccessary to distinguish it from F. californica based on cellular characters-- dark eye spots (&quot;ocelli&quot;) are present in a line in the former, while they are scattered in the latter.
+At first glance, this species is hard to distinguish from other Frullania species in the region, but like most liverworts, small but visible details hold the key. F. californica lacks the free &quot;flagellate&quot; branchlets of F. bolanderi that stick out so prominently from a similair bark substrate. The leaf tips are rounded in F. californica, whereas in F. nisquallensis and occasional F. franciscana, they are pointed. In plants of F. franciscana where the leaf tips are rounded, a microscope is neccessary to distinguish it from F. californica based on cellular characters-- dark eye spots (&quot;ocelli&quot;) are present in a line in the former, while they are scattered in the latter. 
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1708992000</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Feb 27, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

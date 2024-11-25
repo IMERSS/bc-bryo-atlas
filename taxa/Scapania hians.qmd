@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-Regionally known from only 2 collections north of Whistler, BC, Scapania hians is a small brownish green plant with leafy shoots up to 2 cm long and 1.5 mm wide. It has two-subequal and toothless lobes that spread away from one another with acute apices and a linear and sharply folded keel. The lower lobe attaches to the shoot with a long decurrency that runs down the stem axis. Under the microscope, this species has rounded globules of wax on the external surfaces of its leaf cells, as well as triangular thickenings in the corners where adjacent cells abut one another.
+Regionally known from only 2 collections north of Whistler, BC, Scapania hians is a small brownish green plant with leafy shoots up to 2 cm long and 1.5 mm wide. It has two-subequal and toothless lobes that spread away from one another with acute apices and a linear and sharply folded keel. The lower lobe attaches to the shoot with a long decurrency that runs down the stem axis. Under the microscope, this species has rounded globules of wax on the external surfaces of its leaf cells, as well as triangular thickenings in the corners where adjacent cells abut one another. 
 
 <h2>Similar species</h2>
 
-In macro view, this species has similarities to Sphenolobus minutus and Marsupella emarginat, both species with small shoots with alternating and seemingly evenly 2-lobed leaves. In those species, however, the leaves always attach across the axis of the stem, not down along it as is the case for the lower (and slightly smaller!) lobe of S. hians. Among species of Pacific Northwest Scapania, only S. simmonsii, S. obscura and S. subalpina can have subequal lobes with a decurrent base on the lower lobe and an acute, linear keel as in S. hians. Of the found, only S. simmonsii has the large globular wax thickenings visible on the outer walls of leaf cells under the micrscope as can be seen in S. hians. S. simmonsii, however is a much larger northern species of calcareous soils and its leaf lobes turn down along their free edges, while S. hians in our region is a species of silt over rocks in subalpine streams and has lobes that are divergent with upwards facing margins.
+In macro view, this species has similarities to Sphenolobus minutus and Marsupella emarginat, both species with small shoots with alternating and seemingly evenly 2-lobed leaves. In those species, however, the leaves always attach across the axis of the stem, not down along it as is the case for the lower (and slightly smaller!) lobe of S. hians. Among species of Pacific Northwest Scapania, only S. simmonsii, S. obscura and S. subalpina can have subequal lobes with a decurrent base on the lower lobe and an acute, linear keel as in S. hians. Of the found, only S. simmonsii has the large globular wax thickenings visible on the outer walls of leaf cells under the micrscope as can be seen in S. hians. S. simmonsii, however is a much larger northern species of calcareous soils and its leaf lobes turn down along their free edges, while S. hians in our region is a species of silt over rocks in subalpine streams and has lobes that are divergent with upwards facing margins. 
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1732147200</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 21, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

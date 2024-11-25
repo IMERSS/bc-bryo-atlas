@@ -32,7 +32,7 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-A dominant ground and rock dwelling species in northern climes, T. setiformis can form continuous carpets of ascending yellow-brown leafy shoots from 1-to-15 cm long and less than 1 mm wide. The lateral leaves are composed of four sharp, long-triangular and equal lobes that descend down 4/5ths of the leaf's length, the lateral margins frequently ornamented with spurs and teeth (see photo). The underleaves are similair in length to the lateral leaves, likewise deeply dissected and adorned with spurs and teeth, but they have only two lobes. It should be noted that the lobes on the lateral leaves are less than twice as long as they are wide.
+A dominant ground and rock dwelling species in northern climes, T. setiformis can form continuous carpets of ascending yellow-brown leafy shoots from 1-to-15 cm long and less than 1 mm wide. The lateral leaves are composed of four sharp, long-triangular and equal lobes that descend down 4/5ths of the leaf's length, the lateral margins frequently ornamented with spurs and teeth (see photo). The underleaves are similair in length to the lateral leaves, likewise deeply dissected and adorned with spurs and teeth, but they have only two lobes. It should be noted that the lobes on the lateral leaves are less than twice as long as they are wide. 
 
 <h2>Similar species</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1732233600</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 22, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

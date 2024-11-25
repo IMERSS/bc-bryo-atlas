@@ -11,7 +11,7 @@ categories:
   <div class="taxon-common">Woolly Rock-Moss</div>
  </div>
  <div class="info-bottom">
-  <div class="taxon-qnd">Grey and frosty on rock</div>
+  <div class="taxon-qnd">Grey and frosty on rock </div>
   <div class="taxon-abundance">XXXXXX</div>
  </div>
 </div>
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell, John Reynolds, Brian Starzomski, Daniel Tucker</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1708646400</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Feb 23, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

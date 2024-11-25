@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-One of two exclusively &quot;Sphagnicolous&quot; species in the genus, C. spinigera is easily overlooked as wayward pale green hair or algae-like strands (&lt; 1/4 mm wide to cms long) weaving their way through Sphagnum in open boggy areas. Maybe with a hand lens but more likely with a microscope, you will see deeply divided 2-lobed leaves with sharp apices and tooth-like projections arising from their base. Under the microscope, the lobes themselves are 2-4 cells wide at their base, with teeth restricted to that lower margin and thick leaf cell walls.
+One of two exclusively &quot;Sphagnicolous&quot; species in the genus, C. spinigera is easily overlooked as wayward pale green hair or algae-like strands (&lt; 1/4 mm wide to cms long) weaving their way through Sphagnum in open boggy areas. Maybe with a hand lens but more likely with a microscope, you will see deeply divided 2-lobed leaves with sharp apices and tooth-like projections arising from their base. Under the microscope, the lobes themselves are 2-4 cells wide at their base, with teeth restricted to that lower margin and thick leaf cell walls. 
 
 <h2>Similar species</h2>
 
-At the small scale and specialized habitat that C. spinigera grows in, only species of Cephalozia, Fuscocephaloziopsis and Cephaloziella could be confused. The first two genera are typically &quot;bigger&quot; plants, with leafy shoots measuring &gt;.5 mm wide and the leaves themselves visibly wider than said shoots. Leafy shoots of C. spinigera are ~1/4 mm wide and the leaves themselves narrower than the shoots. Cephaloziella divaricata can grow in the same habitat, but its leaves are only divided to half their length, while those of C. spinigera are divided almost to their base. C. elachista also occurs in the same habitat and is impossible to distinguish without a microscope-- its leaf cells are narrower (&lt; 9 um) and its cell walls thicker than those of C. spinigera (see photo).
+At the small scale and specialized habitat that C. spinigera grows in, only species of Cephalozia, Fuscocephaloziopsis and Cephaloziella could be confused. The first two genera are typically &quot;bigger&quot; plants, with leafy shoots measuring &gt;.5 mm wide and the leaves themselves visibly wider than said shoots. Leafy shoots of C. spinigera are ~1/4 mm wide and the leaves themselves narrower than the shoots. Cephaloziella divaricata can grow in the same habitat, but its leaves are only divided to half their length, while those of C. spinigera are divided almost to their base. C. elachista also occurs in the same habitat and is impossible to distinguish without a microscope-- its leaf cells are narrower (&lt; 9 um) and its cell walls thicker than those of C. spinigera (see photo). 
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1730851200</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 6, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

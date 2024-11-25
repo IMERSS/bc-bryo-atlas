@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-A very common species, Cephalozia bicuspidata forms bright, creeping, translucent green shoots 1-2 mm wide on decaying wood and peat in wet forests and bogs. Inspection with a hand lens shows two rows of sharply bilobed leaves, the leaves themselves slightly wider than the stem and attaching at their bases nearly at a right angle across the stem and very close to its midline. Sporophytes are frequently present and can be found developing in or extruding from elongate, ridged, whitish-green and erect pouches.
+A very common species, Cephalozia bicuspidata forms bright, creeping, translucent green shoots 1-2 mm wide on decaying wood and peat in wet forests and bogs. Inspection with a hand lens shows two rows of sharply bilobed leaves, the leaves themselves slightly wider than the stem and attaching at their bases nearly at a right angle across the stem and very close to its midline. Sporophytes are frequently present and can be found developing in or extruding from elongate, ridged, whitish-green and erect pouches.  
 
 <h2>Similar species</h2>
 
-This species frequently coocurs with a number of lookalikes. Lepidozia reptans is of similar size, colour and habitat, but has clearly 3-4 lobed leaves, whereas C. bicuspidata leaves are 2-lobed. Species of Cephaloziella are typically a little smaller, but can be clearly seperated out by leaves narrower than the shoot as opposed C. bicuspidata, where the leaves are wider than the shoot. Species in the genus Fuscocephaloziopsis are similar in scale, habitat and the presence of bilobed leaves, but those leaves are attached along the length of the stem, whereas in C. bicuspidata, the leaves are attached obliquely across the stem. Cephalozia ambigua is treated often as a subspecies of C. bicuspidata, the former differing in its smaller size (~ .5 mm wide) and the presence of underleaves which are absent in the latter. C. macounii is somehow much smaller (&lt;&lt; .5 mm wide) very similar, but microscope inspection of the leaf should show very oblique attachment to the stem, whereas in C.  bicuspidata leaves verge on attaching at a right angle across the stem axis.
+This species frequently coocurs with a number of lookalikes. Lepidozia reptans is of similar size, colour and habitat, but has clearly 3-4 lobed leaves, whereas C. bicuspidata leaves are 2-lobed. Species of Cephaloziella are typically a little smaller, but can be clearly seperated out by leaves narrower than the shoot as opposed C. bicuspidata, where the leaves are wider than the shoot. Species in the genus Fuscocephaloziopsis are similar in scale, habitat and the presence of bilobed leaves, but those leaves are attached along the length of the stem, whereas in C. bicuspidata, the leaves are attached obliquely across the stem. Cephalozia ambigua is treated often as a subspecies of C. bicuspidata, the former differing in its smaller size (~ .5 mm wide) and the presence of underleaves which are absent in the latter. C. macounii is somehow much smaller (&lt;&lt; .5 mm wide) very similar, but microscope inspection of the leaf should show very oblique attachment to the stem, whereas in C.  bicuspidata leaves verge on attaching at a right angle across the stem axis.  
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1730764800</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>November 5, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

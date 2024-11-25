@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-A massive and common leafy liverwort that often dominates deciduous forests, forming large carpets of creeping-to-swooping shiny green/yellow/brown shoots with closely overlapping leaves. The leaves are best interpretted from the underside, where a large upper lobe can be seen behind a smaller, triangular underlobe that is similar in size and shape to an overlapping underleaf. Male plants have small rattle-like shoots that bear antheridia, while the sporophytes develop from modified, archegonia-bearing leaves on the underside of the main stem of female plants.
+A massive and common leafy liverwort that often dominates deciduous forests, forming large carpets of creeping-to-swooping shiny green/yellow/brown shoots with closely overlapping leaves. The leaves are best interpretted from the underside, where a large upper lobe can be seen behind a smaller, triangular underlobe that is similar in size and shape to an overlapping underleaf. Male plants have small rattle-like shoots that bear antheridia, while the sporophytes develop from modified, archegonia-bearing leaves on the underside of the main stem of female plants. 
 
 <h2>Similar species</h2>
 
-Sometimes this species can be confused for a large Radula on account of the tightly overlapping, rounded leaves. Looking at the underside of both plants with a hand lens, you will see that Radula lacks an underleaf. Frullania species are smaller, but absent that, the genus has sphaeroidal, helmet shaped lobules as opposed to the triangular underlobes seen in P. navicularis. The glossy leaves in combination with underlobes that are similair in size and shape distinguish P. navicularis from matte P. cordaeana and similarly-glossy P. roellii, both species with underlobes that are narrower than the underleaves.
+Sometimes this species can be confused for a large Radula on account of the tightly overlapping, rounded leaves. Looking at the underside of both plants with a hand lens, you will see that Radula lacks an underleaf. Frullania species are smaller, but absent that, the genus has sphaeroidal, helmet shaped lobules as opposed to the triangular underlobes seen in P. navicularis. The glossy leaves in combination with underlobes that are similair in size and shape distinguish P. navicularis from matte P. cordaeana and similarly-glossy P. roellii, both species with underlobes that are narrower than the underleaves. 
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1708992000</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Feb 27, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

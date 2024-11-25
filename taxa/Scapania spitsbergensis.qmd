@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-Known from only three records in northern alpine and arctic tundra, Scapania spitsbergensis is a green to purple soil and rock dweller with shoots to 7 cm long and 3.5 mm wide. The upper lobe is about half the size of the lower lobe, but both are ellpisoidal and endowed with large spiney teeth from base to tip. The keel where the two lobes come together is arched and the lower lobe attached down along the axis of the stem on the back side of the shoot (&quot;decurrent&quot;).
+Known from only three records in northern alpine and arctic tundra, Scapania spitsbergensis is a green to purple soil and rock dweller with shoots to 7 cm long and 3.5 mm wide. The upper lobe is about half the size of the lower lobe, but both are ellpisoidal and endowed with large spiney teeth from base to tip. The keel where the two lobes come together is arched and the lower lobe attached down along the axis of the stem on the back side of the shoot (&quot;decurrent&quot;). 
 
 <h2>Similar species</h2>
 
-With long spiny teeth borne all around ellipsoidal lobes in rocky habitats, this species is most comparable to Scapania americana. That taxon is of lower elevations and latitudes and while it also has a decurrent lower lobe attachment, its keel is linear, while in S. spitsbergensis, the keel is arched.
+With long spiny teeth borne all around ellipsoidal lobes in rocky habitats, this species is most comparable to Scapania americana. That taxon is of lower elevations and latitudes and while it also has a decurrent lower lobe attachment, its keel is linear, while in S. spitsbergensis, the keel is arched. 
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1732233600</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 22, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-Delicate and filamentous plants of Blepharostoma are frequent but easy to overlook in their moist microhabitats, where they occur as transluscent yellow-to-green bristly shoots &lt;1/4 mm wide that creep along the substrate. With a hand lends the leaves are composed of four equal and linear lobes that are seperated all the way to the very base of the leaf. Under the microscope, these lobes are only one cell wide.
+Delicate and filamentous plants of Blepharostoma are frequent but easy to overlook in their moist microhabitats, where they occur as transluscent yellow-to-green bristly shoots &lt;1/4 mm wide that creep along the substrate. With a hand lends the leaves are composed of four equal and linear lobes that are seperated all the way to the very base of the leaf. Under the microscope, these lobes are only one cell wide. 
 
 <h2>Similar species</h2>
 
-Species of Kurzia are of similair size with 4-lobed leaves and can occur in similair habitats. The leave lobes in that genus, however, are 1-celled at their tip but broaden to 2 (or more) cells wide towards their base, which is found at about three-quarters down the leaf's length. In B. trichophylla, the leaf lobes are always 1 cell wide and are divided all the way to the very base of the left. Differences with Blepharostoma arachnoideum are subtle-- the latter tending to have 2-3 lobes that often branch further along their length, while in B. trichophyllum, there are typically 4 (sometimes 3) lobes that are never branched. B. trichophylla is often treated as a complex of closely related taxa with intergrading morphologies.
+Species of Kurzia are of similair size with 4-lobed leaves and can occur in similair habitats. The leave lobes in that genus, however, are 1-celled at their tip but broaden to 2 (or more) cells wide towards their base, which is found at about three-quarters down the leaf's length. In B. trichophylla, the leaf lobes are always 1 cell wide and are divided all the way to the very base of the left. Differences with Blepharostoma arachnoideum are subtle-- the latter tending to have 2-3 lobes that often branch further along their length, while in B. trichophyllum, there are typically 4 (sometimes 3) lobes that are never branched. B. trichophylla is often treated as a complex of closely related taxa with intergrading morphologies. 
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1731456000</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 13, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

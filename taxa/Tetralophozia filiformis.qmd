@@ -32,7 +32,7 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-Often hiding in tangles of other bryophytes on rock, the cryptic Tetralophozia filiformis forms narrow yellow-brown and pendant shoots around .5 mm wide and 2 cm long. The lateral leaves are composed of four sharp, long-triangular and equal lobes that descend down 4/5ths of the leaf's length, the lateral margins frequently ornamented with spurs and teeth. The underleaves are similair in length to the lateral leaves, likewise deeply dissected and adorned with spurs and teeth, but they have only two lobes. It should be noted that the lobes on the lateral leaves are at least twice as long as they are wide.
+Often hiding in tangles of other bryophytes on rock, the cryptic Tetralophozia filiformis forms narrow yellow-brown and pendant shoots around .5 mm wide and 2 cm long. The lateral leaves are composed of four sharp, long-triangular and equal lobes that descend down 4/5ths of the leaf's length, the lateral margins frequently ornamented with spurs and teeth. The underleaves are similair in length to the lateral leaves, likewise deeply dissected and adorned with spurs and teeth, but they have only two lobes. It should be noted that the lobes on the lateral leaves are at least twice as long as they are wide. 
 
 <h2>Similar species</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1732233600</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 22, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

@@ -32,7 +32,7 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-Schljakovia kunzeana is another easily overlooked subalpine rock and heath-dwelling species that forms turf-forming, horizontally-overlapping linear shoots coloured  green, brown and/or red  and measuring up to 5 cm long and 1.5 mm wide. The lateral leaves are predominantly two-lobed, the lobes even with rounded or obtuse tips and descending down to between 1/4 and 1/2 the leaf's length.  and attach mostly across the axis of the stem (&quot;transverse&quot;), while the underleaves are easily seen with a hand lens and have two lobes that divide nearly to the base of the underleaf. Underleaves are less than 1/2 the heigh of the lateral leaves and asexual reproductive bodies (&quot;gemmae&quot;) are uncommon.
+Schljakovia kunzeana is another easily overlooked subalpine rock and heath-dwelling species that forms turf-forming, horizontally-overlapping linear shoots coloured  green, brown and/or red  and measuring up to 5 cm long and 1.5 mm wide. The lateral leaves are predominantly two-lobed, the lobes even with rounded or obtuse tips and descending down to between 1/4 and 1/2 the leaf's length.  and attach mostly across the axis of the stem (&quot;transverse&quot;), while the underleaves are easily seen with a hand lens and have two lobes that divide nearly to the base of the underleaf. Underleaves are less than 1/2 the heigh of the lateral leaves and asexual reproductive bodies (&quot;gemmae&quot;) are uncommon. 
 
 <h2>Similar species</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1732233600</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 22, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

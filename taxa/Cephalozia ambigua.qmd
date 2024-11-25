@@ -32,15 +32,15 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-A rarely observed species unique in the genus on account of being XXX, C. ambigua forms small green-brown shoots (~ .5 mm wide) of diagonally-inserted bilobed leaves that are wider than the stem.  The leaves are attached diagonally and their bases converge near the midline of the upper stem face. Microscopic measurement of the leaf cells is required to distinguish this species from C. bicuspidata.
+A rarely observed species unique in the genus on account of being XXX, C. ambigua forms small green-brown shoots (~ .5 mm wide) of diagonally-inserted bilobed leaves that are wider than the stem.  The leaves are attached diagonally and their bases converge near the midline of the upper stem face. Microscopic measurement of the leaf cells is required to distinguish this species from C. bicuspidata. 
 
 <h2>Similar species</h2>
 
-The diagonally inserted leaves that converge near the midline of the stem seperate it from all species in Cephaloziaceae except for Cephalozia bicuspidata. While C. bicuspidata is generally a larger species (shoots ~ 1 mm wide), confident determination requires microscopic examination of the leaves. Cells at the base of the leaf lobes in C. ambigua are &lt; 24um wide, while those of C. bicuspidata are &gt; 24 um wide. Underleaves are occasionally present in C. ambigua and always absent in C. bicuspidata.
+The diagonally inserted leaves that converge near the midline of the stem seperate it from all species in Cephaloziaceae except for Cephalozia bicuspidata. While C. bicuspidata is generally a larger species (shoots ~ 1 mm wide), confident determination requires microscopic examination of the leaves. Cells at the base of the leaf lobes in C. ambigua are &lt; 24um wide, while those of C. bicuspidata are &gt; 24 um wide. Underleaves are occasionally present in C. ambigua and always absent in C. bicuspidata. 
 
 <h2>Habitat</h2>
 
-On rock and montane peat.
+On rock and montane peat. 
 
 <h2>Associated species</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1730764800</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>November 5, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

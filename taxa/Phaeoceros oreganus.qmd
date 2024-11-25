@@ -36,7 +36,7 @@ XXXXXX
 
 <h2>Similar species</h2>
 
-Lacking the bulbils of Phymatoceros bulbiculosus and possessing small horns at maturity, P. oreganus could only be mistaken for immature Paraphymatoceros pearsonii. The distinction is microscopic and based on the colour and ornamentation of the spores.
+Lacking the bulbils of Phymatoceros bulbiculosus and possessing small horns at maturity, P. oreganus could only be mistaken for immature Paraphymatoceros pearsonii. The distinction is microscopic and based on the colour and ornamentation of the spores. 
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell, Dan Tucker</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1731628800</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 15, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

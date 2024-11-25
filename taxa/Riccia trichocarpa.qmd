@@ -32,15 +32,15 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-A rare species, R. trichocarpa forms small rosettes (~1cm wide) on thin soils with open exposure. These rosettes distinguished by an abundance of hairs present all around the margins and underside of the plant.
+A rare species, R. trichocarpa forms small rosettes (~1cm wide) on thin soils with open exposure. These rosettes distinguished by an abundance of hairs present all around the margins and underside of the plant. 
 
 <h2>Similar species</h2>
 
-Riccia beyrichiana also has marginal outgrowths, but they are much shorter, much wider and much less numerous than those of R. trichocarpa. No other Riccia species has the abundant fine hairs of Rl trichocarpa.
+Riccia beyrichiana also has marginal outgrowths, but they are much shorter, much wider and much less numerous than those of R. trichocarpa. No other Riccia species has the abundant fine hairs of Rl trichocarpa. 
 
 <h2>Habitat</h2>
 
-Seasonally moist fine mineral soil, especially around seepage sites and ephemeral pools. Rare, SW &amp; SC BC.
+Seasonally moist fine mineral soil, especially around seepage sites and ephemeral pools. Rare, SW &amp; SC BC. 
 
 <h2>Associated species</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1708819200</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Feb 25, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

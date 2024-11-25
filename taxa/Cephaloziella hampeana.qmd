@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-Poorly known in the region but cosmopolitan across the temperate and boreal regions of the Northern Hemisphere, Cephaloziella hampeana follows standard green-to-red, small thread-like growth form seen in most member of the genus. Under the land lens, the unornamented spreading leaves are lobed with a sinus descending to around half the leaf length. To distinguish this species from others in the genus, care must be taken to confirm the absence of underleaves as well as for gynoecia and androecia, which should be present on different branches of the same plant.
+Poorly known in the region but cosmopolitan across the temperate and boreal regions of the Northern Hemisphere, Cephaloziella hampeana follows standard green-to-red, small thread-like growth form seen in most member of the genus. Under the land lens, the unornamented spreading leaves are lobed with a sinus descending to around half the leaf length. To distinguish this species from others in the genus, care must be taken to confirm the absence of underleaves as well as for gynoecia and androecia, which should be present on different branches of the same plant. 
 
 <h2>Similar species</h2>
 
-At its size (leafy shoots less than .5 mm wide) with distantly spaced bilobed leaves, it could only be mistaken for other members within the genus Cephaloziella. C. turneri, C. spinigera, C. phyllacantha and C elachista all have leaves are dissected very near to their toothy or spurred bases, while C. hampeana has lobed, toothless leaves divided to only about half of their length. C. divaricata has underleaves on the shoots and androecia and gynoecia on seperate plants; underleaves are absent on C. hampeana and its gynoecia and androecia are on the same plant. C. varians has round lobe tips on erect leaves where those of C. hampeana are acute on wide-spreading leaves. C. rubella, the last species that it could be confused for in the region, has erect leaves and androecia and gynoecia close together on the same shoot in contrast to their arrangement on seperate branches in C. hampeana, which has wide-spreading leaves.
+At its size (leafy shoots less than .5 mm wide) with distantly spaced bilobed leaves, it could only be mistaken for other members within the genus Cephaloziella. C. turneri, C. spinigera, C. phyllacantha and C elachista all have leaves are dissected very near to their toothy or spurred bases, while C. hampeana has lobed, toothless leaves divided to only about half of their length. C. divaricata has underleaves on the shoots and androecia and gynoecia on seperate plants; underleaves are absent on C. hampeana and its gynoecia and androecia are on the same plant. C. varians has round lobe tips on erect leaves where those of C. hampeana are acute on wide-spreading leaves. C. rubella, the last species that it could be confused for in the region, has erect leaves and androecia and gynoecia close together on the same shoot in contrast to their arrangement on seperate branches in C. hampeana, which has wide-spreading leaves. 
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1730851200</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 6, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

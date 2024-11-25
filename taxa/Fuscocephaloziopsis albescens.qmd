@@ -36,11 +36,11 @@ With relatively wide (&gt; 1 mm) and worm-like pale green shoots clustering amon
 
 <h2>Similar species</h2>
 
-Genera like Gymnomitrion and Harpanthus are also subalpine, pale and two lobed, but neither of those species have the concave, cupped-shaped leaves of Fuscocephaloziopsis albescens. Cephalozia bicuspidata has similar leaf attachement, but lacks an underleaf its lateral leaves are elongate and deeply bilobed, whereas in F. albescens they are round and shallowly bilobed. No other species in the genus Fuscocephaloziopsis has an underleaf.
+Genera like Gymnomitrion and Harpanthus are also subalpine, pale and two lobed, but neither of those species have the concave, cupped-shaped leaves of Fuscocephaloziopsis albescens. Cephalozia bicuspidata has similar leaf attachement, but lacks an underleaf its lateral leaves are elongate and deeply bilobed, whereas in F. albescens they are round and shallowly bilobed. No other species in the genus Fuscocephaloziopsis has an underleaf.  
 
 <h2>Habitat</h2>
 
-Subalpine meadows on soil, hummus &amp; Sphagnum.
+Subalpine meadows on soil, hummus &amp; Sphagnum. 
 
 <h2>Associated species</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1730764800</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>November 5, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

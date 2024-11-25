@@ -32,7 +32,7 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-Barbilophozia lycopodioides is a large and dominant leafy liverwort in northern and montane landscapes, where is formed a groundcover of lanky yellow or green shoots that can be more than 5 cm long and up to 5 mm wide. The lateral leaves are predominantly 4-lobed, the lobes having sharp,spiny tips and descending to about 1/4th the leaf's length. Underleaves are present, and the bases of the lateral leaves are typically ornamented with numerous long, stiff hairs-like outgrowths (&quot;cilia&quot;).
+Barbilophozia lycopodioides is a large and dominant leafy liverwort in northern and montane landscapes, where is formed a groundcover of lanky yellow or green shoots that can be more than 5 cm long and up to 5 mm wide. The lateral leaves are predominantly 4-lobed, the lobes having sharp,spiny tips and descending to about 1/4th the leaf's length. Underleaves are present, and the bases of the lateral leaves are typically ornamented with numerous long, stiff hairs-like outgrowths (&quot;cilia&quot;). 
 
 <h2>Similar species</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1732233600</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 22, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

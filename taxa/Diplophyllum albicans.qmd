@@ -36,7 +36,7 @@ A frequent component of dark and wet forests, D. albicans forms luxuriant patche
 
 <h2>Similar species</h2>
 
-Distinct from members of the round-lobed genus Scapania on account of its elongate lobes, this species is most likely to be confused with others in the genus Diplophyllum. Neither D. taxifolium or D. obtusifolium have the line of pale cells in the lower lobe.
+Distinct from members of the round-lobed genus Scapania on account of its elongate lobes, this species is most likely to be confused with others in the genus Diplophyllum. Neither D. taxifolium or D. obtusifolium have the line of pale cells in the lower lobe. 
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1708905600</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Feb 26, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

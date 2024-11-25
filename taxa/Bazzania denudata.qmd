@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-The most common member of the genus, Bazzania denudata typically presents as emerald-green horizontal shoots (~2 mm wide) that fork evenly and, as the species name indicates, often drops its leaves along portions of the stem. The arched lateral leaves have three very shallow tooth-like lobes (&lt;1/10th leaf length) at their tips, while the underleaves are wider than long with 3-4 lobes with rounded tips. The naked shoot sections stand out in particular, especially on plants found in extensive carpets on conifer trunks, stumps and logs.
+The most common member of the genus, Bazzania denudata typically presents as emerald-green horizontal shoots (~2 mm wide) that fork evenly and, as the species name indicates, often drops its leaves along portions of the stem. The arched lateral leaves have three very shallow tooth-like lobes (&lt;1/10th leaf length) at their tips, while the underleaves are wider than long with 3-4 lobes with rounded tips. The naked shoot sections stand out in particular, especially on plants found in extensive carpets on conifer trunks, stumps and logs. 
 
 <h2>Similar species</h2>
 
-The evenly-forked shoots and notch-like lobes at the tip of the lateral leaves make it unlike any species outside its own genus, though Calypogiea species are often found in the same habitat and can mimic the leaf form. Bazzania denudata has 3-4 lobes on its underleaf, however, while species of Calypogeia have 2 at most. B. tricrenata and B. griffithiana are brown-to-yellow species with significantly longer shoots (&gt;3 cm). Bazzania trilobata is emerald green like B. denudata, but the shoots are much wider (3-6 mm vs. 2 mm) and its underleaves have toothed crests, not rounded ones. B. pearsonii, a species of similar size and colour to B. denudata, has unlobed underleaves. Bazzania ambigua typically shows 2-lobed lateral leaves and underleaves that are as long as wide, while B. denudata has (typically) 3-lobed lateral leaves and underleaves that are wider than long. If uncertain, check the lateral leaves with a microscope: oil bodies are 8-12 in B. denudata and 2-4 in B. ambigua.
+The evenly-forked shoots and notch-like lobes at the tip of the lateral leaves make it unlike any species outside its own genus, though Calypogiea species are often found in the same habitat and can mimic the leaf form. Bazzania denudata has 3-4 lobes on its underleaf, however, while species of Calypogeia have 2 at most. B. tricrenata and B. griffithiana are brown-to-yellow species with significantly longer shoots (&gt;3 cm). Bazzania trilobata is emerald green like B. denudata, but the shoots are much wider (3-6 mm vs. 2 mm) and its underleaves have toothed crests, not rounded ones. B. pearsonii, a species of similar size and colour to B. denudata, has unlobed underleaves. Bazzania ambigua typically shows 2-lobed lateral leaves and underleaves that are as long as wide, while B. denudata has (typically) 3-lobed lateral leaves and underleaves that are wider than long. If uncertain, check the lateral leaves with a microscope: oil bodies are 8-12 in B. denudata and 2-4 in B. ambigua. 
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1731024000</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 8, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

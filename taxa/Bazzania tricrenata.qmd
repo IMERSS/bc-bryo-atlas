@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-Loping over peaty grounds, decaying organic matter, tree trunks and bedrock, B. tricrenata is a predominantly yellow-brown species with shoots up to 4 cm long found in a startling range of habitats. The lateral leaves have 3 small, tooth-like notches at their tip, whilst the underleaves have 3-5 short, knobby lobes at their tip. Inspection of the underside of the plant should reveal numerous pale-white or brown branchlets (up to 3 cm long!) emerging from the stem.
+Loping over peaty grounds, decaying organic matter, tree trunks and bedrock, B. tricrenata is a predominantly yellow-brown species with shoots up to 4 cm long found in a startling range of habitats. The lateral leaves have 3 small, tooth-like notches at their tip, whilst the underleaves have 3-5 short, knobby lobes at their tip. Inspection of the underside of the plant should reveal numerous pale-white or brown branchlets (up to 3 cm long!) emerging from the stem.  
 
 <h2>Similar species</h2>
 
-Only Bazzania trilobata has similair long pale branchlets emerging from its underside, but it is a bright green species with wide leafy shoots (3-6 mm), whereas B. tricrenata is yellow-to-brown and its shoots are &lt;3 mm wide. The rare and similairly-coloured B. griffithiana could occur in the same wet and peaty habitats, but it lacks does not bear the long pale branchlets seen on the underside of B. tricrenata.
+Only Bazzania trilobata has similair long pale branchlets emerging from its underside, but it is a bright green species with wide leafy shoots (3-6 mm), whereas B. tricrenata is yellow-to-brown and its shoots are &lt;3 mm wide. The rare and similairly-coloured B. griffithiana could occur in the same wet and peaty habitats, but it lacks does not bear the long pale branchlets seen on the underside of B. tricrenata. 
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1731024000</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 8, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

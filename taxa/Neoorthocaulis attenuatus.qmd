@@ -32,7 +32,7 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-With stiffly erect and often tapering yellow green shoots up to 5 cm tall and 2 mm wide, N. attenuatus stands out in boulder and ledge rockscapes in which it occasionally dwells. Up close, the lateral leaves are predominantly 3-lobed, with sharp apices and sinuses that descend 1/3 of the way down the leaf. Underleaves are absent, as are cilia along the lateral leaf bases, but gemmae are often present and abundant along the leaves at the erect tips of the shoots.
+With stiffly erect and often tapering yellow green shoots up to 5 cm tall and 2 mm wide, N. attenuatus stands out in boulder and ledge rockscapes in which it occasionally dwells. Up close, the lateral leaves are predominantly 3-lobed, with sharp apices and sinuses that descend 1/3 of the way down the leaf. Underleaves are absent, as are cilia along the lateral leaf bases, but gemmae are often present and abundant along the leaves at the erect tips of the shoots. 
 
 <h2>Similar species</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1732233600</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 22, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

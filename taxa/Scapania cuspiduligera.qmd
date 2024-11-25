@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-Scapania cuspiduligera is a rarely-recorded green to brown alpine and timberline plant with leafy shoots to 2 cm long and 2.5 mm wide. Its two nearly equal lobes have sharp tips that point away from the stem and are typically crowned with bright red gemmae. The lobes are about two times as long as they are wide and have a poorly developed keel that ensheaths the stem for more than half of the keel's length. Under the microscope, this is the only regional species of Scapania that has a fringe of clear cells that lack both chloroplasts and oil bodies (see photo).
+Scapania cuspiduligera is a rarely-recorded green to brown alpine and timberline plant with leafy shoots to 2 cm long and 2.5 mm wide. Its two nearly equal lobes have sharp tips that point away from the stem and are typically crowned with bright red gemmae. The lobes are about two times as long as they are wide and have a poorly developed keel that ensheaths the stem for more than half of the keel's length. Under the microscope, this is the only regional species of Scapania that has a fringe of clear cells that lack both chloroplasts and oil bodies (see photo). 
 
 <h2>Similar species</h2>
 
-The sheathing keel and white marginal cells are unique within the genus, especially when combined with the lobes being elongate, nearly equal and bearing sharp tips with bright red clusters of asexual reproductive cells (&quot;gemmae&quot;).
+The sheathing keel and white marginal cells are unique within the genus, especially when combined with the lobes being elongate, nearly equal and bearing sharp tips with bright red clusters of asexual reproductive cells (&quot;gemmae&quot;). 
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1732147200</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 21, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

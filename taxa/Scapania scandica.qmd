@@ -32,7 +32,7 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-Scapania scandica is a a regionally rare subalpine species with green to purple-brown leafy shoots up to 2 cm long and 2.5 mm wide. The toothed and sharply pointed lobes are united along an acute and linear keel that extends to about 1/3 the length of the lower lobe, while both the upper and lower lobes attach across the stem axis (&quot;transverse&quot;). The plants are often laden with green asexual reproductive bodies (&quot;gemmae&quot;) along the leaf tips.
+Scapania scandica is a a regionally rare subalpine species with green to purple-brown leafy shoots up to 2 cm long and 2.5 mm wide. The toothed and sharply pointed lobes are united along an acute and linear keel that extends to about 1/3 the length of the lower lobe, while both the upper and lower lobes attach across the stem axis (&quot;transverse&quot;). The plants are often laden with green asexual reproductive bodies (&quot;gemmae&quot;) along the leaf tips. 
 
 <h2>Similar species</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1732147200</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 21, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

@@ -32,7 +32,7 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-One of the few liverworts to truly match its common name, G. coralloides presents as a lawn of densely compressed, pale whitish-green, rounded shoots to 2 cm tall by 2.5 mm wide not unlike a colony of tightly-packed corals in high elevation or high latitude areas. The leaves have two equal, rounded lobes and are tightly overlapping (&quot;imbricate&quot;). For confident identification, you should expect the shoots to be compressed, not round.
+One of the few liverworts to truly match its common name, G. coralloides presents as a lawn of densely compressed, pale whitish-green, rounded shoots to 2 cm tall by 2.5 mm wide not unlike a colony of tightly-packed corals in high elevation or high latitude areas. The leaves have two equal, rounded lobes and are tightly overlapping (&quot;imbricate&quot;). For confident identification, you should expect the shoots to be compressed, not round. 
 
 <h2>Similar species</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1730937600</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 7, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

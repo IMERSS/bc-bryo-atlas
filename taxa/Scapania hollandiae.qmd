@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-Scapania hollandaie is another rare alpine and northern species known regionally from NW British Columbia and the North Cascades of Washington State, where is grows on silt over rocks in cold snowmelt-fed streams. Leafy shoots are green to faintly brown and measure up to 2.5 cm long and 4.5 mm wide. The lobes are elliptical and toothed from base to tip, with the upper lobe about 2/3rds the size of the lower lobe and joined to it along a linear keel. Gemmae are unknown in this species.
+Scapania hollandaie is another rare alpine and northern species known regionally from NW British Columbia and the North Cascades of Washington State, where is grows on silt over rocks in cold snowmelt-fed streams. Leafy shoots are green to faintly brown and measure up to 2.5 cm long and 4.5 mm wide. The lobes are elliptical and toothed from base to tip, with the upper lobe about 2/3rds the size of the lower lobe and joined to it along a linear keel. Gemmae are unknown in this species. 
 
 <h2>Similar species</h2>
 
-In its habitat, it could be mistaken for Scapania undulata. That species, however, has more poorly developed teeth, leaves that are more distantly spaced down the shoot and leaf lobes that are tightly appressed to one another near the shoot tip. In. S. hollandiae, the leaves are closely spaced all along the shoot, the teeth are sharper and the leaf lobes near the tips of the shoot are not strongly appressed to one another. Scapania americana can grown on subalpine rock and mineral soil, but it is not typically associated with the flowing water in which S. hollandiae is found. The latter lacks the reddish pigmentation of the former.
+In its habitat, it could be mistaken for Scapania undulata. That species, however, has more poorly developed teeth, leaves that are more distantly spaced down the shoot and leaf lobes that are tightly appressed to one another near the shoot tip. In. S. hollandiae, the leaves are closely spaced all along the shoot, the teeth are sharper and the leaf lobes near the tips of the shoot are not strongly appressed to one another. Scapania americana can grown on subalpine rock and mineral soil, but it is not typically associated with the flowing water in which S. hollandiae is found. The latter lacks the reddish pigmentation of the former. 
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1732233600</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 22, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

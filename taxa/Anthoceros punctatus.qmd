@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-Functionally a weed in the region, the infrequent occurence on A. punctatus on disturbed urban and agricultural soils is one of the only hints to its identification. It has a dissected and fluted deep green thallus with dark spots visible under the hand lens. The sporophytes when present are roughly 5cm long and darkened by the presence of black spores.
+Functionally a weed in the region, the infrequent occurence on A. punctatus on disturbed urban and agricultural soils is one of the only hints to its identification. It has a dissected and fluted deep green thallus with dark spots visible under the hand lens. The sporophytes when present are roughly 5cm long and darkened by the presence of black spores. 
 
 <h2>Similar species</h2>
 
-Lacking bulbils and possessing dark, tall sporophytes, it is distinct from all other hornwort species in the region with the exception of A. fusiformis. The distinction is microscopic, with A. punctatus having spores that are pitted along their inside face, while A. fusiformis has spores that are spiny all over.
+Lacking bulbils and possessing dark, tall sporophytes, it is distinct from all other hornwort species in the region with the exception of A. fusiformis. The distinction is microscopic, with A. punctatus having spores that are pitted along their inside face, while A. fusiformis has spores that are spiny all over. 
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell, Dan Tucker</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1731628800</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 15, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

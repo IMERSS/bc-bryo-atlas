@@ -32,7 +32,7 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-Plants of Nardia compressa are laterally compressed such that the wide, round and overlapping leaves give the appearance of nested clam shells. The ascendant green shoots are typically 2 (but up to 10) cm long and 3 mm wide, while the lateral leaves have smooth, unlobed margins and are wider than long, often with red pigmentation near their tips. The underleaves are simple, up to .5 mm long and only visible near the shoot tip.
+Plants of Nardia compressa are laterally compressed such that the wide, round and overlapping leaves give the appearance of nested clam shells. The ascendant green shoots are typically 2 (but up to 10) cm long and 3 mm wide, while the lateral leaves have smooth, unlobed margins and are wider than long, often with red pigmentation near their tips. The underleaves are simple, up to .5 mm long and only visible near the shoot tip. 
 
 <h2>Similar species</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1732233600</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 22, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

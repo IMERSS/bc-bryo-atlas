@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-Uncommon and cryptic, this small (&lt;1mm wide) green-to-purple Frullania is most likely to be found along very moist shorelines, where it creeps over the rocks and dwarf sitka spruce branches of coastal headlands. Confident identification requires close inspection of the leaves, which have a unique linear arrangement of microscopic darkened leaf cells called &quot;ocelli&quot;.
+Uncommon and cryptic, this small (&lt;1mm wide) green-to-purple Frullania is most likely to be found along very moist shorelines, where it creeps over the rocks and dwarf sitka spruce branches of coastal headlands. Confident identification requires close inspection of the leaves, which have a unique linear arrangement of microscopic darkened leaf cells called &quot;ocelli&quot;. 
 
 <h2>Similar species</h2>
 
-See notes under Frullania californica.
+See notes under Frullania californica. 
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1708992000</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Feb 27, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

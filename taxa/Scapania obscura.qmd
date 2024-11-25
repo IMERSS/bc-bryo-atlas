@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-Scapania obscura is an relatively small green to brown or even blackish aquatic plant to 2 cm long and 2 mm wide. The lobes have smooth margins, are nearly equal in size and converge along a rounded (not sharply-folded) keel. The lower lobe attached to the shoot down along the axis of the stem (&quot;decurrent&quot;).
+Scapania obscura is an relatively small green to brown or even blackish aquatic plant to 2 cm long and 2 mm wide. The lobes have smooth margins, are nearly equal in size and converge along a rounded (not sharply-folded) keel. The lower lobe attached to the shoot down along the axis of the stem (&quot;decurrent&quot;). 
 
 <h2>Similar species</h2>
 
-Gymnocolea inflata can grow in similar habitats and is of similair size, but that species has truly even lobe sizes and underleaves. In. S. obscura, underleaves are absent the the upper lobe is slightly smaller than the lober lobe. Scapania undulata is also found in flowing water, but it is a much larger plant (shoots to 10+ cm long) with obvioulsly unequal lobes connected by a sharply folded keel. Shoots of S. obscura are small (&lt;2 cm long) with nearly equal lobes that converge along a gently rounded keel.
+Gymnocolea inflata can grow in similar habitats and is of similair size, but that species has truly even lobe sizes and underleaves. In. S. obscura, underleaves are absent the the upper lobe is slightly smaller than the lober lobe. Scapania undulata is also found in flowing water, but it is a much larger plant (shoots to 10+ cm long) with obvioulsly unequal lobes connected by a sharply folded keel. Shoots of S. obscura are small (&lt;2 cm long) with nearly equal lobes that converge along a gently rounded keel. 
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1732233600</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 22, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

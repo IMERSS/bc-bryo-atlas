@@ -32,7 +32,7 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-Plagiochila semidecurrens is an uncommon plant of very wet habitats, where its horizontal stems are laden with drooping, roundly folded and very toothy leaves that are shiny when dry. The spine-like teeth are unique for the genus on account of their number (many!) and length (up to 6 cells long).
+Plagiochila semidecurrens is an uncommon plant of very wet habitats, where its horizontal stems are laden with drooping, roundly folded and very toothy leaves that are shiny when dry. The spine-like teeth are unique for the genus on account of their number (many!) and length (up to 6 cells long). 
 
 <h2>Similar species</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1731283200</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 11, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

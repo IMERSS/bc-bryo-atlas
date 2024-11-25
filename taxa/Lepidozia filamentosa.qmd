@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-Presenting as a luxuriant, regularly and closely branched yellow plume of a leafy liverwort, Lepidozia filamentosa can form large, feather-like patches of shoots up to 5 cm long bearing convex leaves. The lateral leaves and underleaves differ very little, as both typically have 4 triangular lobes that descend to about half of the leaf's length and both are barely wider than the width of the stem.  Under the microscope, the leaf lobes are wide at their base (9-15 cells).
+Presenting as a luxuriant, regularly and closely branched yellow plume of a leafy liverwort, Lepidozia filamentosa can form large, feather-like patches of shoots up to 5 cm long bearing convex leaves. The lateral leaves and underleaves differ very little, as both typically have 4 triangular lobes that descend to about half of the leaf's length and both are barely wider than the width of the stem.  Under the microscope, the leaf lobes are wide at their base (9-15 cells). 
 
 <h2>Similar species</h2>
 
-With 3-to-4 evenly lobed lateral leaves wider than the stem and feather-like branching, L. filamentosa is only likely to be mistaken for L. reptans, which can show regular branching and has very similair leaf form. The latter species is smaller (shoots are typically &lt; 2cm long), but to be sure you can examine the leaves under the microscope. Leaves of L. filamentosa have lobes that are &gt;8 cells wide at their base, while those of L. reptans are &lt;8 cells.
+With 3-to-4 evenly lobed lateral leaves wider than the stem and feather-like branching, L. filamentosa is only likely to be mistaken for L. reptans, which can show regular branching and has very similair leaf form. The latter species is smaller (shoots are typically &lt; 2cm long), but to be sure you can examine the leaves under the microscope. Leaves of L. filamentosa have lobes that are &gt;8 cells wide at their base, while those of L. reptans are &lt;8 cells. 
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1731110400</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 9, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-Known from only one specimen in all of Western North America, S. kaurinii is a a rock dwelling tundra plant with green-to-brown leafy shoots up to 3 cm long and 3.5 mm wide. The upper lobe is about 3/4ths the size of the lower lobe, both are broadly elliptical and mostly smooth along their margins, the leaves as a whole having upturned and often incurled margins . The lobes meet at their base along a linear and acute keel, with the lower lobe attaching with a slight arch on the back of the stem and the upper lobe attaching across the length of the stem.
+Known from only one specimen in all of Western North America, S. kaurinii is a a rock dwelling tundra plant with green-to-brown leafy shoots up to 3 cm long and 3.5 mm wide. The upper lobe is about 3/4ths the size of the lower lobe, both are broadly elliptical and mostly smooth along their margins, the leaves as a whole having upturned and often incurled margins . The lobes meet at their base along a linear and acute keel, with the lower lobe attaching with a slight arch on the back of the stem and the upper lobe attaching across the length of the stem. 
 
 <h2>Similar species</h2>
 
-The lack of teeth and relatively large upper lobe in its habitat of high mountain exposed rocks and detritus could be mistaken for Scapania subalpina, but in that species the upper lobe is up to 90% the size of the lower lobe and the keel is often indistinct. In S. kaurinii, the keel is acute and the upper lobe is around 3/4ths the size of the lower lobe.
+The lack of teeth and relatively large upper lobe in its habitat of high mountain exposed rocks and detritus could be mistaken for Scapania subalpina, but in that species the upper lobe is up to 90% the size of the lower lobe and the keel is often indistinct. In S. kaurinii, the keel is acute and the upper lobe is around 3/4ths the size of the lower lobe. 
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1732233600</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 22, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

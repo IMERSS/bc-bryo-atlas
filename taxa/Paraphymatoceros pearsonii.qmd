@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-A rare hornwort with a relatively undissected thallus, it can form large populations of coin-sized matte green plants over seeping fine soils and vernal pools. At maturity the yellowed horns are less than 5cm tall and hold yellow spores.
+A rare hornwort with a relatively undissected thallus, it can form large populations of coin-sized matte green plants over seeping fine soils and vernal pools. At maturity the yellowed horns are less than 5cm tall and hold yellow spores. 
 
 <h2>Similar species</h2>
 
-Lacking the bulbils of Phymatoceros bulbiculosus and possessing long yellowed horns at maturity, when immature P. pearsonii could only be mistaken for Phaeoceros oreganus. The distinction is microscopic and based on the colour and ornamentation of the spores.
+Lacking the bulbils of Phymatoceros bulbiculosus and possessing long yellowed horns at maturity, when immature P. pearsonii could only be mistaken for Phaeoceros oreganus. The distinction is microscopic and based on the colour and ornamentation of the spores. 
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell, Dan Tucker</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1731628800</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 15, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-An occasional species of exposed rocks, P. roelli is typically a yellow-brownish and glossy plant that has branches few and far between. From the underside with a hand lens, the underlobes are narrower than the underleaf (see photo). Many describe this species as having a &quot;peppery&quot; taste compared to other Porella species, though it should not be consumed.
+An occasional species of exposed rocks, P. roelli is typically a yellow-brownish and glossy plant that has branches few and far between. From the underside with a hand lens, the underlobes are narrower than the underleaf (see photo). Many describe this species as having a &quot;peppery&quot; taste compared to other Porella species, though it should not be consumed. 
 
 <h2>Similar species</h2>
 
-The typical rock habitat, glossy, little-branched shoots and narrow underleaves distinguish P. roellii from P. navicularis, with its wide underleaf, and P. cordaeana, with its matte shoots.
+The typical rock habitat, glossy, little-branched shoots and narrow underleaves distinguish P. roellii from P. navicularis, with its wide underleaf, and P. cordaeana, with its matte shoots. 
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1708992000</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Feb 27, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

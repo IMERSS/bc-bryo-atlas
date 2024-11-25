@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-As suggested by its latin name, Scapania irrigua is a cosmopolitan species of (seasonally) aquatic habitats, with horizontally scrambling light green-to-brown leafy shoots of intermediate size (1-4 cm long x 2-4 mm wide). The unequally bilobed leaves are typically smooth, with the lower lobe pointing outwards from the stem while the upper lobe points in the same direction of the stem axis. The bases of both lobes do not run down the stem, and while the lobes do converge along a sharp, linear keel, they are not appressed to one another.
+As suggested by its latin name, Scapania irrigua is a cosmopolitan species of (seasonally) aquatic habitats, with horizontally scrambling light green-to-brown leafy shoots of intermediate size (1-4 cm long x 2-4 mm wide). The unequally bilobed leaves are typically smooth, with the lower lobe pointing outwards from the stem while the upper lobe points in the same direction of the stem axis. The bases of both lobes do not run down the stem, and while the lobes do converge along a sharp, linear keel, they are not appressed to one another. 
 
 <h2>Similar species</h2>
 
-Both S. apiculata and S. mucronata can have relatively smooth margins with pointed leaf apices as in S. irrigua, but both of those species have decurrent attachment of either the upper or lower leaf lobs, while in S. irrigua, neither lobe is decurrent. It its (seasonally) inundated habitat, it could be confused for S. undulata or S. uliginosa. Both of those species have tightly appressed leaf lobes. Furthermore, the lower lobe of S. undulata is decurrent and the keel of S. uliginosa is arched. In S. irrigua, the leaf lobes are not tightly appressed to one another, neither lobe has a decurrent base and the keel is linear.
+Both S. apiculata and S. mucronata can have relatively smooth margins with pointed leaf apices as in S. irrigua, but both of those species have decurrent attachment of either the upper or lower leaf lobs, while in S. irrigua, neither lobe is decurrent. It its (seasonally) inundated habitat, it could be confused for S. undulata or S. uliginosa. Both of those species have tightly appressed leaf lobes. Furthermore, the lower lobe of S. undulata is decurrent and the keel of S. uliginosa is arched. In S. irrigua, the leaf lobes are not tightly appressed to one another, neither lobe has a decurrent base and the keel is linear. 
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1732147200</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 21, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-A very common species of coastal forests and rocks, the variably green but more often dark purple shoots are narrow (~ 2mm wide or less) and creep over their substrate, giving off equidistant branches and often forming appressed to pendant patches &gt;10 cm in diameter. From above, the plant is composed of tightly overlapping, round upper lobes on their leaves. Looked at from below with a hand lens, you should be able to make out the upper leaf lobes coming to a sharp point at their apex and the small, helmet-shaped &quot;lobule&quot; that rests underneath it.
+A very common species of coastal forests and rocks, the variably green but more often dark purple shoots are narrow (~ 2mm wide or less) and creep over their substrate, giving off equidistant branches and often forming appressed to pendant patches &gt;10 cm in diameter. From above, the plant is composed of tightly overlapping, round upper lobes on their leaves. Looked at from below with a hand lens, you should be able to make out the upper leaf lobes coming to a sharp point at their apex and the small, helmet-shaped &quot;lobule&quot; that rests underneath it. 
 
 <h2>Similar species</h2>
 
-Sometimes this can be mistaken for species of Porella, but in that genus, the little helmet-shaped &quot;lobule&quot; present in Frullania is absent. Likewise, Radula can also grow as a small epiphyte growing close to the bark, but in that genus, there is no &quot;lobule&quot;, nor is there the prominent underleaf found in species of Frullania. F. nisquallensis is the &quot;largest&quot; species in the genus, but could be mistaken for similar epiphytic forms of F. californica and rock-dwelling Frullania franciscana. Those species typically lack the sharp points found on the upper leaf lobe tips in F. nisquallensis. Barring that, miscoscopic study might be neccessary to distinguish it from these species.
+Sometimes this can be mistaken for species of Porella, but in that genus, the little helmet-shaped &quot;lobule&quot; present in Frullania is absent. Likewise, Radula can also grow as a small epiphyte growing close to the bark, but in that genus, there is no &quot;lobule&quot;, nor is there the prominent underleaf found in species of Frullania. F. nisquallensis is the &quot;largest&quot; species in the genus, but could be mistaken for similar epiphytic forms of F. californica and rock-dwelling Frullania franciscana. Those species typically lack the sharp points found on the upper leaf lobe tips in F. nisquallensis. Barring that, miscoscopic study might be neccessary to distinguish it from these species. 
 
 <h2>Habitat</h2>
 
@@ -44,7 +44,7 @@ Tree trunks (esp. alder, maple), branches, decayed wood, humus, mineral soil, cl
 
 <h2>Associated species</h2>
 
-Porella navicularis, Porella cordeana, Radula complanata, Radula bolanderi, Frullania bolanderi, Pulvigera sp., Orthotrichum pulchellum, Neckera sp.
+Porella navicularis, Porella cordeana, Radula complanata, Radula bolanderi, Frullania bolanderi, Pulvigera sp., Orthotrichum pulchellum, Neckera sp. 
 </div>
 
 <div class="imerss-column-right">
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1708992000</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Feb 27, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

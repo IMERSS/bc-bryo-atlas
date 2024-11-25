@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-A rare species thus far known only from sloping and seasonally saturated fine sediments over rock, R. lamellosa appears as small (~5mm) thalli with a smooth upper surface, v-shaped tips on a whitish-green plant. Close inspection reveals a series of thin pale flaps (&quot;lamellae&quot;) that fringe the edges of the plant.
+A rare species thus far known only from sloping and seasonally saturated fine sediments over rock, R. lamellosa appears as small (~5mm) thalli with a smooth upper surface, v-shaped tips on a whitish-green plant. Close inspection reveals a series of thin pale flaps (&quot;lamellae&quot;) that fringe the edges of the plant. 
 
 <h2>Similar species</h2>
 
-No other species of Riccia has the overlapping scales of pale tissue along the margin, making this plant unmistakeable compared to others in the genus.
+No other species of Riccia has the overlapping scales of pale tissue along the margin, making this plant unmistakeable compared to others in the genus. 
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1708819200</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Feb 25, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-A large,seemingly filamentous plant, Lepidozia sandvicensis presents as a minature transluscent green tumbleweed, its shoots up to 5 cm long with numerous long branches completely free from their substrate. While its lateral leaves have the genus' characteristic 3-4 triangular lobes down to about 1/2 their length, they are narrower than the shoot width and very widely spaced along the stems. As the Latin name suggests, this is a plant with an interesting distribution, known predominantly from the Hawaiian Islands and wet-coastal British Columbia.
+A large,seemingly filamentous plant, Lepidozia sandvicensis presents as a minature transluscent green tumbleweed, its shoots up to 5 cm long with numerous long branches completely free from their substrate. While its lateral leaves have the genus' characteristic 3-4 triangular lobes down to about 1/2 their length, they are narrower than the shoot width and very widely spaced along the stems. As the Latin name suggests, this is a plant with an interesting distribution, known predominantly from the Hawaiian Islands and wet-coastal British Columbia. 
 
 <h2>Similar species</h2>
 
-Because of its large size and shoots growing free from their substrate, it is unlikely to be mistaken for other liverworts with leaves narrower than their stems (eg. species of Cephalozia and Cephaloziella, both of which have 2-lobed leaves).  Species of the genus Kurzia have 3-4 lobed leaves as in L. sandvicensis, but they have shoots that only grow to less than 1 cm in length. Amongst the two other regional species of Lepidozia, L. sandvicensis is the only one with leaves narrow than the shoots on which they grow and it lacks the regular and even branching of L. filamentosa as well as the very close arrangement of leaves seen in L. reptans.
+Because of its large size and shoots growing free from their substrate, it is unlikely to be mistaken for other liverworts with leaves narrower than their stems (eg. species of Cephalozia and Cephaloziella, both of which have 2-lobed leaves).  Species of the genus Kurzia have 3-4 lobed leaves as in L. sandvicensis, but they have shoots that only grow to less than 1 cm in length. Amongst the two other regional species of Lepidozia, L. sandvicensis is the only one with leaves narrow than the shoots on which they grow and it lacks the regular and even branching of L. filamentosa as well as the very close arrangement of leaves seen in L. reptans. 
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1731110400</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 9, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

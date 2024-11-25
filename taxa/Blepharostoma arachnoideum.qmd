@@ -32,7 +32,7 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-Blepharostoma arachnoideum is a rare liverwort of very moist peatlands and creekbanks, where its transluscent green and delicately-branched leaves emerge from very narrow (&lt;1/4 mm wide) shoots. The leaves are formed of 2-3 linear segments that are divided all the way to the base of the leaf. Close inspection shows that these linear segments are one cell wide and in turn tend to branch.
+Blepharostoma arachnoideum is a rare liverwort of very moist peatlands and creekbanks, where its transluscent green and delicately-branched leaves emerge from very narrow (&lt;1/4 mm wide) shoots. The leaves are formed of 2-3 linear segments that are divided all the way to the base of the leaf. Close inspection shows that these linear segments are one cell wide and in turn tend to branch. 
 
 <h2>Similar species</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1731456000</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 13, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

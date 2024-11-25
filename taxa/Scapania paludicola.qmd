@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-The rare Scapania paludicola is a large green-to brown species, with leafy shoots to 8 cm long and 4.5 mm wide. The unequal top and bottom leaf lobes have relatively smooth margins that may come to a point, the bottom lobe being longer than wide while the upper lobe is wider than long, often pointing upward, not outward. The keel where the two lobes converge is prominently arched, with the free base of the upper lobes attaching down along the length of the stem.
+The rare Scapania paludicola is a large green-to brown species, with leafy shoots to 8 cm long and 4.5 mm wide. The unequal top and bottom leaf lobes have relatively smooth margins that may come to a point, the bottom lobe being longer than wide while the upper lobe is wider than long, often pointing upward, not outward. The keel where the two lobes converge is prominently arched, with the free base of the upper lobes attaching down along the length of the stem. 
 
 <h2>Similar species</h2>
 
-The prominently arched keel of S. paludicola otherwise only seen in S. uliginosa, a species of similair stature and habitats. That species has a prominently decurrent lower lobe and poorly developed decurrency on the upper lobe. In S. paludicola, it is the upper lobe with the well developed decurrent leaf base, while its lower lobe does not show prominent decurrency.
+The prominently arched keel of S. paludicola otherwise only seen in S. uliginosa, a species of similair stature and habitats. That species has a prominently decurrent lower lobe and poorly developed decurrency on the upper lobe. In S. paludicola, it is the upper lobe with the well developed decurrent leaf base, while its lower lobe does not show prominent decurrency. 
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1732147200</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 21, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

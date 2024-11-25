@@ -32,7 +32,7 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-Found along the fine sediments at the margins of seasonally-receeding water bodies, this uncommon montane species is instantly recognizable as a Fossombronia from the frilly, convoluted and continuous leaves that are packed into a lettuce-like arrangement. Certain identification of F. foveolata requires microscopic examination of the spores.
+Found along the fine sediments at the margins of seasonally-receeding water bodies, this uncommon montane species is instantly recognizable as a Fossombronia from the frilly, convoluted and continuous leaves that are packed into a lettuce-like arrangement. Certain identification of F. foveolata requires microscopic examination of the spores. 
 
 <h2>Similar species</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1708992000</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Feb 27, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

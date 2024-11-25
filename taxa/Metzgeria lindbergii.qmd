@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-A robust and translucent species of wet coastal forests and rock, the evenly-forking M. lindbergii is an uncommon species with a very rigid growth habit, growing horizontally away from its substrate. Close inspection reveals a plant lacking gemmae with a smooth upper suface and paired marginal hairs on the underside.
+A robust and translucent species of wet coastal forests and rock, the evenly-forking M. lindbergii is an uncommon species with a very rigid growth habit, growing horizontally away from its substrate. Close inspection reveals a plant lacking gemmae with a smooth upper suface and paired marginal hairs on the underside. 
 
 <h2>Similar species</h2>
 
-Under the microscope, the nearly identical M. conjugata has a midrib that is 3+ cells wide on the underside, while the same feature is 2 cells wide in M. lindbergii.
+Under the microscope, the nearly identical M. conjugata has a midrib that is 3+ cells wide on the underside, while the same feature is 2 cells wide in M. lindbergii. 
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1708992000</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Feb 27, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

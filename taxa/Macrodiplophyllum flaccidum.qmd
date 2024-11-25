@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-An infrequent species of uncommonly moist low-elevation microhabitats (waterfalls, deep canyons), M. flaccidum is marked by elongate, toothed lobes and a glossy palour. The outermost half of the lower lobes are characteristically held at 90 degrees from the stem and are often parallel to the upper lobes.
+An infrequent species of uncommonly moist low-elevation microhabitats (waterfalls, deep canyons), M. flaccidum is marked by elongate, toothed lobes and a glossy palour. The outermost half of the lower lobes are characteristically held at 90 degrees from the stem and are often parallel to the upper lobes. 
 
 <h2>Similar species</h2>
 
-While similairly toothed to M. rubrum, M. flaccidum lacks its red pigmentation. M. imbricatum is a higher elevation species with smooth leaf lobes that have a rounded aspect. M. plicatum occurs in similar habitats, but in that species the lower lobes are held at 70 degrees to the stem, whereas in M. flaccidum they are held at 90 degrees to the stem.
+While similairly toothed to M. rubrum, M. flaccidum lacks its red pigmentation. M. imbricatum is a higher elevation species with smooth leaf lobes that have a rounded aspect. M. plicatum occurs in similar habitats, but in that species the lower lobes are held at 70 degrees to the stem, whereas in M. flaccidum they are held at 90 degrees to the stem. 
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1708905600</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Feb 26, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

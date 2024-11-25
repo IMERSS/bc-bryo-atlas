@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-A particularly conspicuous component of montane and subalpine rocky ledges, this green-to-bright yellow Diplophyllum forms thin, delicate of shoots 1-3 cm long by 3 mm wide. Under the hand lens (or camera), the leaves are often laden with asexual propagules and are marked by an upper lobe that points away from the stem apex.
+A particularly conspicuous component of montane and subalpine rocky ledges, this green-to-bright yellow Diplophyllum forms thin, delicate of shoots 1-3 cm long by 3 mm wide. Under the hand lens (or camera), the leaves are often laden with asexual propagules and are marked by an upper lobe that points away from the stem apex. 
 
 <h2>Similar species</h2>
 
-Like other species in the genus Diplophyllum, unlikely to be confused with closely related Scapania (which has round, not elongate lobes) nor Douinia, which has leaf tips that come to a point, as opposed to the rounded lobe ends in D. taxifolium. D. albicans has a patch of pale cells in the lower lobe that is not present in D. taxifolium, while D. obtusifolium has an upper lobe that points to the stem tip. The upper lobe of the yew-leaved earwort points away from the stem tip.
+Like other species in the genus Diplophyllum, unlikely to be confused with closely related Scapania (which has round, not elongate lobes) nor Douinia, which has leaf tips that come to a point, as opposed to the rounded lobe ends in D. taxifolium. D. albicans has a patch of pale cells in the lower lobe that is not present in D. taxifolium, while D. obtusifolium has an upper lobe that points to the stem tip. The upper lobe of the yew-leaved earwort points away from the stem tip. 
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1708905600</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Feb 26, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

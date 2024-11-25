@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-Scapania curta is a small and easily overlooked montane member of the genus, its green-brown shoots never exceeding 15 mm in length nor 3 mm in width. While highly variable, three macroscopic characters should help identify this species: 1) both the upper and lower lobeshave smooth margins and are attached across the axis of the stem (&quot;transversely&quot;) 2) there is a prominent point on the tip of the upper lobe, but not the lower lobe and both lobes point away from the stem axis  3) the keel where the two lobes converge is highly variable, from linear to arched along a fold that can be angular to rounded.
+Scapania curta is a small and easily overlooked montane member of the genus, its green-brown shoots never exceeding 15 mm in length nor 3 mm in width. While highly variable, three macroscopic characters should help identify this species: 1) both the upper and lower lobeshave smooth margins and are attached across the axis of the stem (&quot;transversely&quot;) 2) there is a prominent point on the tip of the upper lobe, but not the lower lobe and both lobes point away from the stem axis  3) the keel where the two lobes converge is highly variable, from linear to arched along a fold that can be angular to rounded. 
 
 <h2>Similar species</h2>
 
-Amongst untoothed species of Scapania with a pointed upper lobe, it could be confused with S. apiculata, S. mucronata and S. scandica, but those taxa have acute tips on their lower lobes, while the tips on the lower lobes of S. curta are rounded. S. glaucocephala is similair in form but predominantly a species of wood with lower leaf lobes that are about 1/2-2/3rds as wide as they are long. In the soil and rock-dwelling S. curta, the lower lobes are at least 3/4ths as wide as they are long.
+Amongst untoothed species of Scapania with a pointed upper lobe, it could be confused with S. apiculata, S. mucronata and S. scandica, but those taxa have acute tips on their lower lobes, while the tips on the lower lobes of S. curta are rounded. S. glaucocephala is similair in form but predominantly a species of wood with lower leaf lobes that are about 1/2-2/3rds as wide as they are long. In the soil and rock-dwelling S. curta, the lower lobes are at least 3/4ths as wide as they are long. 
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1732147200</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 21, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

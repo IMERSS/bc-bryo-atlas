@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-Forming tiny (&lt; 1mm wide), translucent shoots in peaty areas, F. pleniceps is an often overlooked and ergo uncommon bilobed leafy liverwort species. Hand lens inspection of the leaf should show them attached along the length of stem, with the bottom edge running down the shoot (&quot;decurrent&quot;) and the lobe tips sharp before descending into a rounded sinus. Confident identification requires microscopy to count the number of cells across the leafs' width (12-25) and note the even thickness of terminal lobe cells.
+Forming tiny (&lt; 1mm wide), translucent shoots in peaty areas, F. pleniceps is an often overlooked and ergo uncommon bilobed leafy liverwort species. Hand lens inspection of the leaf should show them attached along the length of stem, with the bottom edge running down the shoot (&quot;decurrent&quot;) and the lobe tips sharp before descending into a rounded sinus. Confident identification requires microscopy to count the number of cells across the leafs' width (12-25) and note the even thickness of terminal lobe cells. 
 
 <h2>Similar species</h2>
 
-Species of Cephaloziella can occur in peaty habitats, but they have leaves narrower than the stems they are borne on, whilst in F. pleniceps, the leaves are wider than the stems. In the family Cephaloziaceae, only F. connivens and F. lunulifolia exhibit leaves that attach down the length of the stem as in F. pleniceps. F. connivens tends to have lobe tips that converge on one another like a crab's pincher, whereas those of F. pleniceps seldomly converge and tend to point upwards. F. lunulifolia is very similar to F. pleniceps, but under the microscope it has outer walls of the terminal lobe cells much thicker than the inner wall, whilst in the latter the wall is evenly thickened all around.
+Species of Cephaloziella can occur in peaty habitats, but they have leaves narrower than the stems they are borne on, whilst in F. pleniceps, the leaves are wider than the stems. In the family Cephaloziaceae, only F. connivens and F. lunulifolia exhibit leaves that attach down the length of the stem as in F. pleniceps. F. connivens tends to have lobe tips that converge on one another like a crab's pincher, whereas those of F. pleniceps seldomly converge and tend to point upwards. F. lunulifolia is very similar to F. pleniceps, but under the microscope it has outer walls of the terminal lobe cells much thicker than the inner wall, whilst in the latter the wall is evenly thickened all around. 
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1730851200</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 6, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

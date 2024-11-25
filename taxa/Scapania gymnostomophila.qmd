@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-The rare (or at least overlooked in rare habitats) Scapania gymnostomophila is endemic to wet limestone and marble boulders and bedrock around creeks, where if forms tiny obscure patches among other bryophytes of brown-green leafy shoots less than 2 mm wide and 1.5 cm long. The upper lobe is between 1/4-to-2/3rds the length of the lower lobe; both have an elongate aspect, smooth margins, rounded apices and are joined along a sharply folded, linear &quot;keel&quot;. Under the microscope, the leaf cells posess one single large oil body, a feature that is unique to this species in the genus.
+The rare (or at least overlooked in rare habitats) Scapania gymnostomophila is endemic to wet limestone and marble boulders and bedrock around creeks, where if forms tiny obscure patches among other bryophytes of brown-green leafy shoots less than 2 mm wide and 1.5 cm long. The upper lobe is between 1/4-to-2/3rds the length of the lower lobe; both have an elongate aspect, smooth margins, rounded apices and are joined along a sharply folded, linear &quot;keel&quot;. Under the microscope, the leaf cells posess one single large oil body, a feature that is unique to this species in the genus. 
 
 <h2>Similar species</h2>
 
-In its riparian limestone habitat and with its elongate, smooth, unequal lobes, unlikely to be mistaken for any other species of Scapania in the region. The presence of a single large oil body in the leaf cells is a microscopic character that is diagnostic for the species within the genus Scapania.
+In its riparian limestone habitat and with its elongate, smooth, unequal lobes, unlikely to be mistaken for any other species of Scapania in the region. The presence of a single large oil body in the leaf cells is a microscopic character that is diagnostic for the species within the genus Scapania. 
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1732147200</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 21, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

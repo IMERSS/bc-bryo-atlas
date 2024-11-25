@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-Scapania americana forms large and frequent patches on red-tinged downsweeping leafy shoots to 4 mm wide and 3+ cm long. Up close, you will see the characteristic unequally bilobed leaves of the genus, with long sharp teeth densely arrayed along the elliptical lower lobe as well at the somewhat rounder upper lobe. The two lobes come together along a sharp fold (&quot;acute keel&quot;) that is straight and typically &lt; 1/2 the length of the lower lobe. Note that both the upper and lower lobes have their base of attachment running down along the length of the stem (&quot;decurrent&quot;).
+Scapania americana forms large and frequent patches on red-tinged downsweeping leafy shoots to 4 mm wide and 3+ cm long. Up close, you will see the characteristic unequally bilobed leaves of the genus, with long sharp teeth densely arrayed along the elliptical lower lobe as well at the somewhat rounder upper lobe. The two lobes come together along a sharp fold (&quot;acute keel&quot;) that is straight and typically &lt; 1/2 the length of the lower lobe. Note that both the upper and lower lobes have their base of attachment running down along the length of the stem (&quot;decurrent&quot;). 
 
 <h2>Similar species</h2>
 
-Amongst the toothy species of Scapania, it is most likely to be mistaken for S. bolanderi. That species lacks the decurrent attachment of the lower lobe seen in S. americana, in addition to having less regularly toothed margins, especially on the upper lobe.
+Amongst the toothy species of Scapania, it is most likely to be mistaken for S. bolanderi. That species lacks the decurrent attachment of the lower lobe seen in S. americana, in addition to having less regularly toothed margins, especially on the upper lobe. 
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1732147200</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 21, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

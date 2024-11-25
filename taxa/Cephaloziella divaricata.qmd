@@ -36,7 +36,7 @@ Small enough to evade notice (&lt;.5 mm wide) but ambient enough to be found in 
 
 <h2>Similar species</h2>
 
-Sphenolobopsis, Marsupella, Cephalozia and Fuscocephaloziopsis can be of similair size and leaf form, but the leaves in those genera are wider than the stems and have oil bodies, while in C. divaricata oil bodies are lacking and the leaves are narrower than the stem. Eremonotus myriocarpus is very similar in size, leaf shape and threadlike growth habit. It grows in the very specific habitat of damp vertical rock, but otherwise requires granular examination of the shoots to compare leaf shapes and reproductive structures- see photos under that species. Other species of Cephaloziella (C. phyllacantha, C. spinigera, C. turneri, C. elachista) in this region have leaves divided almost to their bases in addition to prominent teeth along the leaf margins. Vegetative leaves of C. divaricata are divided to about half their length and typically without teeth.  The remaining species will need to be parsed based on the arrngement of their reproductive organs. In Cephaloziella divaricata, the modified leafy structures that bear the archegonia (&quot;gynoecia&quot;) and antheridia (&quot;androecia&quot;), while in C. rubellum, C. varians and C. hampeana, they can be found on the same shoots.
+Sphenolobopsis, Marsupella, Cephalozia and Fuscocephaloziopsis can be of similair size and leaf form, but the leaves in those genera are wider than the stems and have oil bodies, while in C. divaricata oil bodies are lacking and the leaves are narrower than the stem. Eremonotus myriocarpus is very similar in size, leaf shape and threadlike growth habit. It grows in the very specific habitat of damp vertical rock, but otherwise requires granular examination of the shoots to compare leaf shapes and reproductive structures- see photos under that species. Other species of Cephaloziella (C. phyllacantha, C. spinigera, C. turneri, C. elachista) in this region have leaves divided almost to their bases in addition to prominent teeth along the leaf margins. Vegetative leaves of C. divaricata are divided to about half their length and typically without teeth.  The remaining species will need to be parsed based on the arrngement of their reproductive organs. In Cephaloziella divaricata, the modified leafy structures that bear the archegonia (&quot;gynoecia&quot;) and antheridia (&quot;androecia&quot;), while in C. rubellum, C. varians and C. hampeana, they can be found on the same shoots. 
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1730851200</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 6, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

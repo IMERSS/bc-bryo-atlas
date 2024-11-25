@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-Scapania mucronata is a rare species of rock, soil and wood with small, green to brown leafy shoots (&lt;3 mm wide x &lt;12 mm long). With a hand lens, you should be able to make out 3 key features: (1) the elongate aspects of the unequal upper and lower leaf lobes (2) the point of convergence between the two lobes (&quot;the keel&quot;) is gently rounded, not sharply folded and (3) The presence of a sharp point at the tip of the lower lobe (see photo). The plant is often laden with green, asexual repoductive bodies (&quot;gemmae&quot;)  that are two-celled in under the microscope.
+Scapania mucronata is a rare species of rock, soil and wood with small, green to brown leafy shoots (&lt;3 mm wide x &lt;12 mm long). With a hand lens, you should be able to make out 3 key features: (1) the elongate aspects of the unequal upper and lower leaf lobes (2) the point of convergence between the two lobes (&quot;the keel&quot;) is gently rounded, not sharply folded and (3) The presence of a sharp point at the tip of the lower lobe (see photo). The plant is often laden with green, asexual repoductive bodies (&quot;gemmae&quot;)  that are two-celled in under the microscope. 
 
 <h2>Similar species</h2>
 
-The combination of a rounded keel and pointed tip on the lower leaf lobe makes this small species hard to confuse with any other Scapania with the exception of S. apiculata, a plant found exlusively on decaying wood to which S. mucronata is almost macroscopically identical. The upper leaf lobe in S. apiculata is one-half as wide as it is long, while the upper leaf lobe in S. mucronata is roughly greater than two-thirds as wide as it is long. Furthermore, the gemmae, when present and examined under the microscope, are one-celled in the former species and two-celled in the latter.
+The combination of a rounded keel and pointed tip on the lower leaf lobe makes this small species hard to confuse with any other Scapania with the exception of S. apiculata, a plant found exlusively on decaying wood to which S. mucronata is almost macroscopically identical. The upper leaf lobe in S. apiculata is one-half as wide as it is long, while the upper leaf lobe in S. mucronata is roughly greater than two-thirds as wide as it is long. Furthermore, the gemmae, when present and examined under the microscope, are one-celled in the former species and two-celled in the latter. 
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1732233600</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 22, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

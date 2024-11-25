@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-A frequent species of deciduous trees and dark cliffs, P. cordaeana has matte-green and delicate shoots that show distant but regular branching. From the underside, the underlobe is narrow relative to the underleaf (see photo). The plants also have a tendency to strongly contort when dry.
+A frequent species of deciduous trees and dark cliffs, P. cordaeana has matte-green and delicate shoots that show distant but regular branching. From the underside, the underlobe is narrow relative to the underleaf (see photo). The plants also have a tendency to strongly contort when dry. 
 
 <h2>Similar species</h2>
 
-When not of sound mind, this could be mistaken for the moss Homalia trichomanoides, but that species lacks underleaves and underlobes. P. cordaeana is darker and freer than light green and appressed Radula. P. cordeana have narrow triangular underlobes compared to the helmet-shaped lobules of Frullania species, which tend to be half the size and suffused with reddish-purple pigments. The matte green colour in combination with the narrow underlobes and tendency to shrivel and contort when dry are easy features to seperate this from other species of Porella.
+When not of sound mind, this could be mistaken for the moss Homalia trichomanoides, but that species lacks underleaves and underlobes. P. cordaeana is darker and freer than light green and appressed Radula. P. cordeana have narrow triangular underlobes compared to the helmet-shaped lobules of Frullania species, which tend to be half the size and suffused with reddish-purple pigments. The matte green colour in combination with the narrow underlobes and tendency to shrivel and contort when dry are easy features to seperate this from other species of Porella. 
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1708992000</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Feb 27, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

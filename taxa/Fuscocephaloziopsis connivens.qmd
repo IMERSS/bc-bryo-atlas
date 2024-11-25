@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-Fuscocephaloziopsis connivens is a common species typical of wet wood and decaying organic matter, on which its small (~ 1 mm wide) translucent green shoots creep. The two lobe tips in this species point towards one another, often touching or crossing as they converge. Paired with leaf attachment along the length of the stem and a lower leaf base that runs down the stem, F. connivens is unmistakable.
+Fuscocephaloziopsis connivens is a common species typical of wet wood and decaying organic matter, on which its small (~ 1 mm wide) translucent green shoots creep. The two lobe tips in this species point towards one another, often touching or crossing as they converge. Paired with leaf attachment along the length of the stem and a lower leaf base that runs down the stem, F. connivens is unmistakable. 
 
 <h2>Similar species</h2>
 
-Likely to be confused only with F. lunulifolia and F. pleniceps, both of which are species that also feature round, two-lobed leaves with acute tips that are attached along the length of the stem such that their lower bases run down the shoot. Neither of these species, however, have tips that converge with one another as they do in F. connivens.
+Likely to be confused only with F. lunulifolia and F. pleniceps, both of which are species that also feature round, two-lobed leaves with acute tips that are attached along the length of the stem such that their lower bases run down the shoot. Neither of these species, however, have tips that converge with one another as they do in F. connivens. 
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1730764800</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>November 5, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

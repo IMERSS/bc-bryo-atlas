@@ -32,7 +32,7 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-Schistochilopsis incisa is an ambient and unmistakeable species found across most elevations and habitats in our region, especially decaying wood and organic matter, where is presents as tightly-overlapping, waxy whitish-green shoots up to 2 cm long and 2.5 mm wide bearing very toothy and succulent leaves. Up close, the leaves have a maple-like shape with major lobes and teeth demarcated by minor lobes and teeth. The development, size and number of the teeth seems to vary depending on habitat, with nearly toothless forms occuring at high elevations and often treated as Schistochilopsis opacifolia or S. incisa subsp. opacifolia.
+Schistochilopsis incisa is an ambient and unmistakeable species found across most elevations and habitats in our region, especially decaying wood and organic matter, where is presents as tightly-overlapping, waxy whitish-green shoots up to 2 cm long and 2.5 mm wide bearing very toothy and succulent leaves. Up close, the leaves have a maple-like shape with major lobes and teeth demarcated by minor lobes and teeth. The development, size and number of the teeth seems to vary depending on habitat, with nearly toothless forms occuring at high elevations and often treated as Schistochilopsis opacifolia or S. incisa subsp. opacifolia. 
 
 <h2>Similar species</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1732233600</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 22, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

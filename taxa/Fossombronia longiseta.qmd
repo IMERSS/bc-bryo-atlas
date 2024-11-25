@@ -32,7 +32,7 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-Often obscured by other bryophytes and small grasses on seeping open soils or protected under south-facing rock overhangs, this translucent and frilly green occasional liverwort forms lettuce-like patches (~3-10 mm wide) of sinuous and continuous leaves. Functionally annuals, plants of F. longiseta are so named for the short-lived but tall (up to 3cm), sprout-like sporophyte that emerges in spring. Microscopic examination of the spores are required for identification.
+Often obscured by other bryophytes and small grasses on seeping open soils or protected under south-facing rock overhangs, this translucent and frilly green occasional liverwort forms lettuce-like patches (~3-10 mm wide) of sinuous and continuous leaves. Functionally annuals, plants of F. longiseta are so named for the short-lived but tall (up to 3cm), sprout-like sporophyte that emerges in spring. Microscopic examination of the spores are required for identification. 
 
 <h2>Similar species</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1708992000</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Feb 27, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

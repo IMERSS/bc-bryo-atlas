@@ -36,7 +36,7 @@ Typically tightly appressed to bark (especially vine maple), M. temperata is fre
 
 <h2>Similar species</h2>
 
-When gemmae are present (almost always-- be sure to look around at the whole population), this is a distinct species. Young shoots can occasionally ape M. conjugata, which can cooccur in the same habitat. With a hand lens inspection of the underside, the two can be seperated based on the hairs along the margins, which are solitary in M. temperata and paired in M. conjugata.
+When gemmae are present (almost always-- be sure to look around at the whole population), this is a distinct species. Young shoots can occasionally ape M. conjugata, which can cooccur in the same habitat. With a hand lens inspection of the underside, the two can be seperated based on the hairs along the margins, which are solitary in M. temperata and paired in M. conjugata.  
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1708992000</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Feb 27, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

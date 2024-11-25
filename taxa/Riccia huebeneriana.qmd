@@ -36,7 +36,7 @@ A rare species that forms small green-to-puple-tinged rosettes (&lt;1cm) of narr
 
 <h2>Similar species</h2>
 
-Riccia cavernosa and R. frostii are the only other regional species with a porous or perforated upper surface, but neither of these species have the grooves of R. huebeneriana. Young plants may resemeble R. sorocarpa, but that species has a wider thallus segments and a deep groove that runs the entire length of the thallus, while thallus segments of R. beyrichiana are narrow and the groove is only obvious near the apex. R. beyrichiana has similair colouration, but features wider thallus segments fringed by fine, clear, conical appendages.
+Riccia cavernosa and R. frostii are the only other regional species with a porous or perforated upper surface, but neither of these species have the grooves of R. huebeneriana. Young plants may resemeble R. sorocarpa, but that species has a wider thallus segments and a deep groove that runs the entire length of the thallus, while thallus segments of R. beyrichiana are narrow and the groove is only obvious near the apex. R. beyrichiana has similair colouration, but features wider thallus segments fringed by fine, clear, conical appendages.  
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1708819200</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Feb 25, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

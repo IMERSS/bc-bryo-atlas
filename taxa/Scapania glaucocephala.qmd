@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-A small and regionally rare liverwort known from one poorly located specimen from the early 1900s, S. glaucocephala is a boreal wood-dweller with green-to-brown leafy shoots to 15 mm long and 1.5 mm wide,  The two unequal lobes of the leaf are smooth at their bases and variably toothed towards their tip, uniting along a basal fold (&quot;keel&quot;) that is rounded, not acute. The lower lobe is only about 1/2 as wide as it is long, and under the microscope you should note that the cells at its margin have thicker walls than those in the middle of the lobe. Also look for the common and abundant red-brown gemmae borne on very small shoots; they should be one-celled under the microscope.
+A small and regionally rare liverwort known from one poorly located specimen from the early 1900s, S. glaucocephala is a boreal wood-dweller with green-to-brown leafy shoots to 15 mm long and 1.5 mm wide,  The two unequal lobes of the leaf are smooth at their bases and variably toothed towards their tip, uniting along a basal fold (&quot;keel&quot;) that is rounded, not acute. The lower lobe is only about 1/2 as wide as it is long, and under the microscope you should note that the cells at its margin have thicker walls than those in the middle of the lobe. Also look for the common and abundant red-brown gemmae borne on very small shoots; they should be one-celled under the microscope. 
 
 <h2>Similar species</h2>
 
-Other round-keeled memebers of Scapania are numerous. Both S. obscura and S. cuspiduligera have a decurrent base on their lower lobe, the latter species has a keel that ensheaths the stem for much of its lower portion. In S. glaucocephala, the keel is free and the lower lobe is attached across the stem (&quot;transverse&quot;). A microscope is requires to distinguish it from S. compacta, S. curta, S. mucronata and S. apiculata, all of which have leaf cells with similairly thickened walls. The cell walls in S. glaucocephala are thicker along the lobe margins than in the center of the leaf.
+Other round-keeled memebers of Scapania are numerous. Both S. obscura and S. cuspiduligera have a decurrent base on their lower lobe, the latter species has a keel that ensheaths the stem for much of its lower portion. In S. glaucocephala, the keel is free and the lower lobe is attached across the stem (&quot;transverse&quot;). A microscope is requires to distinguish it from S. compacta, S. curta, S. mucronata and S. apiculata, all of which have leaf cells with similairly thickened walls. The cell walls in S. glaucocephala are thicker along the lobe margins than in the center of the leaf. 
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1732147200</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 21, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

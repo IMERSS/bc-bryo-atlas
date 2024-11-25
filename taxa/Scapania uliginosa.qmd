@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-A species of wetland and bog floors, S. uliginosa forms wide, horizontally spreading shoots (to 4 mm x 3+ cm long) that vary from green to purple hues based on exposure. Upclose, the predominantly toothless, uneven lobes of the leaf and closely pressed together and converge at their base along a characteristically arched keel. It should be noted that the bottom of the lower leaf lobe attaches down along the length of the stem in this species (&quot;decurrent&quot;, see photo), while the upper lobe does not.
+A species of wetland and bog floors, S. uliginosa forms wide, horizontally spreading shoots (to 4 mm x 3+ cm long) that vary from green to purple hues based on exposure. Upclose, the predominantly toothless, uneven lobes of the leaf and closely pressed together and converge at their base along a characteristically arched keel. It should be noted that the bottom of the lower leaf lobe attaches down along the length of the stem in this species (&quot;decurrent&quot;, see photo), while the upper lobe does not. 
 
 <h2>Similar species</h2>
 
-The large round arch (see photo) of the keel distinguishes it from all other species of Scapania with the exception of S. paludicola, a species of boreal wetlands. In that species, however, the bottom leaf lobes are not decurrent.
+The large round arch (see photo) of the keel distinguishes it from all other species of Scapania with the exception of S. paludicola, a species of boreal wetlands. In that species, however, the bottom leaf lobes are not decurrent. 
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1732147200</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 21, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

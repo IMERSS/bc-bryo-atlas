@@ -33,8 +33,10 @@ po/*~
 rsconnect/
 /.quarto/
 tabular_data/GBIF*.csv
+tabular_data/BC_Bryo_Guide.csv
 .Rproj.user
 .Rhistory
 .DS_Store
 .idea
 .secrets
+_freeze/

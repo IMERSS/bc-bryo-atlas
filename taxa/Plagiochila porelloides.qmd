@@ -32,7 +32,7 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-On account of its large size (leafy shoots can be &gt;5 mm wide and longer than 5 cm), prominent teeth on large, deep green leaves bearing a conspicuous basal pleat, the common Plagiochila porelloides is perhaps the most moss-like of our regional liverworts, growing as it often does in relatively large clumps. Close inspection should show a stem devoid of underleaves and hairs, with large unlobed and asymmetrical lateral leaves alternating along the stem, their bases of attachment running down along the length of the stem (&quot;decurrent, see photo). The leaves are often wide-spreading and the teeth are quite variable in number and size.
+On account of its large size (leafy shoots can be &gt;5 mm wide and longer than 5 cm), prominent teeth on large, deep green leaves bearing a conspicuous basal pleat, the common Plagiochila porelloides is perhaps the most moss-like of our regional liverworts, growing as it often does in relatively large clumps. Close inspection should show a stem devoid of underleaves and hairs, with large unlobed and asymmetrical lateral leaves alternating along the stem, their bases of attachment running down along the length of the stem (&quot;decurrent, see photo). The leaves are often wide-spreading and the teeth are quite variable in number and size. 
 
 <h2>Similar species</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1731456000</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 13, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

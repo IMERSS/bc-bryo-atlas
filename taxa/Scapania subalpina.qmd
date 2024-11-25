@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-Forming compact whitish green to reddish brown turfs over fine detritus on subalpine bedrock faces, S. subalpina is an infrequent species with leafy shoots 1.5-4 mm wide and up to 5 cm long. The leaves have smooth, round-triangular lobes that can appear to be almost equal in size, even if microscopic measurement suggests otherwise.  The linear keel where the two lobes come together is sharply folded and the lower lobe attaches down along the axis of the shoot (&quot;decurrent&quot;).
+Forming compact whitish green to reddish brown turfs over fine detritus on subalpine bedrock faces, S. subalpina is an infrequent species with leafy shoots 1.5-4 mm wide and up to 5 cm long. The leaves have smooth, round-triangular lobes that can appear to be almost equal in size, even if microscopic measurement suggests otherwise.  The linear keel where the two lobes come together is sharply folded and the lower lobe attaches down along the axis of the shoot (&quot;decurrent&quot;). 
 
 <h2>Similar species</h2>
 
-Only one other regional species of Scapania has upper and lower lobes so close in size. Scapania obscura, however, has a rounded keel and brown pigmentation, while S. subalpina has an sharp keel and gold-to-red pigmentation.
+Only one other regional species of Scapania has upper and lower lobes so close in size. Scapania obscura, however, has a rounded keel and brown pigmentation, while S. subalpina has an sharp keel and gold-to-red pigmentation. 
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1732147200</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 21, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-Known regionally from only a few locations in the mountains and tundra of BC and Alaska, S. simmonsii is a a rare, brownish species with leafy shoots to 5 cm long and 3 mm wide. It is unique among species in the genus in having leaves with nearly equal lobes that converge at a round keel while the lobe margins diverge both away from one another and downwards along their free edges (see photo). Both upper and lower lobes are about as wide as they are long.
+Known regionally from only a few locations in the mountains and tundra of BC and Alaska, S. simmonsii is a a rare, brownish species with leafy shoots to 5 cm long and 3 mm wide. It is unique among species in the genus in having leaves with nearly equal lobes that converge at a round keel while the lobe margins diverge both away from one another and downwards along their free edges (see photo). Both upper and lower lobes are about as wide as they are long. 
 
 <h2>Similar species</h2>
 
-Only a few regional species of Scapania (S. subalpina, S. hians, S. obscura) have upper and lower leaf lobes of similar size as in S. simmonsii, but none of them have lobe margins that turn down as in S. simmonsii.
+Only a few regional species of Scapania (S. subalpina, S. hians, S. obscura) have upper and lower leaf lobes of similar size as in S. simmonsii, but none of them have lobe margins that turn down as in S. simmonsii. 
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1732147200</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 21, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-The dominant epiphytic Scapania of our region, S. bolanderi is a handsome, tuft-forming yellow-green species of conifer trunks with wide (up to 3.5 mm) leafy shoots that can grow beyond 4 cm in length. The unequally bilobed leaves have ellipsoidal, toothy segments, though the teeth are more closely spaced on the bottom lobe than they are on the top lobe. The bottom lobe attaches to the stem such that is base runs down the length of the shoot (&quot;decurrent&quot;). To see this feature, pull away some leaves and use a hand lens while looking at the underside of the leaves that remain and are now exposed along the shoot.
+The dominant epiphytic Scapania of our region, S. bolanderi is a handsome, tuft-forming yellow-green species of conifer trunks with wide (up to 3.5 mm) leafy shoots that can grow beyond 4 cm in length. The unequally bilobed leaves have ellipsoidal, toothy segments, though the teeth are more closely spaced on the bottom lobe than they are on the top lobe. The bottom lobe attaches to the stem such that is base runs down the length of the shoot (&quot;decurrent&quot;). To see this feature, pull away some leaves and use a hand lens while looking at the underside of the leaves that remain and are now exposed along the shoot. 
 
 <h2>Similar species</h2>
 
-Amongst the toothy species of Scapania, it is most likely to be mistaken for S. americana, a species that is more typical of rock and tends to show reddish hues. That species has the decurrent attachment of the lower lobe not seen in S. bolander, in addition to having more regularly toothed margins, especially on the upper lobe. On decaying wood an logs, S. bolanderi might grow alongside S. umbrosa. The latter is a smaller species (shoots &lt;1cm long, &lt;1.5 mm wide) with leaf lobes that, while toothy, have a triangular aspect and are often caked at the shoot tips with bright red asexual bodies (&quot;gemmae). Gemmae are not so common or prominent in S.bolanderi, and its leave lobes are ellipsoidal.
+Amongst the toothy species of Scapania, it is most likely to be mistaken for S. americana, a species that is more typical of rock and tends to show reddish hues. That species has the decurrent attachment of the lower lobe not seen in S. bolander, in addition to having more regularly toothed margins, especially on the upper lobe. On decaying wood an logs, S. bolanderi might grow alongside S. umbrosa. The latter is a smaller species (shoots &lt;1cm long, &lt;1.5 mm wide) with leaf lobes that, while toothy, have a triangular aspect and are often caked at the shoot tips with bright red asexual bodies (&quot;gemmae). Gemmae are not so common or prominent in S.bolanderi, and its leave lobes are ellipsoidal. 
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1732147200</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 21, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

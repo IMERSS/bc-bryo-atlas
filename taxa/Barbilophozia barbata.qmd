@@ -32,7 +32,7 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-B. barbata is a large upright-to-arching predominantly 4-lobed leafy liverwort with relatively unbranched, green or green-brown shoots to 8 cm long and 5mm wide. The leaf lobes have rounded tips and are identical in shape and size, uniting at the bases of sinuses that descend to about 1/4 of the leaf's total length. The leaf is attached obliquely to the stem and underleaves are absent.
+B. barbata is a large upright-to-arching predominantly 4-lobed leafy liverwort with relatively unbranched, green or green-brown shoots to 8 cm long and 5mm wide. The leaf lobes have rounded tips and are identical in shape and size, uniting at the bases of sinuses that descend to about 1/4 of the leaf's total length. The leaf is attached obliquely to the stem and underleaves are absent. 
 
 <h2>Similar species</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1732233600</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 22, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

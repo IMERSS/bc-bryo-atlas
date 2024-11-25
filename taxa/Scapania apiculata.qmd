@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-Scapania apiculata is a rare deadwood dweller with small, light green shoots (&lt;2 mm wide x 5 mm long). With a hand lens, you should be able to make out 3 key features: (1) the elongate aspects of the unequal upper and lower leaf lobes (2) the point of convergence between the two lobes (&quot;the keel&quot;) is gently rounded, not sharply folded and (3) The presence of a sharp point at the tip of the lower lobe (see photo).
+Scapania apiculata is a rare deadwood dweller with small, light green shoots (&lt;2 mm wide x 5 mm long). With a hand lens, you should be able to make out 3 key features: (1) the elongate aspects of the unequal upper and lower leaf lobes (2) the point of convergence between the two lobes (&quot;the keel&quot;) is gently rounded, not sharply folded and (3) The presence of a sharp point at the tip of the lower lobe (see photo). 
 
 <h2>Similar species</h2>
 
-The combination of a rounded keep and pointed tip on the lower leaf lobe in a small dweller of decaying wood makes this species hard to confuse with any other Scapania with the exception of S. mucronata, another species occasionally found on wood to which it is almost macroscopically identical. The upper leaf lobe in S. apiculata is one-half as wide as it is long, while the upper leaf lobe in S. mucronata is roughly greater than two-thirds as wide as it is long.
+The combination of a rounded keep and pointed tip on the lower leaf lobe in a small dweller of decaying wood makes this species hard to confuse with any other Scapania with the exception of S. mucronata, another species occasionally found on wood to which it is almost macroscopically identical. The upper leaf lobe in S. apiculata is one-half as wide as it is long, while the upper leaf lobe in S. mucronata is roughly greater than two-thirds as wide as it is long. 
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1732147200</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 21, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

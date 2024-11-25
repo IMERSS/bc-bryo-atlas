@@ -36,7 +36,7 @@ A large ground-creeping moss. The overall shape is triangular with regular, feat
 
 <h2>Similar species</h2>
 
-No other species with feathered branches has such evenly spaced branches. The closest lookalike is Kindbergia praelonga, which has a more wispy habit with less regular branching. See also: Homalothecium, Isothecium, Kindbergia praelonga, Bracythecium, Claopodium, Ptilium. Similar feather-like growth habits are common in forest floor habitats, but in genera like Hypnum, Stereodon, Ptilium, Sanionia, the leaves are curled whereas in Kinbergia oregana they are flat/straight; the robust golden shoots of Homalothecium megaptilum have tightly overlapping leaves and more distantly-space branches. Claopodium crispifolium can be found in very similar environments on tree bases, but its dull white leaf tips come off at 90 degree angles and look like Christmas tree ornaments on the end of each shoot, while the green tipped Kindbergia oregana has leaves that point forward.
+No other species with feathered branches has such evenly spaced branches. The closest lookalike is Kindbergia praelonga, which has a more wispy habit with less regular branching. See also: Homalothecium, Isothecium, Kindbergia praelonga, Bracythecium, Claopodium, Ptilium. Similar feather-like growth habits are common in forest floor habitats, but in genera like Hypnum, Stereodon, Ptilium, Sanionia, the leaves are curled whereas in Kinbergia oregana they are flat/straight; the robust golden shoots of Homalothecium megaptilum have tightly overlapping leaves and more distantly-space branches. Claopodium crispifolium can be found in very similar environments on tree bases, but its dull white leaf tips come off at 90 degree angles and look like Christmas tree ornaments on the end of each shoot, while the green tipped Kindbergia oregana has leaves that point forward. 
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell, John Reynolds, Brian Starzomski, Daniel Tucker</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1708646400</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Feb 23, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

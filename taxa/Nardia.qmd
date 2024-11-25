@@ -32,7 +32,7 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-The genus Nardia encompasses a somewhat varied group of mostly erect, unbranched species that with ovate, unlobed or evenly two-lobed lateral leaves with smooth, incurved margins. The elongate simple underleaves that are often connected to the base of the lateral leaves. Species distinctions within the genus often rely on microscopic and reproductive characters. Oil body shape, size and number is important, as is the thickness and shape of the cell wall junctures in the leaf (&quot;trigones&quot;). Plants of Nardia can be &quot;paroicous&quot;, with antheridia found in leaves immediately below leaves bearing archegonia on the same shoot, or they can be &quot;dioicous&quot;, with antheridia and archegonia found on seperate plants.
+The genus Nardia encompasses a somewhat varied group of mostly erect, unbranched species that with ovate, unlobed or evenly two-lobed lateral leaves with smooth, incurved margins. The elongate simple underleaves that are often connected to the base of the lateral leaves. Species distinctions within the genus often rely on microscopic and reproductive characters. Oil body shape, size and number is important, as is the thickness and shape of the cell wall junctures in the leaf (&quot;trigones&quot;). Plants of Nardia can be &quot;paroicous&quot;, with antheridia found in leaves immediately below leaves bearing archegonia on the same shoot, or they can be &quot;dioicous&quot;, with antheridia and archegonia found on seperate plants. 
 
 <h2>Similar species</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1732233600</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 22, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

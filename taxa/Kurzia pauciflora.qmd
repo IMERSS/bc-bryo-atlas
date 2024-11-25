@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-Restricted to permanently moist, open bog habitats, variably green K. pauciflora forms a very fine (&lt;1/4 mm wide) filamentous fuzz in and amongst the sprigs of Sphagnum. The underleaves and lateral leaves are similair in form (if not size), both 3-4 lobed and sharply-tipped, the lobes widening from 1 cell at their tip to 2 cells at their bottom before joining to a wide leaf base that is attached to the stem at 90 degrees.
+Restricted to permanently moist, open bog habitats, variably green K. pauciflora forms a very fine (&lt;1/4 mm wide) filamentous fuzz in and amongst the sprigs of Sphagnum. The underleaves and lateral leaves are similair in form (if not size), both 3-4 lobed and sharply-tipped, the lobes widening from 1 cell at their tip to 2 cells at their bottom before joining to a wide leaf base that is attached to the stem at 90 degrees. 
 
 <h2>Similar species</h2>
 
-See notes under K. makinoana, from which K. pauciflora differs in having a 3-to-4 lobed underleaf while the former has an underleaf of 1-to-2 clear lobes in addition to some amorphous knobs (&quot;slime papillae&quot;).
+See notes under K. makinoana, from which K. pauciflora differs in having a 3-to-4 lobed underleaf while the former has an underleaf of 1-to-2 clear lobes in addition to some amorphous knobs (&quot;slime papillae&quot;). 
 
 <h2>Habitat</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1731110400</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 9, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

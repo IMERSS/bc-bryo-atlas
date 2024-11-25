@@ -32,7 +32,7 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-The smallest species of Nardia in the region, N. breidleri has light-green to reddish-brown leafy shoots less than .5 mm wide that can be found around arctic and alpine regions growing on soil in areas of late snow melt. The lateral leaves are distantly-spaced ovate in shape with smooth margins and two slightly-unqual lobes that descend down 1/4 of the leaf's length, while the lateral leaf is simple, elongate and only visible near the apex of the stem along the underside. This is a &quot;dioicous&quot; species that under the microscope lacks obvious thickenings at the junctures between leaf cells, each cell housing one large, solitary oil body.
+The smallest species of Nardia in the region, N. breidleri has light-green to reddish-brown leafy shoots less than .5 mm wide that can be found around arctic and alpine regions growing on soil in areas of late snow melt. The lateral leaves are distantly-spaced ovate in shape with smooth margins and two slightly-unqual lobes that descend down 1/4 of the leaf's length, while the lateral leaf is simple, elongate and only visible near the apex of the stem along the underside. This is a &quot;dioicous&quot; species that under the microscope lacks obvious thickenings at the junctures between leaf cells, each cell housing one large, solitary oil body. 
 
 <h2>Similar species</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1732233600</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 22, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

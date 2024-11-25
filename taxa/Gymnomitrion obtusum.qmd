@@ -32,7 +32,7 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-Thriving on vertical rock faces, G. obtusum presents itself in dense tufts of downtrending white, wormy shoots up to 1 mm wide by centimeter(s) long. With a hand lens you should be able to make out individual bilobed leaves tightly overlapping one another on all sides (&quot;imbricate&quot;). The tips of the lobes in this species are rounded, the lobes themselves joining about 1/3 down the length of the leaf in a sinus that is sharply-angled.
+Thriving on vertical rock faces, G. obtusum presents itself in dense tufts of downtrending white, wormy shoots up to 1 mm wide by centimeter(s) long. With a hand lens you should be able to make out individual bilobed leaves tightly overlapping one another on all sides (&quot;imbricate&quot;). The tips of the lobes in this species are rounded, the lobes themselves joining about 1/3 down the length of the leaf in a sinus that is sharply-angled. 
 
 <h2>Similar species</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1730937600</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 7, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

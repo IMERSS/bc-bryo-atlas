@@ -32,7 +32,7 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-One of the dominant under heath groundcovers of montane and subalpine habitats, yellow-green N. floerkei forms luxuriant carpets of horizontal leafy shoots that can grow more than 5 cm long and up to 5 mm wide. The rectangular lateral leaves have 3 (or occasionally 4) broad lobes with dull tips and sinuses that descend down less than 1/4 of the leaf's length, while the underleaves are clearly visible with a hand lens, deeply dissected and run about 1/2 the length of the lateral leaves. The bases of the lateral leaves attach obliquely to the stem and are ornamented with elongate &quot;cilia&quot;.
+One of the dominant under heath groundcovers of montane and subalpine habitats, yellow-green N. floerkei forms luxuriant carpets of horizontal leafy shoots that can grow more than 5 cm long and up to 5 mm wide. The rectangular lateral leaves have 3 (or occasionally 4) broad lobes with dull tips and sinuses that descend down less than 1/4 of the leaf's length, while the underleaves are clearly visible with a hand lens, deeply dissected and run about 1/2 the length of the lateral leaves. The bases of the lateral leaves attach obliquely to the stem and are ornamented with elongate &quot;cilia&quot;. 
 
 <h2>Similar species</h2>
 
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>1732233600</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Nov 22, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">
