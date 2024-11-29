@@ -7,12 +7,12 @@ categories:
 
 <div class="info-panel">
  <div class="info-top">
-  <div class="taxon-scientific"><span class="taxon-name">Riccia sorocarpa</span> <span class="taxon-authority">XXXXXX</span> <span class="taxon-family">(XXXXXX)</span></div>
+  <div class="taxon-scientific"><span class="taxon-name">Riccia sorocarpa</span> <span class="taxon-authority">Bisch.</span> <span class="taxon-family">(Ricciaceae)</span></div>
   <div class="taxon-common">Common crystalwort</div>
  </div>
  <div class="info-bottom">
   <div class="taxon-qnd">Deep grooves, smooth margins</div>
-  <div class="taxon-abundance">XXXXXX</div>
+  <div class="taxon-abundance">Frequent</div>
  </div>
 </div>
 <div class="imerss-content-frame">

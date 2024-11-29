@@ -7,12 +7,12 @@ categories:
 
 <div class="info-panel">
  <div class="info-top">
-  <div class="taxon-scientific"><span class="taxon-name">Riccia cavernosa</span> <span class="taxon-authority">XXXXXX</span> <span class="taxon-family">(XXXXXX)</span></div>
+  <div class="taxon-scientific"><span class="taxon-name">Riccia cavernosa</span> <span class="taxon-authority">Hoffm.</span> <span class="taxon-family">(Ricciaceae)</span></div>
   <div class="taxon-common">Cavernous crystalwort</div>
  </div>
  <div class="info-bottom">
   <div class="taxon-qnd">Thick and Bubbly Riccia</div>
-  <div class="taxon-abundance">XXXXXX</div>
+  <div class="taxon-abundance">Infrequent</div>
  </div>
 </div>
 <div class="imerss-content-frame">

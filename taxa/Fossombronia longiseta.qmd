@@ -7,12 +7,12 @@ categories:
 
 <div class="info-panel">
  <div class="info-top">
-  <div class="taxon-scientific"><span class="taxon-name">Fossombronia longiseta</span> <span class="taxon-authority">XXXXXX</span> <span class="taxon-family">(XXXXXX)</span></div>
+  <div class="taxon-scientific"><span class="taxon-name">Fossombronia longiseta</span> <span class="taxon-authority">(Austin) Austin</span> <span class="taxon-family">(Fossombroniaceae)</span></div>
   <div class="taxon-common">Long-bristled Frillwort</div>
  </div>
  <div class="info-bottom">
   <div class="taxon-qnd">Sunny Liverwort Lettuce</div>
-  <div class="taxon-abundance">XXXXXX</div>
+  <div class="taxon-abundance">Frequent</div>
  </div>
 </div>
 <div class="imerss-content-frame">

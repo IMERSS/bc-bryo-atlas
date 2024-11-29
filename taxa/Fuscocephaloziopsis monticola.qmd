@@ -8,7 +8,7 @@ categories:
 <div class="info-panel">
  <div class="info-top">
   <div class="taxon-scientific"><span class="taxon-name">Fuscocephaloziopsis monticola</span> <span class="taxon-authority">(J.D.Godfrey) Váňa &amp; L.Söderstr.</span> <span class="taxon-family">(Cephaloziaceae)</span></div>
-  <div class="taxon-common">XXXXXX</div>
+  <div class="taxon-common">None</div>
  </div>
  <div class="info-bottom">
   <div class="taxon-qnd">XXXXXX</div>

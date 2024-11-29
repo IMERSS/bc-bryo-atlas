@@ -7,12 +7,12 @@ categories:
 
 <div class="info-panel">
  <div class="info-top">
-  <div class="taxon-scientific"><span class="taxon-name">Ricciocarpos natans</span> <span class="taxon-authority">XXXXXX</span> <span class="taxon-family">(XXXXXX)</span></div>
+  <div class="taxon-scientific"><span class="taxon-name">Ricciocarpos natans</span> <span class="taxon-authority">(L.) Corda</span> <span class="taxon-family">(Ricciaceae)</span></div>
   <div class="taxon-common">Fringed heartwort</div>
  </div>
  <div class="info-bottom">
   <div class="taxon-qnd">Floating Heart Thalloid Liverwort</div>
-  <div class="taxon-abundance">XXXXXX</div>
+  <div class="taxon-abundance">Infrequent</div>
  </div>
 </div>
 <div class="imerss-content-frame">

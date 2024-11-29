@@ -7,12 +7,12 @@ categories:
 
 <div class="info-panel">
  <div class="info-top">
-  <div class="taxon-scientific"><span class="taxon-name">Macrodiplophyllum imbricatum</span> <span class="taxon-authority">XXXXXX</span> <span class="taxon-family">(XXXXXX)</span></div>
+  <div class="taxon-scientific"><span class="taxon-name">Macrodiplophyllum imbricatum</span> <span class="taxon-authority">(M.Howe) Perss.</span> <span class="taxon-family">(Scapaniaceae)</span></div>
   <div class="taxon-common">Imbricate Earwort</div>
  </div>
  <div class="info-bottom">
   <div class="taxon-qnd">XXXXXX</div>
-  <div class="taxon-abundance">XXXXXX</div>
+  <div class="taxon-abundance">Rare</div>
  </div>
 </div>
 <div class="imerss-content-frame">

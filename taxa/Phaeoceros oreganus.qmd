@@ -8,7 +8,7 @@ categories:
 <div class="info-panel">
  <div class="info-top">
   <div class="taxon-scientific"><span class="taxon-name">Phaeoceros oreganus</span> <span class="taxon-authority">(Austin) Hässel</span> <span class="taxon-family">(Notothyladaceae)</span></div>
-  <div class="taxon-common">XXXXXX</div>
+  <div class="taxon-common">None</div>
  </div>
  <div class="info-bottom">
   <div class="taxon-qnd">Yellow spore short horn</div>

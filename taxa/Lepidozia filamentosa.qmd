@@ -8,7 +8,7 @@ categories:
 <div class="info-panel">
  <div class="info-top">
   <div class="taxon-scientific"><span class="taxon-name">Lepidozia filamentosa</span> <span class="taxon-authority">(Lehm. &amp; Lindenb.) Lindenb. &amp; Gottsche</span> <span class="taxon-family">(Lepidoziaceae)</span></div>
-  <div class="taxon-common">XXXXXX</div>
+  <div class="taxon-common">None</div>
  </div>
  <div class="info-bottom">
   <div class="taxon-qnd">XXXXXX</div>

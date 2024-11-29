@@ -7,7 +7,7 @@ categories:
 
 <div class="info-panel">
  <div class="info-top">
-  <div class="taxon-scientific"><span class="taxon-name">Racomitrium lanuginosum</span> <span class="taxon-authority">XXXXXX</span> <span class="taxon-family">(XXXXXX)</span></div>
+  <div class="taxon-scientific"><span class="taxon-name">Racomitrium lanuginosum</span> <span class="taxon-authority">XXXXXX</span> <span class="taxon-family">(Grimmiaceae)</span></div>
   <div class="taxon-common">Woolly Rock-Moss</div>
  </div>
  <div class="info-bottom">

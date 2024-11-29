@@ -7,12 +7,12 @@ categories:
 
 <div class="info-panel">
  <div class="info-top">
-  <div class="taxon-scientific"><span class="taxon-name">Porella cordaeana</span> <span class="taxon-authority">XXXXXX</span> <span class="taxon-family">(XXXXXX)</span></div>
+  <div class="taxon-scientific"><span class="taxon-name">Porella cordaeana</span> <span class="taxon-authority">(Huebener) Moore</span> <span class="taxon-family">(Porellaceae)</span></div>
   <div class="taxon-common">Cliff scalewort</div>
  </div>
  <div class="info-bottom">
   <div class="taxon-qnd">XXXXXX</div>
-  <div class="taxon-abundance">XXXXXX</div>
+  <div class="taxon-abundance">Frequent</div>
  </div>
 </div>
 <div class="imerss-content-frame">

@@ -7,12 +7,12 @@ categories:
 
 <div class="info-panel">
  <div class="info-top">
-  <div class="taxon-scientific"><span class="taxon-name">Radula auriculata</span> <span class="taxon-authority">XXXXXX</span> <span class="taxon-family">(XXXXXX)</span></div>
-  <div class="taxon-common">XXXXXX</div>
+  <div class="taxon-scientific"><span class="taxon-name">Radula auriculata</span> <span class="taxon-authority">Steph.</span> <span class="taxon-family">(Radulaceae)</span></div>
+  <div class="taxon-common">None</div>
  </div>
  <div class="info-bottom">
   <div class="taxon-qnd">XXXXXX</div>
-  <div class="taxon-abundance">XXXXXX</div>
+  <div class="taxon-abundance">Rare</div>
  </div>
 </div>
 <div class="imerss-content-frame">

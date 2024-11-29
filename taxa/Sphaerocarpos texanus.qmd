@@ -7,12 +7,12 @@ categories:
 
 <div class="info-panel">
  <div class="info-top">
-  <div class="taxon-scientific"><span class="taxon-name">Sphaerocarpos texanus</span> <span class="taxon-authority">XXXXXX</span> <span class="taxon-family">(XXXXXX)</span></div>
+  <div class="taxon-scientific"><span class="taxon-name">Sphaerocarpos texanus</span> <span class="taxon-authority">Austin</span> <span class="taxon-family">(Sphaerocarpaceae)</span></div>
   <div class="taxon-common">Texas Balloonwort</div>
  </div>
  <div class="info-bottom">
   <div class="taxon-qnd">Tiny Green Bubbles</div>
-  <div class="taxon-abundance">XXXXXX</div>
+  <div class="taxon-abundance">Infrequent</div>
  </div>
 </div>
 <div class="imerss-content-frame">
@@ -40,11 +40,11 @@ No other bryophyte in the region resembles this species.
 
 <h2>Habitat</h2>
 
-XXXXXX
+Seasonally saturated and frequently disturbed fine soils in open areas at low elevations.
 
 <h2>Associated species</h2>
 
-XXXXXX
+Gemmabryum barnesii, Plagiomnium cuspidatu,. Cephaloziella divaricata
 </div>
 
 <div class="imerss-column-right">
