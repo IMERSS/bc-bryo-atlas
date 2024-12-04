@@ -1,6 +1,6 @@
 ---
 title: Marsupella condensata
-image: "../img/"
+image: "../img/XXXXXX"
 categories:
   - Marchantiophyta
 ---
@@ -11,16 +11,16 @@ categories:
   <div class="taxon-common">Compact Rustwort</div>
  </div>
  <div class="info-bottom">
-  <div class="taxon-qnd"></div>
+  <div class="taxon-qnd">XXXXXX</div>
   <div class="taxon-abundance">Rare</div>
  </div>
 </div>
 <div class="imerss-content-frame">
  <div class="imerss-image-header">
-  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/XXXXXX)" title="XXXXXX">
   </div>
 
-  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/XXXXXX)" title="XXXXXX">
   </div>
  
  </div>
@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-
+XXXXXX
 
 <h2>Similar species</h2>
 
-
+XXXXXX
 
 <h2>Habitat</h2>
 
@@ -44,12 +44,12 @@ Moist to wet, often shady rock outcrops, cliffs, ledges, crevices, boulders, and
 
 <h2>Associated species</h2>
 
-
+XXXXXX
 </div>
 
 <div class="imerss-column-right">
 
-<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="XXXXX">
 </div>
 
 <div class="imerss-map-holder">
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>2024-11-07</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>1730937600</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">
@@ -81,7 +81,7 @@ map
    <button class="modal__close" aria-label="Close" data-micromodal-close></button>
    </header>
   <div class="modal__content" id="modal-plate-content">
-   <div class="imerss-image-holder" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+   <div class="imerss-image-holder" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="XXXXX">
   </div>
   </div>
   </div>

@@ -1,0 +1,98 @@
+---
+title: Scapania umbrosa
+image: "../img/XXXXXX"
+categories:
+  - Marchantiophyta
+---
+
+<div class="info-panel">
+ <div class="info-top">
+  <div class="taxon-scientific"><span class="taxon-name">Scapania umbrosa</span> <span class="taxon-authority">(Schrad.) Dumort.</span> <span class="taxon-family">(Scapaniaceae)</span></div>
+  <div class="taxon-common">Shady Earwort</div>
+ </div>
+ <div class="info-bottom">
+  <div class="taxon-qnd">Tiny Toothy Triangular Log Scapania</div>
+  <div class="taxon-abundance">Frequent</div>
+ </div>
+</div>
+<div class="imerss-content-frame">
+ <div class="imerss-image-header">
+  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/XXXXXX)" title="XXXXXX">
+  </div>
+
+  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/XXXXXX)" title="XXXXXX">
+  </div>
+ 
+ </div>
+ <div class="imerss-content-lower">
+  <div class="imerss-column-left">
+  <div class="tab-microscope" data-micromodal-trigger="modal-plate">
+  <img src="../img/bryo guide microscope.png"/>
+  </div>
+
+<h2>Distinguishing Features</h2>
+
+Scapania umbrosa is ambient but easy to overlook on the fallen moist conifer logs it calls home. Growing in dense tufts of tiny green shoots (~1.5 mm wide by &lt;1 cm long), the unequal leaf lobes both have a rounded-triangular shape and large teeth, with the upper lobe often pointing up in the direction of the stem axis. This species is frequently peppered with bright red asexual spores (&quot;gemmae&quot;) at the shoot tips.
+
+<h2>Similar species</h2>
+
+This species could be mistaken for a young Scapania bolanderi. That species, however, is much larger (shoots to 3cm+ long) and its leaves lack the triangular aspect and dense red gemmae of S. umbrosa.
+
+<h2>Habitat</h2>
+
+Decayed wood, humus, rock outcrops, boulders, cliffs, and streambanks in the lowland, montane, and subalpine zones
+
+<h2>Associated species</h2>
+
+Cephalozia bicuspidata, Fuscocephaloziopsis sp., Lepidozia reptans, Riccardia sp., Scapania bolanderi.
+</div>
+
+<div class="imerss-column-right">
+
+<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="XXXXX">
+</div>
+
+<div class="imerss-map-holder">
+```{r warning=F, message=F, echo=F}
+setwd("..")
+source("page_functions.R")
+map = make_species_map("Scapania umbrosa")
+map
+```
+</div>
+
+</div>
+
+</div>
+</div>
+
+<div class="taxon-footer">
+ <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>1732147200</span></div>
+</div>
+
+<div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">
+ <div class="modal__overlay" tabindex="-1" data-micromodal-close>
+  <div class="modal__container" role="dialog" aria-modal="true" aria-labelledby="modal-plate-title" >
+   <header class="modal__header">
+   <div class="modal__title" id="modal-plate-title">
+  Scapania umbrosa plate
+   </div>
+   <button class="modal__close" aria-label="Close" data-micromodal-close></button>
+   </header>
+  <div class="modal__content" id="modal-plate-content">
+   <div class="imerss-image-holder" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="XXXXX">
+  </div>
+  </div>
+  </div>
+ </div>
+</div>
+
+<script src="../js/micromodal.min.js"></script>
+<link href="../css/style-taxon.css" rel="stylesheet">
+<link href="../css/micromodal.css" rel="stylesheet">
+
+<script>
+MicroModal.init();
+</script>
+

@@ -1,13 +1,13 @@
 ---
 title: Rhytidiadelphus loreus
-image: "../img/"
+image: "../img/XXXXX"
 categories:
   - Bryophyta
 ---
 
 <div class="info-panel">
  <div class="info-top">
-  <div class="taxon-scientific"><span class="taxon-name">Rhytidiadelphus loreus</span> <span class="taxon-authority">XXXXXX</span> <span class="taxon-family">(XXXXXX)</span></div>
+  <div class="taxon-scientific"><span class="taxon-name">Rhytidiadelphus loreus</span> <span class="taxon-authority">XXXXXX</span> <span class="taxon-family">(Hylocomiaceae)</span></div>
   <div class="taxon-common">Lanky Moss</div>
  </div>
  <div class="info-bottom">
@@ -17,10 +17,10 @@ categories:
 </div>
 <div class="imerss-content-frame">
  <div class="imerss-image-header">
-  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="XXXXX">
   </div>
 
-  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="XXXXX">
   </div>
  
  </div>
@@ -49,7 +49,7 @@ XXXXXX
 
 <div class="imerss-column-right">
 
-<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="XXXXX">
 </div>
 
 <div class="imerss-map-holder">
@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell, John Reynolds, Brian Starzomski, Daniel Tucker</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>2024-02-23</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>1708646400</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">
@@ -81,7 +81,7 @@ map
    <button class="modal__close" aria-label="Close" data-micromodal-close></button>
    </header>
   <div class="modal__content" id="modal-plate-content">
-   <div class="imerss-image-holder" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+   <div class="imerss-image-holder" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="XXXXX">
   </div>
   </div>
   </div>

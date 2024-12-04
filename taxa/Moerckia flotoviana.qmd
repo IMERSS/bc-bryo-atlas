@@ -1,0 +1,98 @@
+---
+title: Moerckia flotoviana
+image: "../img/"
+categories:
+  - Marchantiophyta
+---
+
+<div class="info-panel">
+ <div class="info-top">
+  <div class="taxon-scientific"><span class="taxon-name">Moerckia flotoviana</span> <span class="taxon-authority">(Nees) Schiffn.</span> <span class="taxon-family">(Moerckiaceae)</span></div>
+  <div class="taxon-common">Flotow's Ruffwort</div>
+ </div>
+ <div class="info-bottom">
+  <div class="taxon-qnd"></div>
+  <div class="taxon-abundance">Infrequent</div>
+ </div>
+</div>
+<div class="imerss-content-frame">
+ <div class="imerss-image-header">
+  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+  </div>
+
+  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+  </div>
+ 
+ </div>
+ <div class="imerss-content-lower">
+  <div class="imerss-column-left">
+  <div class="tab-microscope" data-micromodal-trigger="modal-plate">
+  <img src="../img/bryo guide microscope.png"/>
+  </div>
+
+<h2>Distinguishing Features</h2>
+
+Often treated as a synonym or subspecies of M. hibernica, M flotoviana is occasionally found along streams and drainage channels in low elevation bogs, where the transluscent yellow-green thallus runs prostrate through vegetation in segments up to 3 cm long and less than 5 mm wide. The thallus is underlain by a tangle of brown hairs (&quot;rhizoids&quot;), while the upper surface, when fertile, is covered in tooothy scales that surround the antheridia and archegonia, which develop on seperate plants (&quot;dioicous&quot;). Distinguishing this M. hibernica requires a cross section of the thallus, which should show the gradual transition of the thallus from a thickened midrib to a 1-celled wing.
+
+<h2>Similar species</h2>
+
+M. flotoviana could be mistaken for species of Pellia, but the scales are never present on the upper surface in the latter. Scales on the upper surface of M. blyttii have smooth margins and hairs on its undersurface are brown; in M flotoviana the scales are toothed and the hairs are pale. With its toothy scales and pale hairs, M. hibernica is almost indistinguishable without a microscope. In cross-section, the thallus of that species abriptly thins from thick midrib to a 1-2 celled wingwhere as in M. flotoviana the transition is gradual.
+
+<h2>Habitat</h2>
+
+Calcareous streams and slopes along drainage, occasionally bogs at low to moderate elevations.
+
+<h2>Associated species</h2>
+
+
+</div>
+
+<div class="imerss-column-right">
+
+<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+</div>
+
+<div class="imerss-map-holder">
+```{r warning=F, message=F, echo=F}
+setwd("..")
+source("page_functions.R")
+map = make_species_map("Moerckia flotoviana")
+map
+```
+</div>
+
+</div>
+
+</div>
+</div>
+
+<div class="taxon-footer">
+ <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>1732752000</span></div>
+</div>
+
+<div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">
+ <div class="modal__overlay" tabindex="-1" data-micromodal-close>
+  <div class="modal__container" role="dialog" aria-modal="true" aria-labelledby="modal-plate-title" >
+   <header class="modal__header">
+   <div class="modal__title" id="modal-plate-title">
+  Moerckia flotoviana plate
+   </div>
+   <button class="modal__close" aria-label="Close" data-micromodal-close></button>
+   </header>
+  <div class="modal__content" id="modal-plate-content">
+   <div class="imerss-image-holder" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+  </div>
+  </div>
+  </div>
+ </div>
+</div>
+
+<script src="../js/micromodal.min.js"></script>
+<link href="../css/style-taxon.css" rel="stylesheet">
+<link href="../css/micromodal.css" rel="stylesheet">
+
+<script>
+MicroModal.init();
+</script>
+

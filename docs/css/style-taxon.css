@@ -77,16 +77,16 @@ h2 {
 }
 
 .imerss-image-header {
-  min-height: 250px;
+  /* min-height: 250px;*/
   display: flex;
 }
 
 .imerss-column-left {
-  width: 60%;
+  width: 50%;
 }
 
 .imerss-column-right {
-  width: 40%;
+  width: 50%;
 }
 
 .imerss-image-holder {
@@ -96,6 +96,12 @@ h2 {
     position: relative;
     margin: 5px;
     border-radius: 6px;
+    min-height: 250px;
+}
+
+.imerss-map-holder {
+    padding-left: 3px;
+    padding-top: 3px;
 }
 
 .imerss-content-lower {
@@ -109,7 +115,7 @@ h2 {
 /** Tweak sizes of images in lower right hand pane **/
 
 .imerss-content-lower .imerss-image-holder {
-  min-height: 40%;
+  /* min-height: 40%;*/
   width: auto;
   margin: 3px;
 }

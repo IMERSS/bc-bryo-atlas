@@ -38,3 +38,4 @@ tabular_data/GBIF*.csv
 .DS_Store
 .idea
 .secrets
+/_freeze/

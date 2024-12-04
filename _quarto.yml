@@ -33,3 +33,8 @@ format:
   html:
     theme: [flatly, css/theme-light.scss]
     css: [css/style.css, https://use.fontawesome.com/releases/v6.0.0/css/all.css]
+    grid:
+       body-width: 950px
+       sidebar-width: 100px
+       margin-width: 100px
+       

@@ -40,5 +40,5 @@ if (render_all) {
     make_page(taxa[i,])
   }
 } else {
-  cat("Not rendering all files, skipping site generation")
+  cat("Not rendering all files, skipping site generation\n")
 }

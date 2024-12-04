@@ -68,7 +68,7 @@ map
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span>Andrew Simon</span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>2024-09-04</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>1725408000</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">
