@@ -11,7 +11,7 @@ categories:
   <div class="taxon-common">Fan Moss</div>
  </div>
  <div class="info-bottom">
-  <div class="taxon-qnd">Shiny happy fan leaves</div>
+  <div class="taxon-qnd">Shiny happy fan leaves </div>
   <div class="taxon-abundance">XXXXXX</div>
  </div>
 </div>
@@ -32,7 +32,7 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-A common yellowish-green to more often green moss that may grow in large clumps. When fresh with large, oval to near rounded leaves, shiny with a strong mid-vein and smooth margins. Has smooth red stems, and where present drooping sporophytes. When dry the leaves take on a darker green, more translucent habit.
+A common yellowish-green to more often green moss that may grow in large clumps. When fresh with large, oval to near rounded leaves, shiny with a strong mid-vein and smooth margins. Has smooth red stems, and where present drooping sporophytes. When dry the leaves take on a darker green, more translucent habit. 
 
 <h2>Similar species</h2>
 

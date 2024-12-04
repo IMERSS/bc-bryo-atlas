@@ -32,7 +32,7 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-An occasional species that becomes increasingly prominent in moist microhabitats, this dull green liverwort with elongate leaves made up of unequal lobes forms scrambling stems over tree trunks and in rock crevices. Readily standing out on account of its matte texture, the pointed lobe tips and long triangular form of said lobes makes it unique among other unequally-lobed liverworts.
+An occasional species that becomes increasingly prominent in moist microhabitats, this dull green liverwort with elongate leaves made up of unequal lobes forms scrambling stems over tree trunks and in rock crevices. Readily standing out on account of its matte texture, the pointed lobe tips and long triangular form of said lobes makes it unique among other unequally-lobed liverworts. 
 
 <h2>Similar species</h2>
 
@@ -44,7 +44,7 @@ Tree trunks (both deciduous and coniferous), humus, rock outcrops, boulders, cli
 
 <h2>Associated species</h2>
 
-Frullania sp., Ulota sp., Metzgeria sp.
+Frullania sp., Ulota sp., Metzgeria sp. 
 </div>
 
 <div class="imerss-column-right">

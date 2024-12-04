@@ -36,6 +36,7 @@ make_species_map <- function (thisSpecies) {
         '\nSpecies:', species, 
         '\nObserved:', stamp("March 1, 1999", quiet = TRUE)(date)
         ),
+      hoverinfo = "text",
       size = 10,
       showlegend = FALSE, # doesn't work
       name = ~Year,

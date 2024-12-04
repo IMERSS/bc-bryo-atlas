@@ -11,7 +11,7 @@ categories:
   <div class="taxon-common">Woolly Rock-Moss</div>
  </div>
  <div class="info-bottom">
-  <div class="taxon-qnd">Grey and frosty on rock</div>
+  <div class="taxon-qnd">Grey and frosty on rock </div>
   <div class="taxon-abundance">XXXXXX</div>
  </div>
 </div>

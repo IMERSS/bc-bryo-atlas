@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-An infrequent colonizer of mineral soils, especially around forest margins, D. obtusifolium if a small plant with shoots &lt; 1cm long, often in yellow-green or even bright red hues that accentuate the  rounded tips of its unequal and elongate leaf lobes. In this species, the smaller upper lobe points towards the tip of the stem, forming nearly a right angle with the larger lower lobe. A fecund plant, it will often be found with developing sporophytes surrounded by an enveloping layer of ridged leaves.
+An infrequent colonizer of mineral soils, especially around forest margins, D. obtusifolium if a small plant with shoots &lt; 1cm long, often in yellow-green or even bright red hues that accentuate the  rounded tips of its unequal and elongate leaf lobes. In this species, the smaller upper lobe points towards the tip of the stem, forming nearly a right angle with the larger lower lobe. A fecund plant, it will often be found with developing sporophytes surrounded by an enveloping layer of ridged leaves. 
 
 <h2>Similar species</h2>
 
-D. obtusifolium lacks the patch of clear cells present in the lower lobes of D. albicans. D. taxifolium can have similair colouration and leaf shape, but the upper lobe in that species is oriented obliquely and points away from the stem tip.
+D. obtusifolium lacks the patch of clear cells present in the lower lobes of D. albicans. D. taxifolium can have similair colouration and leaf shape, but the upper lobe in that species is oriented obliquely and points away from the stem tip. 
 
 <h2>Habitat</h2>
 
@@ -44,7 +44,7 @@ Moist, shady rock outcrops, boulders, cliffs, and cutbanks in the lowland, monta
 
 <h2>Associated species</h2>
 
-Jungermannia rubra, Ditrichum heteromallum, Dicranum sp.
+Jungermannia rubra, Ditrichum heteromallum, Dicranum sp. 
 </div>
 
 <div class="imerss-column-right">
