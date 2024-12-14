@@ -1,6 +1,6 @@
 ---
 title: Riccia lamellosa
-image: "../img/Liverworts/Ricciaceae/Riccia_lamellosa/Macro pics/Riccia_lamellosa-CW.png"
+image: "../img/Liverworts/Ricciaceae/Riccia_lamellosa/macro_pics/Riccia_lamellosa-CW.png"
 categories:
   - Marchantiophyta
 ---
@@ -17,10 +17,10 @@ categories:
 </div>
 <div class="imerss-content-frame">
  <div class="imerss-image-header">
-  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Ricciaceae/Riccia_lamellosa/Macro pics/Riccia_lamellosa-CW.png)" title="Connor Wardrop">
+  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Ricciaceae/Riccia_lamellosa/macro_pics/Riccia_lamellosa-CW.png)" title="Connor Wardrop">
   </div>
 
-  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Ricciaceae/Riccia_lamellosa/Macro pics/Riccia_lamellosa-FM.jpeg)" title="Finn McGhee">
+  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Ricciaceae/Riccia_lamellosa/macro_pics/Riccia_lamellosa-FM.jpeg)" title="Finn McGhee">
   </div>
  
  </div>
@@ -49,7 +49,7 @@ Riccia sorocarpa, Fossombronia longiseta, Anthoceros fusiformis, Pleuridium acum
 
 <div class="imerss-column-right">
 
-<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Ricciaceae/Riccia_lamellosa/Macro pics/Riccia_lamellosa-CW2.png)" title="Connor Wardrop">
+<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Ricciaceae/Riccia_lamellosa/macro_pics//Riccia_lamellosa-CW2.png)" title="Connor Wardrop">
 </div>
 
 <div class="imerss-map-holder">
