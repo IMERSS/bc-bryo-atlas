@@ -1,6 +1,6 @@
 ---
 title: Phymatoceros bulbiculosus
-image: "../img/XXXXX"
+image: "../img/xxxxxx"
 categories:
   - Anthocerotophyta
 ---
@@ -17,7 +17,7 @@ categories:
 </div>
 <div class="imerss-content-frame">
  <div class="imerss-image-header">
-  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="XXXXX">
+  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/xxxxxx)" title="XXXXX">
   </div>
 
   <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="XXXXX">
@@ -67,7 +67,7 @@ map
 </div>
 
 <div class="taxon-footer">
- <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell, Dan Tucker</span></div>
+ <div class="taxon-authors"><b>Authors:</b> <span></span></div>
  <div class="taxon-update"><b>Last updated:</b> <span>Nov 15, 2024</span></div>
 </div>
 

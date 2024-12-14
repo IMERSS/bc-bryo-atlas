@@ -32,7 +32,7 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-A large,seemingly filamentous plant, Lepidozia sandvicensis presents as a minature transluscent green tumbleweed, its shoots up to 5 cm long with numerous long branches completely free from their substrate. While its lateral leaves have the genus' characteristic 3-4 triangular lobes down to about 1/2 their length, they are narrower than the shoot width and very widely spaced along the stems. As the Latin name suggests, this is a plant with an interesting distribution, known predominantly from the Hawaiian Islands and wet-coastal British Columbia. 
+A large, seemingly filamentous plant, Lepidozia sandvicensis presents as a minature transluscent green tumbleweed, its shoots up to 5 cm long with numerous long branches completely free from their substrate. While its lateral leaves have the genus' characteristic 3-4 triangular lobes down to about 1/2 their length, they are narrower than the shoot width and very widely spaced along the stems. As the Latin name suggests, this is a plant with an interesting distribution, known predominantly from the Hawaiian Islands and wet-coastal British Columbia. 
 
 <h2>Similar species</h2>
 
@@ -67,7 +67,7 @@ map
 </div>
 
 <div class="taxon-footer">
- <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
+ <div class="taxon-authors"><b>Authors:</b> <span></span></div>
  <div class="taxon-update"><b>Last updated:</b> <span>Nov 9, 2024</span></div>
 </div>
 

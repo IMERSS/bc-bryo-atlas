@@ -67,7 +67,7 @@ map
 </div>
 
 <div class="taxon-footer">
- <div class="taxon-authors"><b>Authors:</b> <span>Jamie Fenneman</span></div>
+ <div class="taxon-authors"><b>Authors:</b> <span></span></div>
  <div class="taxon-update"><b>Last updated:</b> <span>XXXXXX</span></div>
 </div>
 

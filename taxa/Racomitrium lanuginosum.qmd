@@ -67,7 +67,7 @@ map
 </div>
 
 <div class="taxon-footer">
- <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell, John Reynolds, Brian Starzomski, Daniel Tucker</span></div>
+ <div class="taxon-authors"><b>Authors:</b> <span></span></div>
  <div class="taxon-update"><b>Last updated:</b> <span>Feb 23, 2024</span></div>
 </div>
 

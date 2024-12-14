@@ -1,6 +1,6 @@
 ---
 title: Ricciocarpos natans
-image: "../img/XXXXX"
+image: "../img/Liverworts/Ricciaceae/Ricciocarpos_natans/Macro pics/Ricciocarpos-BMS.jpeg"
 categories:
   - Marchantiophyta
 ---
@@ -17,10 +17,10 @@ categories:
 </div>
 <div class="imerss-content-frame">
  <div class="imerss-image-header">
-  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="XXXXX">
+  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Ricciaceae/Ricciocarpos_natans/Macro pics/Ricciocarpos-BMS.jpeg)" title="Brian Starzomski">
   </div>
 
-  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="XXXXX">
+  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Ricciaceae/Ricciocarpos_natans/Macro pics/Ricciocarpos-RM.jpeg)" title="Randal Mindell">
   </div>
  
  </div>
@@ -49,7 +49,7 @@ Riccia frostii, Riccia cavernosa, Physcomitrium patens, Ephemerum serrulatum
 
 <div class="imerss-column-right">
 
-<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="XXXXX">
+<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Ricciaceae/Ricciocarpos_natans/Macro pics/Ricciocarpos-BMS2.jpeg)" title="Brian Starzomski">
 </div>
 
 <div class="imerss-map-holder">
@@ -67,7 +67,7 @@ map
 </div>
 
 <div class="taxon-footer">
- <div class="taxon-authors"><b>Authors:</b> <span>Randal Mindell</span></div>
+ <div class="taxon-authors"><b>Authors:</b> <span></span></div>
  <div class="taxon-update"><b>Last updated:</b> <span>Feb 25, 2024</span></div>
 </div>
 
