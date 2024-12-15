@@ -58,6 +58,7 @@ setwd("..")
 source("page_functions.R")
 map = make_species_map("Cephaloziella divaricata")
 map
+setwd("taxa")
 ```
 </div>
 

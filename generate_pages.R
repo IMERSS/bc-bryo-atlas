@@ -2,17 +2,19 @@ library(whisker)
 library(tidyverse)
 library(googledrive)
 
-downloadGdrive <- function (id, file_path, overwrite = FALSE) {
-  if (overwrite || !file.exists(file_path)) {
-    drive_download(as_id(id), path = file_path, overwrite = TRUE)
-  }
-}
+source("utils.R")
 
 # Found existence of these variables at https://quarto.org/docs/projects/scripts.html#pre-and-post-render
 render_all <- nzchar(Sys.getenv("QUARTO_PROJECT_RENDER_ALL"))
 
 if (render_all) {
   
+  # Fetch from BC Bryophyte Guide/Pictures & Plates/Online/Mosses
+  downloadGdriveFolder("1aOC3utSbQ80CUutkRKI12X4ogYtBKOx3", "img/Mosses", FALSE);
+  
+  # Fetch from BC Bryophyte Guide/Pictures & Plates/Online/Liverworts
+  downloadGdriveFolder("1-0l28CApHUvripJemW14cAq7qIm9tyTK", "img/Liverworts", FALSE);
+
   # Fetch from BC Bryophyte Guide/Catalogues/GBIF-0002297-240626123714530.csv
   downloadGdrive("1UlByeYlHRyKBl2xnmbF_tVG4jl_xcO3R", "tabular_data/GBIF-0002297-240626123714530.csv")
   

@@ -58,6 +58,7 @@ setwd("..")
 source("page_functions.R")
 map = make_species_map("Lepidozia reptans")
 map
+setwd("taxa")
 ```
 </div>
 

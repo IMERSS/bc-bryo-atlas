@@ -58,6 +58,7 @@ setwd("..")
 source("page_functions.R")
 map = make_species_map("Dicranum tauricum")
 map
+setwd("taxa")
 ```
 </div>
 

@@ -58,6 +58,7 @@ setwd("..")
 source("page_functions.R")
 map = make_species_map("Fuscocephaloziopsis catenulata")
 map
+setwd("taxa")
 ```
 </div>
 
