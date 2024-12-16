@@ -2,24 +2,24 @@
 /** Remove lots of top padding **/
 
 h1 {
-  display: none;
+    display: none;
 }
 
 #quarto-content > * {
-  padding-top: 0;
+    padding-top: 0;
 }
 
 nav.navbar {
-  padding-bottom: 0;
-  margin-bottom: -0.5rem;
+    padding-bottom: 0;
+    margin-bottom: -0.5rem;
 }
 
 nav .nav-link {
-  padding-bottom: 0;
+    padding-bottom: 0;
 }
 
 main {
-  margin-top: 0;
+    margin-top: 0;
 }
 
 #title-block-header {
@@ -72,21 +72,21 @@ h2 {
 }
 
 .imerss-content-frame {
-  display: flex;
-  flex-direction: column;
+    display: flex;
+    flex-direction: column;
 }
 
 .imerss-image-header {
-  min-height: 250px;
-  display: flex;
+    /* min-height: 250px;*/
+    display: flex;
 }
 
 .imerss-column-left {
-  width: 60%;
+    width: 50%;
 }
 
 .imerss-column-right {
-  width: 40%;
+    width: 50%;
 }
 
 .imerss-image-holder {
@@ -96,6 +96,12 @@ h2 {
     position: relative;
     margin: 5px;
     border-radius: 6px;
+    min-height: 250px;
+}
+
+.imerss-map-holder {
+    padding-left: 3px;
+    padding-top: 3px;
 }
 
 .imerss-content-lower {
@@ -109,18 +115,18 @@ h2 {
 /** Tweak sizes of images in lower right hand pane **/
 
 .imerss-content-lower .imerss-image-holder {
-  min-height: 40%;
-  width: auto;
-  margin: 3px;
+    /* min-height: 40%;*/
+    width: auto;
+    margin: 3px;
 }
 
 /** Tweak pre-baked micromodal styles to wrap content properly **/
 
 .modal__content {
-  display: flex;
+    display: flex;
 }
 
 .modal__content .imerss-image-holder {
-  width: 60vw;
-  height: 60vh;
+    width: 60vw;
+    height: 60vh;
 }
