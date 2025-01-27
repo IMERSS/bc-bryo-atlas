@@ -36,7 +36,7 @@ Ephemeral and rare, R. beyrichiana forms small (&lt;1cm) and often incomplete gr
 
 <h2>Similar species</h2>
 
-When young, this species is hard to distinguish from other Riccia species. At maturity, the cilia (see photos) are unique. 
+When young, this species is hard to distinguish from other Riccia species. At maturity, the small number of robust cilia (look closely at photos) are unique. 
 
 <h2>Habitat</h2>
 
@@ -69,7 +69,7 @@ setwd("taxa")
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span></span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>Feb 25, 2024</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Dec 18, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

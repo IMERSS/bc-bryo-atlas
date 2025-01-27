@@ -1,6 +1,6 @@
 ---
 title: Pellia neesiana
-image: "../img/"
+image: "../img/Liverworts/Pelliaceae/Pellia_neesiana/macro_pics/Pellia_neesiana_JR_01.jpg"
 categories:
   - Marchantiophyta
 ---
@@ -17,10 +17,10 @@ categories:
 </div>
 <div class="imerss-content-frame">
  <div class="imerss-image-header">
-  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Pelliaceae/Pellia_neesiana/macro_pics/Pellia_neesiana_JR_01.jpg)" title="John Reynolds">
   </div>
 
-  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Pelliaceae/Pellia_neesiana/macro_pics/Pellia_neesiana_JR_02.jpg)" title="John Reynolds">
   </div>
  
  </div>
@@ -49,7 +49,7 @@ Rhizomnium glabrescens, Rhizomnium magnifolium, Kindbergia praelonga, Hookeria l
 
 <div class="imerss-column-right">
 
-<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Pelliaceae/Pellia_neesiana/macro_pics/Pellia_neesiana_DT_01.jpeg)" title="Daniel Tucker">
 </div>
 
 <div class="imerss-map-holder">

@@ -32,7 +32,7 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-A rare, Riccia about 1cm in diameter found in seasonally exposed sediments, it forms isolated populations that are once-to-thrice branched with a characteristic white frosty appearance on an imperforate upper surface. Under the hand lens, a shallow groove should be visible towards the tips of the thallus. To be certain of this species, observation of spores under the microscope may be required. 
+A rare Riccia about 1cm in diameter found in seasonally exposed sediments, it forms isolated populations that are once-to-thrice branched with a characteristic white frosty appearance on an imperforate upper surface. Under the hand lens, a shallow groove should be visible towards the tips of the thallus. To be certain of this species, observation of spores under the microscope may be required. 
 
 <h2>Similar species</h2>
 
@@ -40,7 +40,7 @@ Most likely to be mistaken for Riccia sorocarpa, which has a deeper groove perva
 
 <h2>Habitat</h2>
 
-Moist to wet mineral soil of shorelines and pond margins in montane zone; rare in sw BC.
+Moist to wet mineral soil of shorelines and pond margins in montane zone; seemingly very rare in sw BC.
 
 <h2>Associated species</h2>
 
@@ -69,7 +69,7 @@ setwd("taxa")
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span></span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>Feb 25, 2024</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Dec 18, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

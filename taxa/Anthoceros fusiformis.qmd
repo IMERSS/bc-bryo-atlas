@@ -1,6 +1,6 @@
 ---
 title: Anthoceros fusiformis
-image: "../img/XXXXX"
+image: "../img/Hornworts/Anthocerotaceae/Anthoceros_fusiformis/Anthoceros_fusiformis-BJJ1.jpeg"
 categories:
   - Anthocerotophyta
 ---
@@ -8,7 +8,7 @@ categories:
 <div class="info-panel">
  <div class="info-top">
   <div class="taxon-scientific"><span class="taxon-name">Anthoceros fusiformis</span> <span class="taxon-authority">Austin</span> <span class="taxon-family">(Anthocerotaceae)</span></div>
-  <div class="taxon-common">Austins hornwort</div>
+  <div class="taxon-common">Austin's hornwort</div>
  </div>
  <div class="info-bottom">
   <div class="taxon-qnd">Dark spore long horn</div>
@@ -17,10 +17,10 @@ categories:
 </div>
 <div class="imerss-content-frame">
  <div class="imerss-image-header">
-  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="XXXXX">
+  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/Hornworts/Anthocerotaceae/Anthoceros_fusiformis/Anthoceros_fusiformis-BJJ1.jpeg)" title="Braden Judson">
   </div>
 
-  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="XXXXX">
+  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Hornworts/Anthocerotaceae/Anthoceros_fusiformis/Anthoceros_fusiformis-BJJ.jpeg)" title="Braden Judson">
   </div>
  
  </div>
@@ -32,15 +32,15 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-Ephemeral but frequent,  this dark green Anthoceros has a fluted and heavily dissected thallus that can range from dime-to-quarter-sized in the seasonally saturated fine sediments on which it thrives. When fertile, it has a towering (5-10cm) horn emerging from the thallus that produces black spores, giving the entire structure a dark palour.  The dark spores have characteristic spikes (echinate) seen under the microscope.
+Ephemeral but frequent, this dark green Anthoceros has a fluted and heavily dissected thallus that can range from dime-to-quarter-sized in the seasonally saturated fine sediments on which it thrives. When fertile, it has a towering (5-10cm) horn emerging from the thallus that produces black spores, giving the entire structure a dark palour.  The dark spores have characteristic spikes (echinate) seen under the microscope.
 
 <h2>Similar species</h2>
 
-When fertile, the dark sporophytes and black spore mass seperate A. fusiformis from Phaeoceros oreganus and Paraphymatoceros pearsonii, species with yellow spores and sporophytes that have a less dissected thallus. A. fusiformis lacks the asexual bulbils present on the underside of Phymatoceros bulbicosus. A. punctatus can not be distinguished from A. fusiformis without microscopic examination of the mature spores. 
+When fertile, the dark sporophytes and black spore mass separate A. fusiformis from Phaeoceros oreganus and Paraphymatoceros pearsonii, species with yellow spores and sporophytes that have a less dissected thallus. A. fusiformis lacks the asexual bulbils present on the underside of Phymatoceros bulbiculosus. A. punctatus can not be distinguished from A. fusiformis without microscopic examination of the mature spores. 
 
 <h2>Habitat</h2>
 
-Fine sediment seeps, seasonally saturated banks, ditches and rock crevices. Locally frequent in SW BC. 
+Fine sediment seeps, seasonally saturated banks, ditches, road cuts, and rock crevices. Locally frequent in SW BC. 
 
 <h2>Associated species</h2>
 
@@ -49,7 +49,7 @@ Fissidens crispus, Fissidens bryoides, Timmiella crassinervis, Rosulabryum canar
 
 <div class="imerss-column-right">
 
-<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="XXXXX">
+<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Hornworts/Anthocerotaceae/Anthoceros_fusiformis/Anthoceros_fusiformis-BJJ2.jpeg)" title="Braden Judson">
 </div>
 
 <div class="imerss-map-holder">
@@ -69,7 +69,7 @@ setwd("taxa")
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span></span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>Nov 15, 2024</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Dec 19, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

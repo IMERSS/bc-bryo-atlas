@@ -32,7 +32,7 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-A rarely-noticed but seemingly weedy species of disturbed soils, S. texanus is amongst the most charismatic of liverworts in the region on account of its abundant, submillimeter &quot;balloons&quot;. These structures actually enclose the reproductive organs, with the underlying leaves of the plant even less distinct, even with a hand lens.  
+A rarely-noticed but seemingly weedy species of disturbed soils, Sphaerocarpos texanus is amongst the most charismatic of liverworts in the region on account of its abundant, submillimeter &quot;balloons&quot;. These structures actually enclose the reproductive organs, with the underlying leaves of the plant even less distinct, even with a hand lens.  
 
 <h2>Similar species</h2>
 
@@ -40,11 +40,11 @@ No other bryophyte in the region resembles this species.
 
 <h2>Habitat</h2>
 
-Seasonally saturated and frequently disturbed fine soils in open areas at low elevations.
+Seasonally saturated and frequently disturbed fine soils in open areas (trail sides, parking lot edges, campsites, dirt tracks, sloughed-over moss mats) at low elevations.
 
 <h2>Associated species</h2>
 
-Gemmabryum barnesii, Plagiomnium cuspidatu,. Cephaloziella divaricata
+Gemmabryum barnesii, Plagiomnium cuspidatum, Cephaloziella divaricata, Fossombronia spp. Riccia spp.
 </div>
 
 <div class="imerss-column-right">
@@ -69,7 +69,7 @@ setwd("taxa")
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span></span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>Feb 27, 2024</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Dec 19, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

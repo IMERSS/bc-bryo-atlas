@@ -1,6 +1,6 @@
 ---
 title: Kindbergia oregana
-image: "../img/XXXXX"
+image: "../img/Mosses/Brachytheciaceae/Kindbergia_oregana/macro_pics/Kindbergia_oregana_JR_03.jpg"
 categories:
   - Bryophyta
 ---
@@ -17,10 +17,10 @@ categories:
 </div>
 <div class="imerss-content-frame">
  <div class="imerss-image-header">
-  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="XXXXX">
+  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/Mosses/Brachytheciaceae/Kindbergia_oregana/macro_pics/Kindbergia_oregana_JR_03.jpg)" title="John Reynolds">
   </div>
 
-  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="XXXXX">
+  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Mosses/Brachytheciaceae/Kindbergia_oregana/macro_pics/Kindbergia_oregana_JR_01.jpg)" title="John Reynolds">
   </div>
  
  </div>
@@ -49,7 +49,7 @@ Homalothecium megaptilum, Plagiothecium undulatum, Rhytidiadelphus loreus, Leuco
 
 <div class="imerss-column-right">
 
-<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="XXXXX">
+<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Mosses/Brachytheciaceae/Kindbergia_oregana/macro_pics/Kindbergia_oregana_JR_02.jpg)" title="John Reynolds">
 </div>
 
 <div class="imerss-map-holder">

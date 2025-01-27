@@ -1,6 +1,6 @@
 ---
 title: Plagiochila porelloides
-image: "../img/XXXXXX"
+image: "../img/Liverworts/Plagiochilaceae/Plagiochila_porelloides/macro_pics/Plagiochila_porelloides_JR_01.jpg"
 categories:
   - Marchantiophyta
 ---
@@ -17,10 +17,10 @@ categories:
 </div>
 <div class="imerss-content-frame">
  <div class="imerss-image-header">
-  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/XXXXXX)" title="XXXXXX">
+  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Plagiochilaceae/Plagiochila_porelloides/macro_pics/Plagiochila_porelloides_JR_01.jpg)" title="John Reynolds">
   </div>
 
-  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/XXXXXX)" title="XXXXXX">
+  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Plagiochilaceae/Plagiochila_porelloides/macro_pics/Plagiochila_porelloides_BJ_01.jpeg)" title="Braden Judson">
   </div>
  
  </div>
@@ -49,7 +49,7 @@ XXXXXX
 
 <div class="imerss-column-right">
 
-<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="XXXXX">
+<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Plagiochilaceae/Plagiochila_porelloides/plates/Plagiochila_porelloides_RM_01_plate.jpeg)" title="Randal Mindell">
 </div>
 
 <div class="imerss-map-holder">

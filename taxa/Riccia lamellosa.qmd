@@ -36,7 +36,7 @@ A rare species thus far known only from sloping and seasonally saturated fine se
 
 <h2>Similar species</h2>
 
-No other species of Riccia has the overlapping scales of pale tissue along the margin, making this plant unmistakeable compared to others in the genus. 
+No other species of Riccia has the overlapping scales of pale tissue along the margin (though be sure to separate from the colourless flaps sometimes present in R. sorocarpa), making this plant unmistakeable compared to others in the genus. 
 
 <h2>Habitat</h2>
 
@@ -69,7 +69,7 @@ setwd("taxa")
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span></span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>Feb 25, 2024</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Dec 18, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

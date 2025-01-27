@@ -1,6 +1,6 @@
 ---
 title: Rhizomnium glabrescens
-image: "../img/XXXXX"
+image: "../img/Mosses/Mniaceae/Rhizomnium_glabrescens/macro_pics/Rhizomnium_glabrescens_JR_01.jpg"
 categories:
   - Bryophyta
 ---
@@ -17,10 +17,10 @@ categories:
 </div>
 <div class="imerss-content-frame">
  <div class="imerss-image-header">
-  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="XXXXX">
+  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/Mosses/Mniaceae/Rhizomnium_glabrescens/macro_pics/Rhizomnium_glabrescens_JR_01.jpg)" title="John Reynolds">
   </div>
 
-  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="XXXXX">
+  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Mosses/Mniaceae/Rhizomnium_glabrescens/macro_pics/Rhizomnium_glabrescens_JR_02.jpg)" title="John Reynolds">
   </div>
  
  </div>
@@ -49,7 +49,7 @@ Tetraphis pellucida, Scapania bolanderi, Pseudotaxaphyllum elegans, Plagiotheciu
 
 <div class="imerss-column-right">
 
-<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="XXXXX">
+<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Mosses/Mniaceae/Rhizomnium_glabrescens/macro_pics/Rhizomnium_glabrescens_JR_03.jpg)" title="John Reynolds">
 </div>
 
 <div class="imerss-map-holder">

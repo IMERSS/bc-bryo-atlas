@@ -1,6 +1,6 @@
 ---
 title: Fuscocephaloziopsis leucantha
-image: "../img/XXXXXX"
+image: "../img/"
 categories:
   - Marchantiophyta
 ---
@@ -17,7 +17,7 @@ categories:
 </div>
 <div class="imerss-content-frame">
  <div class="imerss-image-header">
-  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/XXXXXX)" title="XXXXXX">
+  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/)" title="XXXXXX">
   </div>
 
   <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/XXXXXX)" title="XXXXXX">

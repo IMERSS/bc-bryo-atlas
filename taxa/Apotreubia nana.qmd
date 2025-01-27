@@ -32,7 +32,7 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-Apotreubia nana is a rare species of exceedingly wet coastal regions, where it can grow to 1.5 cm long and 5 mm wide  on decaying organic matter and peat as a white-speckled plant that seemingly straddles the boundary between leafy and thalloid on account of thick, succulent leaves. The leaves themselves are of two sizes, both broadly and irregularly ovate, that seem to emerge from a common thallus-like tissue. The prominent white oil bodies can be seen at the surface with the naked eye and are diagnostic for this species in the region. 
+Apotreubia nana is a rare species of exceedingly wet coastal regions, where it can grow to 1.5 cm long and 5 mm wide on decaying organic matter and peat. It is a white-speckled plant that seemingly straddles the boundary between leafy and thalloid liverwort on account of thick, succulent leaves. The leaves themselves are of two sizes, both broadly and irregularly ovate, that seem to emerge from a common thallus-like tissue. The prominent white oil bodies can be seen at the surface with the naked eye and are diagnostic for this species in the region. 
 
 <h2>Similar species</h2>
 
@@ -69,7 +69,7 @@ setwd("taxa")
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span></span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>Nov 28, 2024</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Dec 18, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

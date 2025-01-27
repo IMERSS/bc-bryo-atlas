@@ -1,6 +1,6 @@
 ---
 title: Calypogeia azurea
-image: "../img/XXXXXX"
+image: "../img/Liverworts/Calypogeiaceae/Calypogeia_azurea/macro_pics/Calypogeia_azurea-JC.jpeg"
 categories:
   - Marchantiophyta
 ---
@@ -17,10 +17,10 @@ categories:
 </div>
 <div class="imerss-content-frame">
  <div class="imerss-image-header">
-  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/XXXXXX)" title="XXXXXX">
+  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Calypogeiaceae/Calypogeia_azurea/macro_pics/Calypogeia_azurea-JC.jpeg)" title="Julia Carr">
   </div>
 
-  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/XXXXXX)" title="XXXXXX">
+  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Calypogeiaceae/Calypogeia_azurea/macro_pics/Calypogeia_azurea-RM.jpeg)" title="Randal Mindell">
   </div>
  
  </div>
@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-A frequent species in the damp, dark and wet coastal coniferous forests in which it thrive, Calypogeia azurea occurs as a small, creeping blue plant on decaying organic matter. The round lateral leave overlap one another like shingles on a roof (&quot;incubuous&quot;), while the underleaves are two lobed and divided to about half of their length. The characteristic blue hue can be subtle, but it is a manifestation of the aquamarine oil bodies that are clearly visible under the microscope.
+A frequent species in the damp, dark and wet coastal coniferous forests in which it thrives, Calypogeia azurea occurs as a small, creeping blue plant on decaying organic matter. The round lateral leaves overlap one another like shingles on a roof (&quot;incubous&quot;), while the underleaves are two lobed and divided to about half of their length. The characteristic blue hue can be subtle, but it is a manifestation of the aquamarine oil bodies that are clearly visible under the microscope.
 
 <h2>Similar species</h2>
 
-With round, overlapping leaves, C. azurea could only be mistaken for other species in the genus Calypogeia, most of which can be distinguished on the basis of the underleaf shape. Of these, only Calypogeia mulleriana has an underleaf that is similairly divided to about half its length, but it lacks the blue hue of C. azurea.
+With round, overlapping leaves, C. azurea could only be mistaken for other species in the genus Calypogeia, most of which can be distinguished on the basis of the underleaf shape. Of these, only Calypogeia mulleriana has an underleaf that is similarly divided to about half its length, but it lacks the blue hue of C. azurea.
 
 <h2>Habitat</h2>
 
@@ -49,7 +49,7 @@ XXXXXX
 
 <div class="imerss-column-right">
 
-<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="XXXXX">
+<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Calypogeiaceae/Calypogeia_azurea/macro_pics/Calypogeia_azurea-JC2.jpeg)" title="Julia Carr">
 </div>
 
 <div class="imerss-map-holder">
@@ -69,7 +69,7 @@ setwd("taxa")
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span></span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>November 4, 2024</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>December 18, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

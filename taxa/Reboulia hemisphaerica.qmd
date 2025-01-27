@@ -1,6 +1,6 @@
 ---
 title: Reboulia hemisphaerica
-image: "../img/"
+image: "../img/Liverworts/Aytoniaceae/Reboulia_hemisphaerica/macro_pics/Reboulia_hemisphaerica_BS_01.jpeg"
 categories:
   - Marchantiophyta
 ---
@@ -17,10 +17,10 @@ categories:
 </div>
 <div class="imerss-content-frame">
  <div class="imerss-image-header">
-  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Aytoniaceae/Reboulia_hemisphaerica/macro_pics/Reboulia_hemisphaerica_BS_01.jpeg)" title="Brian Starzomski">
   </div>
 
-  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Aytoniaceae/Reboulia_hemisphaerica/macro_pics/Reboulia_hemisphaerica_BS_02.jpeg)" title="Brian Starzomski">
   </div>
  
  </div>
@@ -49,7 +49,7 @@ Reboulia hemisphaerica is a complex thalloid liverwort found throughout the regi
 
 <div class="imerss-column-right">
 
-<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Aytoniaceae/Reboulia_hemisphaerica/macro_pics/Reboulia_hemisphaerica_JR_01.jpg)" title="John Reynolds">
 </div>
 
 <div class="imerss-map-holder">

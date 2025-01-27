@@ -1,6 +1,6 @@
 ---
 title: Douinia ovata
-image: "../img/XXXXX"
+image: "../img/Liverworts/Scapaniaceae/Douinia_ovata/macro_pics/Doinia_ovata_CW_01.jpeg"
 categories:
   - Marchantiophyta
 ---
@@ -17,10 +17,10 @@ categories:
 </div>
 <div class="imerss-content-frame">
  <div class="imerss-image-header">
-  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="XXXXX">
+  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Scapaniaceae/Douinia_ovata/macro_pics/Doinia_ovata_CW_01.jpeg)" title="Connor Wardrop">
   </div>
 
-  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="XXXXX">
+  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Scapaniaceae/Douinia_ovata/macro_pics/Douinia_ovata_RM_01.jpeg)" title="Randal Mindell">
   </div>
  
  </div>
@@ -49,7 +49,7 @@ Frullania sp., Ulota sp., Metzgeria sp.
 
 <div class="imerss-column-right">
 
-<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="XXXXX">
+<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Scapaniaceae/Douinia_ovata/macro_pics/Douinia_ovata_JR_01.jpg)" title="John Reynolds">
 </div>
 
 <div class="imerss-map-holder">

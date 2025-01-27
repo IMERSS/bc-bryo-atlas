@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-An occasional aquatic or semi-aquatic liverwort from stagnant waters, R. natans forms tight and large (1cm or larger) rosettes that are grooved and green above and black below. When lifted from the water or surface sediments, the dark underside is laden with long, black, root-like tangles, and the uppoer surface is marked by faint polygons. As the margin of a water body receeds, this species can live out its days on wet mud, often growing upwards of 2-3 cm wide. 
+An occasional aquatic or semi-aquatic liverwort from stagnant waters, Ricciocarpos natans forms tight and large (1cm or larger) rosettes that are grooved and green above and black below. When lifted from the water or surface sediments, the dark underside is laden with long, black, root-like tangles, and the upper surface is marked by faint polygons. As the margin of a water body recedes, this species can live out its days on wet mud, often growing upwards of 2-3 cm wide. 
 
 <h2>Similar species</h2>
 
-Unmistakeable while floating in open water, it is likely to cause a little confusion if found living on sediments or soils where water has stranded it. Riccia sorocarpa is furrowed, too, but lacks the black bottoms and polygonal patterning of the upper surface that is found in Ricciocarpos. Other thalloid liverworts found in similar habitats, such as Marchantia polymorpha and Conocephalum sp. have more clearly delimited polygons and lack the large black root-like structures on their undersides. 
+Unmistakeable while floating in open water, it is likely to cause a little confusion if found living on sediments or soils where water has stranded it. Riccia sorocarpa is furrowed, too, but lacks the black bottoms and polygonal patterning of the upper surface that is found in Ricciocarpos. Other thalloid liverworts found in similar habitats, such as Marchantia polymorpha and Conocephalum species have more clearly delimited polygons and lack the large black root-like structures on their undersides. 
 
 <h2>Habitat</h2>
 
@@ -69,7 +69,7 @@ setwd("taxa")
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span></span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>Feb 25, 2024</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Dec 18, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

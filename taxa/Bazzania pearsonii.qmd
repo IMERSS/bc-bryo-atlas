@@ -1,6 +1,6 @@
 ---
 title: Bazzania pearsonii
-image: "../img/XXXXXX"
+image: "../img/Liverworts/Lepidoziaceae/Bazzania_pearsonii/macro_pics/Bazzania_pearsonii_CW_01.png"
 categories:
   - Marchantiophyta
 ---
@@ -17,7 +17,7 @@ categories:
 </div>
 <div class="imerss-content-frame">
  <div class="imerss-image-header">
-  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/XXXXXX)" title="XXXXXX">
+  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Lepidoziaceae/Bazzania_pearsonii/macro_pics/Bazzania_pearsonii_CW_01.png)" title="Connor Wardrop">
   </div>
 
   <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/XXXXXX)" title="XXXXXX">

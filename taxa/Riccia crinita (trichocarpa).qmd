@@ -32,19 +32,19 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-A rare species, R. trichocarpa forms small rosettes (~1cm wide) on thin soils with open exposure. These rosettes distinguished by an abundance of hairs present all around the margins and underside of the plant. 
+An uncommon to rare species, R. trichocarpa forms small rosettes (~1cm wide) on thin soils with open exposure. These rosettes are distinguished by an abundance of hairs present all around the margins and underside of the plant. 
 
 <h2>Similar species</h2>
 
-Riccia beyrichiana also has marginal outgrowths, but they are much shorter, much wider and much less numerous than those of R. trichocarpa. No other Riccia species has the abundant fine hairs of Rl trichocarpa. 
+Riccia beyrichiana also has marginal outgrowths, but they are much shorter, much wider and much less numerous than those of R. trichocarpa. No other Riccia species has the abundant fine hairs of R. trichocarpa. 
 
 <h2>Habitat</h2>
 
-Seasonally moist fine mineral soil, especially around seepage sites and ephemeral pools. Rare, SW &amp; SC BC. 
+Seasonally moist fine mineral soil, especially around steeper and rockier seepage sites and ephemeral pools. Uncommon to Rare, SW &amp; SC BC. 
 
 <h2>Associated species</h2>
 
-Gemmabryum barnesii, Pottia truncata, Riccia sorocarpa, Riccia beyrichiana, Riccia cavernosa, Pleuridium acuminatum, Philonotis capillaris
+Gemmabryum barnesii, Pottia truncata, Riccia sorocarpa, Riccia beyrichiana, Riccia nigrella, Riccia cavernosa, Pleuridium acuminatum, Philonotis capillaris
 </div>
 
 <div class="imerss-column-right">
@@ -69,7 +69,7 @@ setwd("taxa")
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span></span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>Feb 25, 2024</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Dec 18, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

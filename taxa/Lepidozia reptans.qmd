@@ -20,7 +20,7 @@ categories:
   <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Lepidoziaceae/Lepidozia_reptans/macro_pics/Lepidozia_reptans_FM_01.jpeg)" title="Finn McGhee">
   </div>
 
-  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/XXXXXX)" title="XXXXXX">
+  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Lepidoziaceae/Lepidozia_reptans/macro_pics/Lepidozia_reptans_JR_01.jpg)" title="John Reynolds">
   </div>
  
  </div>
@@ -49,7 +49,7 @@ XXXXXX
 
 <div class="imerss-column-right">
 
-<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="XXXXX">
+<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Lepidoziaceae/Lepidozia_reptans/macro_pics/Lepidozia_reptans_JR_02.jpg)" title="John Reynolds">
 </div>
 
 <div class="imerss-map-holder">

@@ -1,6 +1,6 @@
 ---
 title: Blasia pusilla
-image: "../img/"
+image: "../img/Liverworts/Blasiaceae/Blasia_pusilla/macro_pics/Blasia_pusilla_JR_01.jpg"
 categories:
   - Marchantiophyta
 ---
@@ -17,10 +17,10 @@ categories:
 </div>
 <div class="imerss-content-frame">
  <div class="imerss-image-header">
-  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Blasiaceae/Blasia_pusilla/macro_pics/Blasia_pusilla_JR_01.jpg)" title="John Reynolds">
   </div>
 
-  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Blasiaceae/Blasia_pusilla/macro_pics/Blasia_pusilla_BS_01.jpeg)" title="Brian Starzomski">
   </div>
  
  </div>
@@ -49,7 +49,7 @@ Dem kettles.
 
 <div class="imerss-column-right">
 
-<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Blasiaceae/Blasia_pusilla/macro_pics/Blasia_pusilla_JR_02.jpg)" title="John Reynolds">
 </div>
 
 <div class="imerss-map-holder">

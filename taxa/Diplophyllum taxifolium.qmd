@@ -1,6 +1,6 @@
 ---
 title: Diplophyllum taxifolium
-image: "../img/XXXXX"
+image: "../img/Liverworts/Scapaniaceae/Diplophyllum_taxifolium/macro_photos/Diplophyllum_taxifolium_JR_01.jpg"
 categories:
   - Marchantiophyta
 ---
@@ -17,10 +17,10 @@ categories:
 </div>
 <div class="imerss-content-frame">
  <div class="imerss-image-header">
-  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="XXXXX">
+  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Scapaniaceae/Diplophyllum_taxifolium/macro_photos/Diplophyllum_taxifolium_JR_01.jpg)" title="John Reynolds">
   </div>
 
-  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="XXXXX">
+  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Scapaniaceae/Diplophyllum_taxifolium/macro_photos/Diplophyllum_taxifolium_BJ_01.jpg)" title="Braden Judson">
   </div>
  
  </div>
@@ -49,7 +49,7 @@ Hymenoloma crispula, Kiaerea sp., Scapania amaericana, Diplophyllum albicans.
 
 <div class="imerss-column-right">
 
-<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="XXXXX">
+<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Scapaniaceae/Diplophyllum_taxifolium/macro_photos/Diplophyllum_taxifolium_JR_02.jpg)" title="John Reynolds">
 </div>
 
 <div class="imerss-map-holder">

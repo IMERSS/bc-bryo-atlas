@@ -1,6 +1,6 @@
 ---
 title: Radula bolanderi
-image: "../img/XXXXX"
+image: "../img/Liverworts/Radulaceae/Radula_bolanderi/macro_pics/Radula_bolanderi_FM_01.jpeg"
 categories:
   - Marchantiophyta
 ---
@@ -17,10 +17,10 @@ categories:
 </div>
 <div class="imerss-content-frame">
  <div class="imerss-image-header">
-  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="XXXXX">
+  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Radulaceae/Radula_bolanderi/macro_pics/Radula_bolanderi_FM_01.jpeg)" title="Finn McGhee">
   </div>
 
-  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="XXXXX">
+  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img//Radulaceae/Radula_bolanderi/macro_pics/Radula_bolanderi_EU_01.jpeg)" title="Eva Ullstrom">
   </div>
  
  </div>
@@ -49,7 +49,7 @@ Tree trunks, rock outcrops, and cliffs in the lowland, montane, and subalpine zo
 
 <div class="imerss-column-right">
 
-<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="XXXXX">
+<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Radulaceae/Radula_bolanderi/macro_pics/Radula_bolanderi_JR_01.jpg)" title="John Reynolds">
 </div>
 
 <div class="imerss-map-holder">

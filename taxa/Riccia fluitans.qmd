@@ -32,11 +32,11 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-Infrequent but abundant where it does occur, this aquatic, narrow and elongate Riccia floats in tangles of duckweed and other aquatic plants. The thallus can grow up to 3cm long and but is always very narrow (&lt;&lt;5mm) and marked by interweaving lines on its upper surface. It should be noted R. fluitans can grow in terrestrial habitats, especially those that fringe water bodies. 
+Infrequent but abundant where it does occur, this aquatic, narrow, and elongate Riccia floats in tangles of duckweed and other aquatic plants. The thallus can grow up to 3cm long but is always very narrow (&lt;5mm) and marked by interweaving lines on its upper surface. It should be noted R. fluitans can grow in terrestrial habitats, especially those that fringe water bodies. 
 
 <h2>Similar species</h2>
 
-Ricciocarpos natans is another aquatic thalloid liverwort,but it has a very wide thallus and forms rosettes, lacking the linear form of R. fluitans. Riccia rhenena, a taxon often treated as a subspecies is indistinguishable without detailed microscopy. 
+Ricciocarpos natans is another aquatic thalloid liverwort, but it has a very wide thallus and forms rosettes, lacking the linear form of R. fluitans. Riccia rhenena, a taxon often treated as a subspecies, is indistinguishable without detailed microscopy. 
 
 <h2>Habitat</h2>
 
@@ -69,7 +69,7 @@ setwd("taxa")
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span></span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>Feb 25, 2024</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Dec 18, 2024</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">

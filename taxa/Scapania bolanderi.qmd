@@ -1,6 +1,6 @@
 ---
 title: Scapania bolanderi
-image: "../img/XXXXXX"
+image: "../img/Liverworts/Scapaniaceae/Scapania_bolanderi/macro_pics/Scapania_bolanderi_JR_02.jpg"
 categories:
   - Marchantiophyta
 ---
@@ -17,10 +17,10 @@ categories:
 </div>
 <div class="imerss-content-frame">
  <div class="imerss-image-header">
-  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/XXXXXX)" title="XXXXXX">
+  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Scapaniaceae/Scapania_bolanderi/macro_pics/Scapania_bolanderi_JR_02.jpg)" title="John Reynolds">
   </div>
 
-  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/XXXXXX)" title="XXXXXX">
+  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Scapaniaceae/Scapania_bolanderi/macro_pics/Scapania_bolanderi_JR_01.jpg)" title="John Reynolds">
   </div>
  
  </div>
@@ -49,7 +49,7 @@ Dicranum fuscescens, Hypnum circinale, Isothecium stoloniferum, Tetraphis pelluc
 
 <div class="imerss-column-right">
 
-<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="XXXXX">
+<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Scapaniaceae/Scapania_bolanderi/macro_pics/Scapania_bolanderi_RM_01.jpeg)" title="Randal Mindell">
 </div>
 
 <div class="imerss-map-holder">
