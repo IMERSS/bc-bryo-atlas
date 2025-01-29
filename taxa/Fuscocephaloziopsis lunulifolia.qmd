@@ -49,7 +49,7 @@ XXXXXX
 
 <div class="imerss-column-right">
 
-<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Cephaloziellaceae/Fuscocephaloziopsia_lunulifolia/plates/Fuscocephaloziopsis_lunulifolia_RM_01_plate.jpg)" title="Randal Mindell">
+<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Cephaloziaceae/Fuscocephaloziopsia_lunulifolia/plates/Fuscocephaloziopsis_lunulifolia_RM_01_plate.jpg)" title="Randal Mindell">
 </div>
 
 <div class="imerss-map-holder">

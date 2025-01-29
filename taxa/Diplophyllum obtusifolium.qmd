@@ -20,7 +20,7 @@ categories:
   <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Scapaniaceae/Diplophyllum_obtusifolium/macro_pics/Diplophyllum_obtusifolium_JR_01.jpg)" title="John Reynolds">
   </div>
 
-  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img//Users/johnreynolds/Library/CloudStorage/GoogleDrive-reynolds@sfu.ca/.shortcut-targets-by-id/1vNK76M7G6FTB22KxV21eYycwySg-ZAb1/BC Bryophyte Guide/Pictures_&amp;_Plates/Online/Liverworts/Scapaniaceae/Diplophyllum_obtusifolium/macro_pics/Diplophyllum_obtusifolium_CW_01.jpeg)" title="XXXXX">
+  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Scapaniaceae/Diplophyllum_obtusifolium/macro_pics/Diplophyllum_obtusifolium_CW_01.jpeg)" title="Connor Wardrop">
   </div>
  
  </div>
@@ -49,7 +49,7 @@ Jungermannia rubra, Ditrichum heteromallum, Dicranum sp.
 
 <div class="imerss-column-right">
 
-<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="XXXXX">
+<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Scapaniaceae/Diplophyllum_obtusifolium/macro_pics/Diplophyllum_obtusifolium_RM_01.jpeg)" title="Randal Mindell">
 </div>
 
 <div class="imerss-map-holder">

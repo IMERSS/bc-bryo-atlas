@@ -1,6 +1,6 @@
 ---
 title: Scapania umbrosa
-image: "../img/XXXXXX"
+image: "../img/Liverworts/Scapaniaceae/Scapania_umbrosa/macro_pics/Scapania_umbrosa_CW_01.jpeg"
 categories:
   - Marchantiophyta
 ---
@@ -17,10 +17,10 @@ categories:
 </div>
 <div class="imerss-content-frame">
  <div class="imerss-image-header">
-  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/XXXXXX)" title="XXXXXX">
+  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Scapaniaceae/Scapania_umbrosa/macro_pics/Scapania_umbrosa_CW_01.jpeg)" title="Connor Wardrop">
   </div>
 
-  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/XXXXXX)" title="XXXXXX">
+  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Scapaniaceae/Scapania_umbrosa/macro_pics/Scapania_umbrosa_JR_01.jpg)" title="John Reynolds">
   </div>
  
  </div>
@@ -49,7 +49,7 @@ Cephalozia bicuspidata, Fuscocephaloziopsis sp., Lepidozia reptans, Riccardia sp
 
 <div class="imerss-column-right">
 
-<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="XXXXX">
+<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Scapaniaceae/Scapania_umbrosa/macro_pics/Scapania_umbrosa_CF_01.jpeg)" title="Chris Fluit">
 </div>
 
 <div class="imerss-map-holder">

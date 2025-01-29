@@ -1,6 +1,6 @@
 ---
 title: Metzgeria pubescens
-image: "../img/XXXXX"
+image: "../img/Liverworts/Metzgeriaceae/Metzgeria_pubescens/Metzgeria_pubescens_JF_01.jpg"
 categories:
   - Marchantiophyta
 ---
@@ -17,10 +17,10 @@ categories:
 </div>
 <div class="imerss-content-frame">
  <div class="imerss-image-header">
-  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="XXXXX">
+  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Metzgeriaceae/Metzgeria_pubescens/Metzgeria_pubescens_JF_01.jpg)" title="Jamie Fenneman">
   </div>
 
-  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="XXXXX">
+  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Metzgeriaceae/Metzgeria_pubescens/Metzgeria_pubescens_BS_01.jpeg)" title="Brian Starzomski">
   </div>
  
  </div>
@@ -49,7 +49,7 @@ Dry to moist, usually shady rock outcrops, cliffs, boulders, tree trunks, and de
 
 <div class="imerss-column-right">
 
-<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="XXXXX">
+<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Metzgeriaceae/Metzgeria_pubescens/Metzgeria_pubescens_JR_01.jpg)" title="John Reynolds">
 </div>
 
 <div class="imerss-map-holder">
