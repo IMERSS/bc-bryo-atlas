@@ -1,6 +1,6 @@
 ---
 title: Lunularia cruciata
-image: "../img/"
+image: "../img/Liverworts/Lunulariaceae/Lunularia cruciata/macro_pics/Lunularia_cruciata_JR_01.jpg"
 categories:
   - Marchantiophyta
 ---
@@ -17,10 +17,10 @@ categories:
 </div>
 <div class="imerss-content-frame">
  <div class="imerss-image-header">
-  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Lunulariaceae/Lunularia cruciata/macro_pics/Lunularia_cruciata_JR_01.jpg)" title="John Reynolds">
   </div>
 
-  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Lunulariaceae/Lunularia cruciata/macro_pics/Lunularia_cruciata_BS_01.jpeg)" title="John Reynolds">
   </div>
  
  </div>
@@ -49,7 +49,7 @@ When gemmae cups are present, L. cruciata can only be mistaken for Marchantia po
 
 <div class="imerss-column-right">
 
-<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/)" title="">
+<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Liverworts/Lunulariaceae/Lunularia cruciata/macro_pics/Lunularia_cruciata_NE_01.jpg)" title="Nathan Earley">
 </div>
 
 <div class="imerss-map-holder">

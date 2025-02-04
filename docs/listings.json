@@ -1,21 +1,5 @@
 [
   {
-    "listing": "/mosses.html",
-    "items": [
-      "/taxa/Claopodium bolanderi.html",
-      "/taxa/Claopodium crispifolium.html",
-      "/taxa/Crumia latifolia.html",
-      "/taxa/Dicranum tauricum.html",
-      "/taxa/Hylocomium splendens.html",
-      "/taxa/Kindbergia oregana.html",
-      "/taxa/Pseudotaxiphyllum elegans.html",
-      "/taxa/Racomitrium lanuginosum.html",
-      "/taxa/Rhizomnium glabrescens.html",
-      "/taxa/Rhytidiadelphus loreus.html",
-      "/taxa/Vinealobryum norrisii.html"
-    ]
-  },
-  {
     "listing": "/hornworts.html",
     "items": [
       "/taxa/Anthoceros fusiformis.html",
@@ -232,6 +216,22 @@
       "/taxa/Targionia hypophylla.html",
       "/taxa/Tetralophozia filiformis.html",
       "/taxa/Tetralophozia setiformis.html"
+    ]
+  },
+  {
+    "listing": "/mosses.html",
+    "items": [
+      "/taxa/Claopodium bolanderi.html",
+      "/taxa/Claopodium crispifolium.html",
+      "/taxa/Crumia latifolia.html",
+      "/taxa/Dicranum tauricum.html",
+      "/taxa/Hylocomium splendens.html",
+      "/taxa/Kindbergia oregana.html",
+      "/taxa/Pseudotaxiphyllum elegans.html",
+      "/taxa/Racomitrium lanuginosum.html",
+      "/taxa/Rhizomnium glabrescens.html",
+      "/taxa/Rhytidiadelphus loreus.html",
+      "/taxa/Vinealobryum norrisii.html"
     ]
   }
 ]
