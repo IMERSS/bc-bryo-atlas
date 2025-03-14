@@ -1,26 +1,26 @@
 ---
 title: Rhizomnium glabrescens
-image: "../img/Mosses/Mniaceae/Rhizomnium_glabrescens/macro_pics/Rhizomnium_glabrescens_JR_01.jpg"
+image: "../img/"
 categories:
   - Bryophyta
 ---
 
 <div class="info-panel">
  <div class="info-top">
-  <div class="taxon-scientific"><span class="taxon-name">Rhizomnium glabrescens</span> <span class="taxon-authority">XXXXXX</span> <span class="taxon-family">(Mniaceae)</span></div>
-  <div class="taxon-common">Fan Moss</div>
+  <div class="taxon-scientific"><span class="taxon-name">Rhizomnium glabrescens</span> <span class="taxon-authority">(Kindb.) T.J.Kop.</span> <span class="taxon-family">(Mniaceae)</span></div>
+  <div class="taxon-common"></div>
  </div>
  <div class="info-bottom">
-  <div class="taxon-qnd">Shiny happy fan leaves </div>
-  <div class="taxon-abundance">XXXXXX</div>
+  <div class="taxon-qnd"></div>
+  <div class="taxon-abundance"></div>
  </div>
 </div>
 <div class="imerss-content-frame">
  <div class="imerss-image-header">
-  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/Mosses/Mniaceae/Rhizomnium_glabrescens/macro_pics/Rhizomnium_glabrescens_JR_01.jpg)" title="John Reynolds">
+  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/)" title="">
   </div>
 
-  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Mosses/Mniaceae/Rhizomnium_glabrescens/macro_pics/Rhizomnium_glabrescens_JR_02.jpg)" title="John Reynolds">
+  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/)" title="">
   </div>
  
  </div>
@@ -32,24 +32,24 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-A common yellowish-green to more often green moss that may grow in large clumps. When fresh with large, oval to near rounded leaves, shiny with a strong mid-vein and smooth margins. Has smooth red stems, and where present drooping sporophytes. When dry the leaves take on a darker green, more translucent habit. 
+
 
 <h2>Similar species</h2>
 
-Plagiomnium and Mnium are similar but they have toothed leaves. Rhizomnium magnifolium is the most similar but has hairy stems and bigger leaves.
+
 
 <h2>Habitat</h2>
 
-Rotting wood, soil, and rock with thin soil, in coniferous forests, most frequently at low elevations but extending to near alpine. Common especially in coastal areas and also in wet interior regions.
+
 
 <h2>Associated species</h2>
 
-Tetraphis pellucida, Scapania bolanderi, Pseudotaxaphyllum elegans, Plagiothecium undulatum
+
 </div>
 
 <div class="imerss-column-right">
 
-<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Mosses/Mniaceae/Rhizomnium_glabrescens/macro_pics/Rhizomnium_glabrescens_JR_03.jpg)" title="John Reynolds">
+<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/)" title="">
 </div>
 
 <div class="imerss-map-holder">
@@ -69,7 +69,7 @@ setwd("taxa")
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span></span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>Feb 23, 2024</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Feb 7, 2025</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">
@@ -82,7 +82,7 @@ setwd("taxa")
    <button class="modal__close" aria-label="Close" data-micromodal-close></button>
    </header>
   <div class="modal__content" id="modal-plate-content">
-   <div class="imerss-image-holder" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="XXXXX">
+   <div class="imerss-image-holder" data-toggle="tooltip" style="background-image: url(../img/)" title="">
   </div>
   </div>
   </div>

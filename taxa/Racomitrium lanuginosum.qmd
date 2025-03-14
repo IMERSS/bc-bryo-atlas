@@ -1,26 +1,26 @@
 ---
 title: Racomitrium lanuginosum
-image: "../img/Mosses/Grimmiaceae/Racomitrium_lanuginosum/macro_pics/Racomitrium_lanuginosum_BS_01.jpeg"
+image: "../img/"
 categories:
   - Bryophyta
 ---
 
 <div class="info-panel">
  <div class="info-top">
-  <div class="taxon-scientific"><span class="taxon-name">Racomitrium lanuginosum</span> <span class="taxon-authority">XXXXXX</span> <span class="taxon-family">(Grimmiaceae)</span></div>
-  <div class="taxon-common">Woolly Rock-Moss</div>
+  <div class="taxon-scientific"><span class="taxon-name">Racomitrium lanuginosum</span> <span class="taxon-authority">(Hedw.) Brid.</span> <span class="taxon-family">(Grimmiaceae)</span></div>
+  <div class="taxon-common"></div>
  </div>
  <div class="info-bottom">
-  <div class="taxon-qnd">Grey and frosty on rock </div>
-  <div class="taxon-abundance">XXXXXX</div>
+  <div class="taxon-qnd"></div>
+  <div class="taxon-abundance"></div>
  </div>
 </div>
 <div class="imerss-content-frame">
  <div class="imerss-image-header">
-  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/Mosses/Grimmiaceae/Racomitrium_lanuginosum/macro_pics/Racomitrium_lanuginosum_BS_01.jpeg)" title="Brian Starzomski">
+  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/)" title="">
   </div>
 
-  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Mosses/Grimmiaceae/Racomitrium_lanuginosum/macro_pics/Racomitrium_lanuginosum_JR_01.jpg)" title="John Reynolds">
+  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/)" title="">
   </div>
  
  </div>
@@ -32,24 +32,24 @@ categories:
 
 <h2>Distinguishing Features</h2>
 
-Exceedingly common in open habitats, this is a large grey-green carpet-forming moss. It is immediately recognizable by a grey frosted appearance when dry due to its long white-tipped, and coarsely toothed leaves borne on upright and variously branched shoots.
+
 
 <h2>Similar species</h2>
 
-Other rock mosses in the Grimmiaceae are similar but differ in the size and organization of the shoots. Members of the Genus Grimmia are usually smaller and grow in orderly cushions over rock. Other species of Racomitrium (R. elongatum, R. ericoides, R. muticum, and R. canescens) are similar in growth form but the large serrated teeth on the leaf tips of R. lanuginosum separate it from all others.
+
 
 <h2>Habitat</h2>
 
-Dry, open, rocky habitats; also bog and tundra hummocks, and mineral soil from lowlands to alpine; common in coastal BC, infrequent elsewhere east of the Coast-Cascade Mts. [except absent from ne BC east of the Rocky Mountains].
+
 
 <h2>Associated species</h2>
 
-Depends on habitat but in rocky areas commonly with Racomitrium elongatum, R. heterostichum, Polytrichum piliferum, P. juniperinum, P. commune, Dicranum howellii, D. scoparium; in bogs Sphagnum.
+
 </div>
 
 <div class="imerss-column-right">
 
-<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Mosses/Grimmiaceae/Racomitrium_lanuginosum/macro_pics/Racomitrium_lanuginosum_IC_01.jpeg)" title="Ian Cruickshank">
+<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/)" title="">
 </div>
 
 <div class="imerss-map-holder">
@@ -69,7 +69,7 @@ setwd("taxa")
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span></span></div>
- <div class="taxon-update"><b>Last updated:</b> <span>Feb 23, 2024</span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>Feb 7, 2025</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">
@@ -82,7 +82,7 @@ setwd("taxa")
    <button class="modal__close" aria-label="Close" data-micromodal-close></button>
    </header>
   <div class="modal__content" id="modal-plate-content">
-   <div class="imerss-image-holder" data-toggle="tooltip" style="background-image: url(../img/XXXXX)" title="XXXXX">
+   <div class="imerss-image-holder" data-toggle="tooltip" style="background-image: url(../img/)" title="">
   </div>
   </div>
   </div>
