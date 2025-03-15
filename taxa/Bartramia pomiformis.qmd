@@ -1,6 +1,6 @@
 ---
 title: Bartramia pomiformis
-image: "../img/Mosses/Bartramiaceae/Bartramia_pomiformis/macro_pics/BARTPOM_eullstrom_iNat_01_CC0.jpeg'"
+image: "../img/Mosses/Bartramiaceae/Bartramia_pomiformis/macro_pics/BARTPOM_eullstrom_iNat_01_CC0.jpeg"
 categories:
   - Bryophyta
 ---
@@ -17,10 +17,10 @@ categories:
 </div>
 <div class="imerss-content-frame">
  <div class="imerss-image-header">
-  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/Mosses/Bartramiaceae/Bartramia_pomiformis/macro_pics/BARTPOM_eullstrom_iNat_01_CC0.jpeg')" title="Eva Ullstrom">
+  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/Mosses/Bartramiaceae/Bartramia_pomiformis/macro_pics/BARTPOM_eullstrom_iNat_01_CC0.jpeg)" title="Eva Ullstrom">
   </div>
 
-  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Mosses/Bartramiaceae/Bartramia_pomiformis/macro_pics/Bartramia_pomiformis_RM_01.jpeg')" title="Randal Mindell">
+  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Mosses/Bartramiaceae/Bartramia_pomiformis/macro_pics/Bartramia_pomiformis_RM_01.jpeg)" title="Randal Mindell">
   </div>
  
  </div>
@@ -49,7 +49,7 @@ categories:
 
 <div class="imerss-column-right">
 
-<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Mosses/Bartramiaceae/Bartramia_pomiformis/macro_pics/Bartramia_pomiformis_JR_01.jpg')" title="John Reynolds">
+<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Mosses/Bartramiaceae/Bartramia_pomiformis/macro_pics/Bartramia_pomiformis_JR_01.jpg)" title="John Reynolds">
 </div>
 
 <div class="imerss-map-holder">

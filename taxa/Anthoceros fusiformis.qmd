@@ -1,6 +1,6 @@
 ---
 title: Anthoceros fusiformis
-image: "../img/Hornworts/Anthocerotaceae/Anthoceros_fusiformis/Anthoceros_fusiformis-BJJ1.jpeg"
+image: "../img/Hornworts/Anthocerotaceae/Anthoceros_fusiformis/macro_pics/Anthoceros_fusiformis-BJJ1.jpeg"
 categories:
   - Anthocerotophyta
 ---
@@ -17,10 +17,10 @@ categories:
 </div>
 <div class="imerss-content-frame">
  <div class="imerss-image-header">
-  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/Hornworts/Anthocerotaceae/Anthoceros_fusiformis/Anthoceros_fusiformis-BJJ1.jpeg)" title="Braden Judson">
+  <div class="imerss-image-holder imerss-column-left" data-toggle="tooltip" style="background-image: url(../img/Hornworts/Anthocerotaceae/Anthoceros_fusiformis/macro_pics/Anthoceros_fusiformis-BJJ1.jpeg)" title="Braden Judson">
   </div>
 
-  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Hornworts/Anthocerotaceae/Anthoceros_fusiformis/Anthoceros_fusiformis-BJJ.jpeg)" title="Braden Judson">
+  <div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Hornworts/Anthocerotaceae/Anthoceros_fusiformis/macro_pics/Anthoceros_fusiformis-BJJ.jpeg)" title="Braden Judson">
   </div>
  
  </div>
@@ -49,7 +49,7 @@ Fissidens crispus, Fissidens bryoides, Timmiella crassinervis, Rosulabryum canar
 
 <div class="imerss-column-right">
 
-<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Hornworts/Anthocerotaceae/Anthoceros_fusiformis/Anthoceros_fusiformis-BJJ2.jpeg)" title="Braden Judson">
+<div class="imerss-image-holder imerss-column-right" data-toggle="tooltip" style="background-image: url(../img/Hornworts/Anthocerotaceae/Anthoceros_fusiformis/macro_pics/Anthoceros_fusiformis-BJJ2.jpeg)" title="Braden Judson">
 </div>
 
 <div class="imerss-map-holder">
