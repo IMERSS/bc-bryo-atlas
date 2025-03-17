@@ -38,8 +38,13 @@ if (render_all) {
     writeLines(str_glue("Written {nchar(templated)} bytes to file {filename}"))
   }
   
+  unlink("taxa/*.qmd")
+  
   for (i in seq_len(nrow(taxa))) {
-    make_page(taxa[i,])
+    row <- taxa[i,]
+    if (row$generate == "yes") {
+      make_page(row)
+    }
   }
 } else {
   cat("Not rendering all files, skipping site generation")

@@ -69,7 +69,7 @@ setwd("taxa")
 
 <div class="taxon-footer">
  <div class="taxon-authors"><b>Authors:</b> <span></span></div>
- <div class="taxon-update"><b>Last updated:</b> <span></span></div>
+ <div class="taxon-update"><b>Last updated:</b> <span>?</span></div>
 </div>
 
 <div class="modal micromodal-slide" id="modal-plate" aria-hidden="true">
